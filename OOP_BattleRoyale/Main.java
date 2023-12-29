@@ -1,5 +1,6 @@
 package OOP_BattleRoyale;
-import OOP_BattleRoyale.Window.Window;
+import OOP_BattleRoyale.Window.*;
+import OOP_BattleRoyale.Methods.*;
 
 public class Main {
     public static void main(String [] args) {
@@ -7,7 +8,7 @@ public class Main {
             System.out.println("Program started.");
 
             Window ventana = new Window();
-            ventana.setVisible(true);
+            //ventana.setVisible(true);
             
             /* SwingUtilities.invokeLater(new Runnable() {
                 public void run() {
