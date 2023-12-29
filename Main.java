@@ -1,13 +1,21 @@
-// Import the folders in the current directory
+import Methods.*;
 import Window.*;
-import Players.*;
-import Fights.*;
 
 public class Main {
     public static void main(String [] args) {
         try {
             System.out.println("Program started.");
+
+            int human, ai; // Number of human and AI players
+
+            Window ventana = new Window();
+            ventana.setVisible(true);
             
+            /* SwingUtilities.invokeLater(new Runnable() {
+                public void run() {
+                    new Window().setVisible(true);
+                }
+            }); */
         } catch(Exception e) {
             System.out.println("An error occurred.");
         } finally {

@@ -61,9 +61,12 @@ public class Game {
             System.out.println(players[randP1].character + " used " + players[randP1].moveName);
             System.out.println("(" + players[randP2].character + " lost " + 
                 damageCalculator(players, randP1, randP2) * 100 / players[randP2].HP + "% of its health!)");
+
+            players[randP2].currentHP -= Integer.parseInt(damageCalculator(players, randP1, randP2));
             
-            if(damageCalculator(players, randP1, randP2) > players[randP2].HP) {
-                
+            if(players[randP2].currentHP < 0) {
+                // churro
+                break;
             } // end if condition
         } else { 
 

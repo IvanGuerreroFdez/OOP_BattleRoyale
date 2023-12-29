@@ -1,4 +1,4 @@
-package OOP_BattleRoyale.Window;
+package Window;
 
 import javax.swing.*;
 import java.awt.*;

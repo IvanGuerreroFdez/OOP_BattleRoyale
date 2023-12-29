@@ -1,3 +1,26 @@
-Soldier,60,150,50,150,50,60
-Archer,90,90,90,90,90,90
-Wizard,50,50,50,135,135,135
+Venusaur,Grass,80,82,83,100,100,80,Energy Ball,90,0,true
+Charizard,Fire,78,84,78,109,85,100,Flamethrower,90,0,true
+Blastoise,Water,79,83,100,85,105,78,Hydro Pump,110,0,true
+Meganium,Grass,80,82,100,83,100,80,Energy Ball,90,0,true
+Typhlosion,Fire,78,84,78,109,85,100,Flamethrower,90,0,true
+Feraligatr,Water,85,105,100,79,83,78,Waterfall,80,0,false
+Swampert,Water,100,110,90,85,90,60,Muddy Water,90,0,true
+Torterra,Grass,95,109,105,75,85,56,Seed Bomb,80,0,false
+Infernape,Fire,76,104,71,104,71,108,Flare Blitz,120,0,false
+Empoleon,Water,84,86,88,111,101,60,Hydro Pump,110,0,true
+Serperior,Grass,75,75,95,75,95,113,Leaf Blade,90,0,false
+Emboar,Fire,110,123,65,100,65,65,Flare Blitz,120,0,false
+Samurott,Water,95,100,85,108,70,70,Hydro Pump,110,0,true
+Chesnaught,Grass,88,107,122,74,75,64,Seed Bomb,80,0,false
+Delphox,Fire,75,69,72,114,100,104,Flamethrower,90,0,true
+Greninja,Water,72,95,67,103,71,122,Water Shuriken,75,+1,true
+Decidueye,Grass,78,107,75,100,100,70,Leaf Blade,90,0,false
+Incineroar,Fire,95,115,90,80,90,60,Flare Blitz,120,0,false
+Primarina,Water,80,74,74,126,116,60,Hydro Pump,110,0,true
+Rillaboom,Grass,100,125,90,60,70,85,Drum Beating,80,0,false
+Cinderace,Fire,80,116,75,65,75,119,Pyro Ball,120,0,false
+Inteleon,Water,70,85,65,125,65,120,Snipe Shot,80,0,true
+Meowscarada,Grass,76,110,70,81,70,123,Flower Trick,70,0,false
+Skeledirge,Fire,104,75,100,110,75,66,Torch Song,80,0,true
+Quaquaval,Water,85,120,80,85,75,85,Aqua Step,80,0,false
+Name,Type,HP,Atk,Def,SpA,SpD,Spe,Move Name,Move Power,Move Priority,Ph/Sp (Phisical/Special) // true if Sp
