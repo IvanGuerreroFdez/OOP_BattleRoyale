@@ -1,5 +1,7 @@
-package Methods;
-import Player;
+package ProjFin.OOP_BattleRoyale;
+//package ProjFin.OOP_BattleRoyale.Methods;
+
+import ProjFin.OOP_BattleRoyale.*;
 
 public class TurnOrder {
     public void turnOrder(Player[] players) {

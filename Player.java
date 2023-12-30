@@ -1,9 +1,10 @@
+package ProjFin.OOP_BattleRoyale;
 public class Player {
     public String character, type;
     public int HP, Atk, Def, SpA, SpD, Spe, currentHP; // Health Points, Attack, Defense, Special Attack, Special Defense, Speed
     public String moveName;
     public int movePower, priority;
-    boolean SpAttacker;
+    public boolean SpAttacker;
 
     public Player(String character, String type, int HP, int Atk, int Def, int SpA, int SpD, 
         int Spe, String moveName, int movePower, int priority, boolean SpAttacker) {

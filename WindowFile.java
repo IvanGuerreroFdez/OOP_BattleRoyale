@@ -1,13 +1,14 @@
-package Window;
+package ProjFin.OOP_BattleRoyale;
+//package ProjFin.OOP_BattleRoyale.Window;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Window extends JFrame {
+public class WindowFile extends JFrame {
     private int human, ai; // Number of players
 
-    public Window() {
+    public WindowFile() {
         setTitle("Player Input");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(450, 350);

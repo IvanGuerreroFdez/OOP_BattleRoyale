@@ -1,5 +1,7 @@
-import Methods.*;
-import Window.*;
+package ProjFin.OOP_BattleRoyale;
+
+/* import ProjFin.OOP_BattleRoyale.Methods.*;
+import ProjFin.OOP_BattleRoyale.Window.*; */
 
 public class Main {
     public static void main(String [] args) {
@@ -8,7 +10,7 @@ public class Main {
 
             int human, ai; // Number of human and AI players
 
-            Window ventana = new Window();
+            WindowFile ventana = new WindowFile();
             ventana.setVisible(true);
             
             /* SwingUtilities.invokeLater(new Runnable() {
