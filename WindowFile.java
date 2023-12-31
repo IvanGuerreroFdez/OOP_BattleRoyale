@@ -1,4 +1,4 @@
-package ProjFin.OOP_BattleRoyale;
+//package ProjFin.OOP_BattleRoyale;
 //package ProjFin.OOP_BattleRoyale.Window;
 
 import javax.swing.*;
@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class WindowFile extends JFrame {
-    private int human, ai; // Number of players
+    public int human, ai; // Number of players (need to be accessed from Main)
 
     public WindowFile() {
         setTitle("Player Input");

@@ -4,11 +4,10 @@ public class Player {
     public int HP, Atk, Def, SpA, SpD, Spe, currentHP; // Health Points, Attack, Defense, Special Attack, Special Defense, Speed
     public String moveName;
     public int movePower, priority;
-    public boolean SpAttacker;
 
     public Player(String character, String playerName, String type, 
         int HP, int Atk, int Def, int SpA, int SpD, int Spe, 
-        String moveName, int movePower, int priority, boolean SpAttacker) {
+        String moveName, int movePower, int priority) {
         this.character = character;
         this.playerName = playerName;
         this.type = type;
@@ -20,11 +19,10 @@ public class Player {
         this.SpA = ((2 * SpA) * 50 / 100) + 5; // ((2 * base) * lvl / 100) + 5
         this.SpD = ((2 * SpD) * 50 / 100) + 5; // ((2 * base) * lvl / 100) + 5
         this.Spe = ((2 * Spe) * 50 / 100) + 5; // ((2 * base) * lvl / 100) + 5
-        
+
         this.moveName = moveName;
         this.movePower = movePower;
         this.priority = priority;
-        this.SpAttacker = SpAttacker;
         this.currentHP = this.HP;
     } // end of Player
 } // end of Player

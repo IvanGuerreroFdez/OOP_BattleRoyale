@@ -1,29 +1,41 @@
-//package ProjFin.OOP_BattleRoyale;
-import java.lang.Math;
-
-/* import ProjFin.OOP_BattleRoyale.Methods.*;
-import ProjFin.OOP_BattleRoyale.Window.*; */
+import java.io.*;
+import java.util.*;
 
 public class Main {
     public static void main(String [] args) {
         try {
             System.out.println("Program started.");
 
-            //int human, ai; // Number of human and AI players
+            File characterData = new File("CharacterData.csv");
 
-            /* WindowFile ventana = new WindowFile();
-            ventana.setVisible(true); */
+            WindowFile ventana = new WindowFile();
+            ventana.setVisible(true);
 
-            /* double p1 = 5.5, p2 = 2.7, p3 = 7.1;
-            System.out.println(Math.round(p1));
-            System.out.println(Math.round(p2));
-            System.out.println(Math.round(p3)); */
+            // ABRIR LOG.TXT
+            // CREAR ARRAY PLAYERS
             
-            /* SwingUtilities.invokeLater(new Runnable() {
-                public void run() {
-                    new Window().setVisible(true);
-                }
-            }); */
+            // Importar numero de jugadores desde la ventana (imagino que ventana.human y ventana.ai)
+            Player[] players = new Player[ventana.human + ventana.ai];
+
+            int i = 0;
+            for(; i < ventana.human; i++) {
+                // New character selection window
+                // Assign to array
+                players[i] = new Player(/* insert data here */);
+            } // end for loop
+
+            for(; i < ventana.human + ventana.ai; i++) { // Selects random for 
+                
+            } // end for loop
+
+            // PREFERIBLE INVOCAR LAS FUNCIONES DESDE AQUI
+
+            // Dejar esto comentado para pruebas (comentar con shift + alt + A)
+            // Cambiar para hacer pruebas a eleccion
+            Player j2 = new Player("Greninja", "Kaaxerd", "Water", 72, 95, 67, 103, 71, 122, "Water Shuriken", 75, +1);
+            Player j1 = new Player("Infernape", null, "Fire", 76, 104, 71, 104, 71, 108, "Flare Blitz", 120, 0);
+            Game.turn(j1, j2);
+
         } catch(Exception e) {
             System.out.println("An error occurred.");
         } finally {
