@@ -1,4 +1,5 @@
-package ProjFin.OOP_BattleRoyale;
+//package ProjFin.OOP_BattleRoyale;
+import java.lang.Math;
 
 /* import ProjFin.OOP_BattleRoyale.Methods.*;
 import ProjFin.OOP_BattleRoyale.Window.*; */
@@ -8,10 +9,15 @@ public class Main {
         try {
             System.out.println("Program started.");
 
-            int human, ai; // Number of human and AI players
+            //int human, ai; // Number of human and AI players
 
-            WindowFile ventana = new WindowFile();
-            ventana.setVisible(true);
+            /* WindowFile ventana = new WindowFile();
+            ventana.setVisible(true); */
+
+            /* double p1 = 5.5, p2 = 2.7, p3 = 7.1;
+            System.out.println(Math.round(p1));
+            System.out.println(Math.round(p2));
+            System.out.println(Math.round(p3)); */
             
             /* SwingUtilities.invokeLater(new Runnable() {
                 public void run() {
