@@ -5,119 +5,217 @@ import java.io.File;
 import java.util.Random;
 
 public class Game {
-    public static long damageCalculator(Player[] players, int attacker, int receiver) { // Calculates the damage of a move
+    public static long damageCalculator(Player attacker, Player receiver) { // Calculates the damage of a move
         Random rn = new Random();
         double random = rn.nextDouble(1 - 0.85) + 0.85;
         int atk, def;
         double type = 1.0;
 
-        if(players[attacker].SpAttacker) {
-            atk = players[attacker].SpA;
-        } else {
-            atk = players[attacker].Atk;
+        if(attacker.SpAttacker) { // Checks if attacker is a special attacker
+            atk = attacker.SpA;
+            def = receiver.SpD; // Special defense is used in calcs
+        } else { // If physical attacker
+            atk = attacker.Atk;
+            def = receiver.Def; // Physical defense is used in calcs
         } // end if else conditions
 
-        if(players[receiver].SpD > players[receiver].Def) {
-            def = players[receiver].SpD;
-        } else {
-            def = players[receiver].Def;
-        } // end if else conditions
-
-        if(players[attacker].type == players[receiver].type) { // Same type --> not very effective
+        // Checks the type of both
+        if(attacker.type == receiver.type) { // Same type --> not very effective
             type = 0.5;
         } else {
-            if(players[attacker].type == "Grass") {
-                if(players[receiver].type == "Fire") { // Super effective
+            if(attacker.type == "Grass") {
+                if(receiver.type == "Fire") { // Super effective
                     type = 2;
-                } else if(players[receiver].type == "Water") { // Not very effective
+                } else if(receiver.type == "Water") { // Not very effective
                     type = 0.5;
                 } // end if else if conditions
-            } else if(players[attacker].type == "Fire") {
-                if(players[receiver].type == "Grass") { // Super effective
+            } else if(attacker.type == "Fire") {
+                if(receiver.type == "Grass") { // Super effective
                     type = 2;
-                } else if(players[receiver].type == "Water") { // Not very effective
+                } else if(receiver.type == "Water") { // Not very effective
                     type = 0.5;
                 } // end if else if conditions
-            } else if(players[attacker].type == "Water") {
-                if(players[receiver].type == "Fire") { // Super effective
+            } else if(attacker.type == "Water") {
+                if(receiver.type == "Fire") { // Super effective
                     type = 2;
-                } else if(players[receiver].type == "Grass") { // Not very effective
+                } else if(receiver.type == "Grass") { // Not very effective
                     type = 0.5;
                 } // end if else if conditions
             } // end if, else if x2 conditions
         } // end if else conditions
 
-        return Math.round(((((2 * 50 / 5 + 2) * players[attacker].movePower * atk / def) / 50 + 2) * random * 1.5 * type));
+        return Math.round(((((2 * 50 / 5 + 2) * attacker.movePower * atk / def) / 50 + 2) * random * 1.5 * type));
+        // Final damage is given as double, but we want an int
     } // end of damageCalculator
 
-    public static int turn(Player[] players, int turn, File f) {
-        // From the array of players select two
-        Random rn = new Random();
-        int randP1 = rn.nextInt(27 - 1) + 1;
-        int randP2 = rn.nextInt(27 - 1) + 1;
-
+    public static int turn(Player p1, Player p2, File f) {
         // Compares if some of the players is human (checking names)
-        if(players[randP1].playerName != null && players[randP2].playerName != null) { // Both players are human
-            System.out.printf("%s (%s) vs. %s (%s).\n", players[randP1].playerName, players[randP1].character, players[randP2].playerName, players[randP2].character);
+        if(p1.playerName != null && p2.playerName != null) { // Both players are human
+            System.out.printf("%s (%s) vs. %s (%s).\n", p1.playerName, p1.character, p2.playerName, p2.character);
             System.out.println("BATTLE BEGIN!");
-        } else if(players[randP1].playerName != null && players[randP2].playerName == null) { // 1st is human, 2nd is not
-            System.out.printf("%s (%s) vs. %s.\n", players[randP1].playerName, players[randP1].character, players[randP2].character);
+        } else if(p1.playerName != null && p2.playerName == null) { // 1st is human, 2nd is not
+            System.out.printf("%s (%s) vs. %s.\n", p1.playerName, p1.character, p2.character);
             System.out.println("BATTLE BEGIN!");
-        } else if(players[randP1].playerName == null && players[randP2].playerName != null) { // 1st is not human, 2nd is
-            System.out.printf("%s vs. %s (%s).\n", players[randP1].character, players[randP2].playerName, players[randP2].character);
+        } else if(p1.playerName == null && p2.playerName != null) { // 1st is not human, 2nd is
+            System.out.printf("%s vs. %s (%s).\n", p1.character, p2.playerName, p2.character);
             System.out.println("BATTLE BEGIN!");
         } else {
-            System.out.println(players[randP1].character + " vs. " + players[randP2].character + ".");
+            System.out.println(p1.character + " vs. " + p2.character + ".");
             System.out.println("BATTLE BEGIN!");
         } // end if, else if x2, else condition
 
         int damage;
 
-        // Compares the speed
-        if(players[randP1].Spe > players[randP2].Spe) { // 1st is faster than 2nd
-            System.out.println(players[randP1].character + " used " + players[randP1].moveName);
+        // Compares priority
+        if(p1.priority > p2.priority) { // 1st has a move with priority --> attacks first
+            System.out.println(p1.character + " used " + p1.moveName);
 
-            damage = (int) damageCalculator(players, randP1, randP2); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
-            players[randP2].currentHP -= damage; // Damage is substracted from current HP
+            damage = (int) damageCalculator(p1, p2); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+            p2.currentHP -= damage; // Damage is substracted from current HP
 
-            System.out.println("(" + players[randP2].character + " lost " + damage * 100 / players[randP2].HP + "% of its health!)");
+            System.out.println("(" + p2.character + " lost " + damage * 100 / p2.HP + "% of its health!)");
             
-            if(players[randP2].currentHP < 0) { // If the character that recieved the damage has fainted
+            if(p2.currentHP < 0) { // If the character that recieved the damage has fainted
                 // Compares if the 2nd player is human (checking names) to show the corresponding message
-                if(players[randP2].playerName != null) {
-                    System.out.printf("%s (%s) fainted!", players[randP2].playerName, players[randP2].character);
+                if(p2.playerName != null) {
+                    System.out.printf("%s (%s) fainted!", p2.playerName, p2.character);
                 } else {
-                    System.out.println(players[randP2].character + "fainted!");
+                    System.out.println(p2.character + "fainted!");
                 } // end if else condition
-
-                // Order array players
                 
                 return 1; // Returns 1 if first player wins
             } else { // If not, 2nd player turn
-                System.out.println(players[randP2].character + " used " + players[randP2].moveName);
+                System.out.println(p2.character + " used " + p2.moveName);
 
-                damage = (int) damageCalculator(players, randP2, randP1); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
-                players[randP2].currentHP -= damage; // Damage is substracted from current HP
+                damage = (int) damageCalculator(p2, p1); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                p2.currentHP -= damage; // Damage is substracted from current HP
 
-                System.out.println("(" + players[randP1].character + " lost " + damage * 100 / players[randP1].HP + "% of its health!)");
+                System.out.println("(" + p1.character + " lost " + damage * 100 / p1.HP + "% of its health!)");
 
-                if(players[randP1].currentHP < 0) { // If the character that recieved the damage has fainted
+                if(p1.currentHP < 0) { // If the character that recieved the damage has fainted
                     // Compares if the 1st player is human (checking names) to show the corresponding message
-                    if(players[randP1].playerName != null) {
-                        System.out.printf("%s (%s) fainted!", players[randP1].playerName, players[randP1].character);
+                    if(p1.playerName != null) {
+                        System.out.printf("%s (%s) fainted!", p1.playerName, p1.character);
                     } else {
-                        System.out.println(players[randP1].character + "fainted!");
+                        System.out.println(p1.character + "fainted!");
                     } // end if else condition
-
-                    // Order array players
                     
                     return 2; // Returns 2 if second player wins
                 } // end if condition
             } // end if else conditions
-        } else { // 
+        } else if(p1.priority < p2.priority) { // 2nd has a move with priority --> attacks first
+            System.out.println(p2.character + " used " + p2.moveName);
 
-        } // end if else conditions
+            damage = (int) damageCalculator(p2, p1); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+            p1.currentHP -= damage; // Damage is substracted from current HP
 
+            System.out.println("(" + p1.character + " lost " + damage * 100 / p1.HP + "% of its health!)");
+            
+            if(p1.currentHP < 0) { // If the character that recieved the damage has fainted
+                // Compares if the 2nd player is human (checking names) to show the corresponding message
+                if(p1.playerName != null) {
+                    System.out.printf("%s (%s) fainted!", p1.playerName, p1.character);
+                } else {
+                    System.out.println(p1.character + "fainted!");
+                } // end if else condition
+                
+                return 2; // Returns 2 if second player wins
+            } else { // If not, 2nd player turn
+                System.out.println(p1.character + " used " + p1.moveName);
+
+                damage = (int) damageCalculator(p1, p2); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                p2.currentHP -= damage; // Damage is substracted from current HP
+
+                System.out.println("(" + p2.character + " lost " + damage * 100 / p2.HP + "% of its health!)");
+
+                if(p2.currentHP < 0) { // If the character that recieved the damage has fainted
+                    // Compares if the 1st player is human (checking names) to show the corresponding message
+                    if(p2.playerName != null) {
+                        System.out.printf("%s (%s) fainted!", p2.playerName, p2.character);
+                    } else {
+                        System.out.println(p2.character + "fainted!");
+                    } // end if else condition
+                    
+                    return 1; // Returns 1 if first player wins
+                } // end if condition
+            } // end if else conditions
+        } else { // No priorities
+            // Compares the speed
+            if(p1.Spe > p2.Spe) { // 1st is faster than 2nd
+                System.out.println(p1.character + " used " + p1.moveName);
+
+                damage = (int) damageCalculator(p1, p2); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                p2.currentHP -= damage; // Damage is substracted from current HP
+
+                System.out.println("(" + p2.character + " lost " + damage * 100 / p2.HP + "% of its health!)");
+                
+                if(p2.currentHP < 0) { // If the character that recieved the damage has fainted
+                    // Compares if the 2nd player is human (checking names) to show the corresponding message
+                    if(p2.playerName != null) {
+                        System.out.printf("%s (%s) fainted!", p2.playerName, p2.character);
+                    } else {
+                        System.out.println(p2.character + "fainted!");
+                    } // end if else condition
+                    
+                    return 1; // Returns 1 if first player wins
+                } else { // If not, 2nd player turn
+                    System.out.println(p2.character + " used " + p2.moveName);
+
+                    damage = (int) damageCalculator(p2, p1); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                    p2.currentHP -= damage; // Damage is substracted from current HP
+
+                    System.out.println("(" + p1.character + " lost " + damage * 100 / p1.HP + "% of its health!)");
+
+                    if(p1.currentHP < 0) { // If the character that recieved the damage has fainted
+                        // Compares if the 1st player is human (checking names) to show the corresponding message
+                        if(p1.playerName != null) {
+                            System.out.printf("%s (%s) fainted!", p1.playerName, p1.character);
+                        } else {
+                            System.out.println(p1.character + "fainted!");
+                        } // end if else condition
+                        
+                        return 2; // Returns 2 if second player wins
+                    } // end if condition
+                } // end if else conditions
+            } else { // 2nd is faster than 1st
+                System.out.println(p2.character + " used " + p2.moveName);
+
+                damage = (int) damageCalculator(p2, p1); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                p1.currentHP -= damage; // Damage is substracted from current HP
+
+                System.out.println("(" + p1.character + " lost " + damage * 100 / p1.HP + "% of its health!)");
+                
+                if(p1.currentHP < 0) { // If the character that recieved the damage has fainted
+                    // Compares if the 2nd player is human (checking names) to show the corresponding message
+                    if(p1.playerName != null) {
+                        System.out.printf("%s (%s) fainted!", p1.playerName, p1.character);
+                    } else {
+                        System.out.println(p1.character + "fainted!");
+                    } // end if else condition
+                    
+                    return 2; // Returns 2 if second player wins
+                } else { // If not, 2nd player turn
+                    System.out.println(p1.character + " used " + p1.moveName);
+
+                    damage = (int) damageCalculator(p1, p2); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                    p2.currentHP -= damage; // Damage is substracted from current HP
+
+                    System.out.println("(" + p2.character + " lost " + damage * 100 / p2.HP + "% of its health!)");
+
+                    if(p2.currentHP < 0) { // If the character that recieved the damage has fainted
+                        // Compares if the 1st player is human (checking names) to show the corresponding message
+                        if(p2.playerName != null) {
+                            System.out.printf("%s (%s) fainted!", p2.playerName, p2.character);
+                        } else {
+                            System.out.println(p2.character + "fainted!");
+                        } // end if else condition
+                        
+                        return 1; // Returns 1 if first player wins
+                    } // end if condition
+                } // end if else conditions
+            } // end if else conditions
+        } // end if, else if, else conditions
+        
         return 0; // Returns 0 if draw
     } // end of turn
 } // end of Game
