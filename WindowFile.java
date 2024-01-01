@@ -1,12 +1,10 @@
-//package ProjFin.OOP_BattleRoyale;
-//package ProjFin.OOP_BattleRoyale.Window;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
 public class WindowFile extends JFrame {
     public int human, ai; // Number of players (need to be accessed from Main)
+    public String[] characters = new String[27]; // Sample characters from CSV file
 
     public WindowFile() {
         setTitle("Player Input");
@@ -103,9 +101,6 @@ public class WindowFile extends JFrame {
 
             JLabel chooseCharacterLabel = new JLabel("Choose your character:");
             add(chooseCharacterLabel);
-
-            // Sample characters from CSV file
-            String[] characters = {"Soldier", "Archer", "Wizard"};
 
             for (String character : characters) {
                 JButton characterButton = new JButton(character);

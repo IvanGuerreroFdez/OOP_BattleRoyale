@@ -1,5 +1,3 @@
-//package ProjFin.OOP_BattleRoyale;
-
 import java.lang.Math;
 import java.io.*;
 import java.util.*;

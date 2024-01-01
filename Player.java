@@ -1,4 +1,3 @@
-//package ProjFin.OOP_BattleRoyale;
 public class Player {
     public String character, playerName, type;
     public int HP, Atk, Def, SpA, SpD, Spe, currentHP; // Health Points, Attack, Defense, Special Attack, Special Defense, Speed

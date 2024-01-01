@@ -1,5 +1,3 @@
-package ProjFin.OOP_BattleRoyale;
-//package ProjFin.OOP_BattleRoyale.Methods;
 import java.io.*;
 
 public class LogMethods {

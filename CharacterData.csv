@@ -4,6 +4,8 @@ Blastoise,Water,79,83,100,85,105,78,Hydro Pump,110,0
 Meganium,Grass,80,82,100,83,100,80,Energy Ball,90,0
 Typhlosion,Fire,78,84,78,109,85,100,Flamethrower,90,0
 Feraligatr,Water,85,105,100,79,83,78,Waterfall,80,0
+Sceptile,Grass,70,85,65,105,85,120,Leaf Blade,90,0
+Blaziken,Fire,80,120,70,110,70,80,Blaze Kick,85,0
 Swampert,Water,100,110,90,85,90,60,Muddy Water,90,0
 Torterra,Grass,95,109,105,75,85,56,Seed Bomb,80,0
 Infernape,Fire,76,104,71,104,71,108,Flare Blitz,120,0
@@ -23,4 +25,3 @@ Inteleon,Water,70,85,65,125,65,120,Snipe Shot,80,0
 Meowscarada,Grass,76,110,70,81,70,123,Flower Trick,70,0
 Skeledirge,Fire,104,75,100,110,75,66,Torch Song,80,0
 Quaquaval,Water,85,120,80,85,75,85,Aqua Step,80,0
-Name,Type,HP,Atk,Def,SpA,SpD,Spe,Move Name,Move Power,Move Priority
