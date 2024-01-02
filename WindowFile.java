@@ -5,7 +5,18 @@ import java.awt.event.*;
 public class WindowFile extends JFrame {
     public int human, ai; // Number of players (need to be accessed from Main)
     public String[] characters = new String[27]; // Sample characters from CSV file
+    //public static boolean isOpen = true;
 
+    public int getHuman() {
+        return human;
+    } // end of getHuman
+
+    public int getAi() {
+        return ai;
+    } // end of getAi
+
+    //int cont = 0;
+    
     public WindowFile() {
         setTitle("Player Input");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -28,6 +39,9 @@ public class WindowFile extends JFrame {
             public void actionPerformed(ActionEvent e) {
                 human = Integer.parseInt(humanField.getText());
                 ai = Integer.parseInt(aiField.getText());
+                
+                System.out.println("hooman: " + human + " robots: " + ai);
+                Main.playerList = new Player[human + ai];
 
                 // Create a new window for difficulty level selection
                 DifficultyWindow difficultyWindow = new DifficultyWindow();
@@ -95,11 +109,14 @@ public class WindowFile extends JFrame {
         public CharacterSelectionWindow() {
             setTitle("Choose Your Character");
             setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-            setSize(400, 200);
+            setSize(1080, 720);
             setLocationRelativeTo(null);
             setLayout(new GridLayout(4, 1));
 
-            JLabel chooseCharacterLabel = new JLabel("Choose your character:");
+            //JLabel chooseCharacterLabel = new JLabel("Choose your character:");
+            JLabel chooseCharacterLabel = new JLabel();
+            chooseCharacterLabel.setText("Choose your character:");
+            chooseCharacterLabel.setFont(new Font("Roboto", Font.BOLD, 12));
             add(chooseCharacterLabel);
 
             for (String character : characters) {
@@ -115,13 +132,17 @@ public class WindowFile extends JFrame {
                             // Show confirmation message
                             JOptionPane.showMessageDialog(null, "You have chosen " + character);
 
+                            System.out.println("Character = " + character);
+                            Main.playerList[0] = CharacterSelection.character(character, "pepito el greninja"); // FALTA EL NOMBRE
+                            //cont++;
+
                             // Close the character selection window
                             dispose();
-                        }
-                    }
-                });
+                        } // end if condition
+                    } // end of actionPerformed
+                }); // end of addActionListener
                 add(characterButton);
-            }
-        }
-    }
-}
+            } // end for loop
+        } // end of CharacterSelectionWindow
+    } // end of CharacterSelectionWindow
+} // end of WindowFile

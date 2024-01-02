@@ -1,7 +1,15 @@
 import java.io.*;
 import java.util.*;
 
+import javax.swing.JDialog;
+import javax.swing.JFrame;
+
 public class Main {
+    static WindowFile ventana = new WindowFile();
+
+    public static Player[] characterList = new Player[27]; // List of characters outside the file
+    public static Player[] playerList = new Player[0]; // size 0 will be changed from WindowFile when the user gives the input
+
     public static void main(String [] args) {
         try {
             System.out.println("Program started.");
@@ -9,12 +17,18 @@ public class Main {
             File characterData = new File("CharacterData.csv");
             Scanner sc = new Scanner(characterData);
 
-            WindowFile ventana = new WindowFile();
             ventana.setVisible(true);
+
+            while (ventana.getHuman() == 0 || ventana.getAi() == 0) {
+                Thread.sleep(100);
+            } // end while loop
+            
+            int human = ventana.getHuman();
+            int ai = ventana.getAi();
+            //Player[] playerList = new Player[human + ai];
 
             // ABRIR LOG.TXT
 
-            Player[] characterList = new Player[27]; // List of characters outside the file
             int k = 0;
 
             // Reads the contents of the csv and creates the character
@@ -35,7 +49,7 @@ public class Main {
             // Imports the names of the characters in the array of WindowFile
             for(int i = 0; i < 27; i++) {
                 ventana.characters[i] = characterList[i].character;
-                System.out.println(ventana.characters[i]);
+                //System.out.println(ventana.characters[i]);
             } // end for loop
 
             sc.close();
@@ -56,6 +70,27 @@ public class Main {
                     System.out.println(characterList[i].priority);
             } // end for loop */
 
+            //Player[] playerList = new Player[human + ai];
+
+            /* for(int i = 0; i < human; i++) {
+                playerList[i] = CharacterSelection.character(null, null);
+            } // end for loop */
+
+                
+
+                
+
+                for(int i = 0; i < playerList.length; i++) {
+                    System.out.println("playerList position " + i + " = " + playerList[i].character + " " + playerList[i].playerName);
+                } // end for loop
+
+            // Assigns the remaining AI players
+            for(int i = human; i < playerList.length; i++) {
+                playerList[i] = CharacterSelection.comCharacter(ventana.ai)[i - human];
+            } // end for loop
+
+            ventana.dispose();
+
             /* // Dejar esto comentado para pruebas (comentar con shift + alt + A)
             // Cambiar para hacer pruebas a eleccion
             Player j2 = new Player("Greninja", "Kaaxerd", "Water", 72, 95, 67, 103, 71, 122, "Water Shuriken", 75, +1);
@@ -65,7 +100,7 @@ public class Main {
         } catch(Exception e) {
             System.out.println("An error occurred.");
         } finally {
-            System.out.println("Program finished.");
+            System.out.println("Main finished.");
         } // end of try, catch, finally
     } // end of main
 } // end of Main

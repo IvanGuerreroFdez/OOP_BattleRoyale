@@ -39,7 +39,9 @@ public class Game {
                 } else if(receiver.type == "Grass") { // Not very effective
                     type = 0.5;
                 } // end if else if conditions
-            } // end if, else if x2 conditions
+            } else {
+                type = 1;
+            } // end if, else if x2, else conditions
         } // end if else conditions
 
         int damage = (int) Math.round(((((2 * 50 / 5 + 2) * attacker.movePower * atk / def) / 50 + 2) * random * 1.5 * type));
