@@ -1,0 +1,8 @@
+QUE FALTA??
+
+- Implementacion de dificultad
+- LogMethods
+- Combates en una ventana
+
+NO TOCAR el PLAYER.JAVA
+Tocar Game.java solo para la dificultad
