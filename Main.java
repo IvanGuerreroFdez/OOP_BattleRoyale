@@ -7,8 +7,8 @@ import javax.swing.JFrame;
 public class Main {
     static WindowFile ventana = new WindowFile();
 
-    public static Player[] characterList = new Player[27]; // List of characters outside the file
-    public static Player[] playerList = new Player[0]; // size 0 will be changed from WindowFile when the user gives the input
+    public static Player[] characterList = new Player[27]; // List of DEFAULT characters outside the file
+    public static ArrayList<Player> playerList = new ArrayList<Player>(); // size 0 will be changed from WindowFile when the user gives the input
 
     public static void main(String [] args) {
         try {
@@ -54,39 +54,21 @@ public class Main {
 
             sc.close();
 
-            /* // Checks if characterList has been done correctly
-            for(int i = 0; i < characterList.length; i++) {
-                 System.out.println("Character " + i);
-                    System.out.println(characterList[i].character);
-                    System.out.println(characterList[i].type);
-                    System.out.println(characterList[i].HP);
-                    System.out.println(characterList[i].Atk);
-                    System.out.println(characterList[i].Def);
-                    System.out.println(characterList[i].SpA);
-                    System.out.println(characterList[i].SpD);
-                    System.out.println(characterList[i].Spe);
-                    System.out.println(characterList[i].moveName);
-                    System.out.println(characterList[i].movePower);
-                    System.out.println(characterList[i].priority);
-            } // end for loop */
-
-            //Player[] playerList = new Player[human + ai];
-
-            /* for(int i = 0; i < human; i++) {
-                playerList[i] = CharacterSelection.character(null, null);
-            } // end for loop */
-
-                
-
-                
-
-                for(int i = 0; i < playerList.length; i++) {
-                    System.out.println("playerList position " + i + " = " + playerList[i].character + " " + playerList[i].playerName);
-                } // end for loop
+            while (!ventana.allCharactersSelected()) {
+                synchronized (ventana.getLock()) {
+                    ventana.getLock().wait();
+                }
+            }
+            System.out.println("Todos los personajes seleccionados.");
 
             // Assigns the remaining AI players
-            for(int i = human; i < playerList.length; i++) {
-                playerList[i] = CharacterSelection.comCharacter(ventana.ai)[i - human];
+            for(int i = human; i < human + ai; i++) {
+                //playerList[i] = CharacterSelection.comCharacter(ventana.ai)[i - human];
+                playerList.add(CharacterSelection.comCharacter(ventana.ai)[i - human]);
+            } // end for loop
+
+            for(int i = 0; i < playerList.size(); i++) {
+                System.out.println("playerList position " + i + " = " + playerList.get(i).character + " " + playerList.get(i).playerName);
             } // end for loop
 
             ventana.dispose();

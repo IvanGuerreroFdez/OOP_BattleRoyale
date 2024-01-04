@@ -1,11 +1,22 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import java.util.ArrayList;
 
 public class WindowFile extends JFrame {
     public int human, ai; // Number of players (need to be accessed from Main)
     public String[] characters = new String[27]; // Sample characters from CSV file
-    //public static boolean isOpen = true;
+    public boolean allCharactersSelected = false; // If all human characters have been selected
+
+    private final Object lock = new Object();
+
+    public Object getLock() {
+        return lock;
+    }
+
+    public boolean allCharactersSelected() {
+        return allCharactersSelected;
+    }
 
     public int getHuman() {
         return human;
@@ -14,8 +25,6 @@ public class WindowFile extends JFrame {
     public int getAi() {
         return ai;
     } // end of getAi
-
-    //int cont = 0;
     
     public WindowFile() {
         setTitle("Player Input");
@@ -40,14 +49,14 @@ public class WindowFile extends JFrame {
                 human = Integer.parseInt(humanField.getText());
                 ai = Integer.parseInt(aiField.getText());
                 
-                System.out.println("hooman: " + human + " robots: " + ai);
-                Main.playerList = new Player[human + ai];
+                System.out.println("human: " + human + " robots: " + ai);
+                Main.playerList = new ArrayList<Player>();
 
                 // Create a new window for difficulty level selection
                 DifficultyWindow difficultyWindow = new DifficultyWindow();
                 difficultyWindow.setVisible(true);
-            }
-        });
+            } // end of actionPerformed
+        }); // end of addActionListener
         add(submitButton);
     }
 
@@ -66,56 +75,63 @@ public class WindowFile extends JFrame {
             JButton easyButton = new JButton("Easy");
             easyButton.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent e) {
-                    // Show character selection window
-                    CharacterSelectionWindow characterWindow = new CharacterSelectionWindow();
-                    characterWindow.setVisible(true);
+                    for(int i = 0; i < human; i++) {
+                        // Show character selection window
+                        CharacterSelectionWindow characterWindow = new CharacterSelectionWindow(i + 1);
+                        characterWindow.setVisible(true);
 
-                    // Close the difficulty window
-                    dispose();
-                }
-            });
+                        // Close the difficulty window
+                        dispose();
+                    } // end for loop
+                } // end of actionPerformed
+            }); // end of addActionListener
             add(easyButton);
 
             JButton normalButton = new JButton("Normal");
             normalButton.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent e) {
-                    // Show character selection window
-                    CharacterSelectionWindow characterWindow = new CharacterSelectionWindow();
-                    characterWindow.setVisible(true);
+                    for(int i = 0; i < human; i++) {
+                        // Show character selection window
+                        CharacterSelectionWindow characterWindow = new CharacterSelectionWindow(i + 1);
+                        characterWindow.setVisible(true);
 
-                    // Close the difficulty window
-                    dispose();
-                }
-            });
+                        // Close the difficulty window
+                        dispose();
+                    } // end for loop
+                } // end of actionPerformed
+            }); // end of addActionListener
             add(normalButton);
 
             JButton hardButton = new JButton("Hard");
             hardButton.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent e) {
-                    // Show character selection window
-                    CharacterSelectionWindow characterWindow = new CharacterSelectionWindow();
-                    characterWindow.setVisible(true);
+                        // Show character selection window
+                        CharacterSelectionWindow characterWindow = new CharacterSelectionWindow(1);
+                        characterWindow.setVisible(true);
 
-                    // Close the difficulty window
-                    dispose();
-                }
-            });
+                        // Close the difficulty window
+                        dispose();
+                } // end of actionPerformed
+            }); // end of addActionListener
             add(hardButton);
         }
     }
 
     // Inner class for character selection window
     private class CharacterSelectionWindow extends JFrame {
-        public CharacterSelectionWindow() {
+        int i;
+
+        public CharacterSelectionWindow(int i) {
+            this.i = i;
+
             setTitle("Choose Your Character");
             setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
             setSize(1080, 720);
             setLocationRelativeTo(null);
             setLayout(new GridLayout(4, 1));
 
-            //JLabel chooseCharacterLabel = new JLabel("Choose your character:");
             JLabel chooseCharacterLabel = new JLabel();
-            chooseCharacterLabel.setText("Choose your character:");
+            chooseCharacterLabel.setText("Player" + i +" Choose character:");
             chooseCharacterLabel.setFont(new Font("Roboto", Font.BOLD, 12));
             add(chooseCharacterLabel);
 
@@ -133,8 +149,21 @@ public class WindowFile extends JFrame {
                             JOptionPane.showMessageDialog(null, "You have chosen " + character);
 
                             System.out.println("Character = " + character);
-                            Main.playerList[0] = CharacterSelection.character(character, "pepito el greninja"); // FALTA EL NOMBRE
-                            //cont++;
+                            Main.playerList.add(CharacterSelection.character(character, "Player " + i));
+                            System.out.println(Main.playerList.get(i - 1).character);
+                            System.out.println(Main.playerList.get(i - 1).playerName);
+
+                            if (i < human) {
+                            // Si hay más jugadores humanos, mostrar la siguiente ventana de selección
+                            CharacterSelectionWindow nextCharacterWindow = new CharacterSelectionWindow(i + 1);
+                            nextCharacterWindow.setVisible(true);
+                            }   else {
+                            // Si todos los jugadores humanos han seleccionado, notificar a Main
+                                synchronized (lock) {
+                                    allCharactersSelected = true;
+                                    lock.notify();
+                                }   
+                            }
 
                             // Close the character selection window
                             dispose();
