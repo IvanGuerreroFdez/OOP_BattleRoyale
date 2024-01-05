@@ -57,7 +57,7 @@ public class LogMethods {
             if(attacker.playerName != null) {
                 w.write(attacker.playerName + " (" + attacker.character + ") used " + attacker.moveName + ".\n");
             } else {
-                w.write(attacker.playerName + " used " + attacker.moveName + ".\n");
+                w.write(attacker.character + " used " + attacker.moveName + ".\n");
             } // end if else conditions
 
             if(type == 2) {

@@ -1,20 +1,56 @@
-Player 1 selected Infernape.
+Player 1 selected Greninja.
 Player 2 selected Chesnaught.
-Player 3 selected Blaziken.
-Player 4 selected Greninja.
-Player 5 selected Inteleon.
-AI 0 selected Delphox.
-AI 1 selected Blaziken.
-AI 2 selected Meganium.
-AI 3 selected Blaziken.
-AI 4 selected Torterra.
-AI 5 selected Swampert.
-AI 6 selected Infernape.
+Player 3 selected Delphox.
+Player 4 selected Torterra.
+AI 0 selected Meganium.
+AI 1 selected Primarina.
+AI 2 selected Greninja.
+AI 3 selected Decidueye.
+AI 4 selected Empoleon.
 Infernape vs. Kaaxerd (Greninja).
 Kaaxerd (Greninja) used Water Shuriken.
 It's super effective!
-Infernape lost 97% of its health.
+Infernape lost 94% of its health.
 null used Flare Blitz.
 It's not very effective...
+Kaaxerd (Greninja) lost 43% of its health.
+Player 1 selected Greninja.
+AI 0 selected Meowscarada.
+Infernape vs. Kaaxerd (Greninja).
+Kaaxerd (Greninja) used Water Shuriken.
+It's super effective!
+Infernape lost 100% of its health.
+null used Flare Blitz.
+It's not very effective...
+Kaaxerd (Greninja) lost 43% of its health.
+Player 1 selected Greninja.
+AI 0 selected Charizard.
+Infernape vs. Kaaxerd (Greninja).
+Kaaxerd (Greninja) used Water Shuriken.
+It's super effective!
+Infernape lost 105% of its health.
+Infernape fainted!
+Player 1 selected Greninja.
+AI 0 selected Decidueye.
+Infernape vs. Kaaxerd (Greninja).
+Kaaxerd (Greninja) used Water Shuriken.
+It's super effective!
+Infernape lost 100% of its health.
+Infernape fainted!
+Player 1 selected Decidueye.
+AI 0 selected Torterra.
+Infernape vs. Kaaxerd (Greninja).
+Kaaxerd (Greninja) used Water Shuriken.
+It's super effective!
 A critical hit!
-Kaaxerd (Greninja) lost 59% of its health.
+Infernape lost 140% of its health.
+Infernape fainted!
+Player 1 selected Serperior.
+AI 0 selected Skeledirge.
+Infernape vs. Kaaxerd (Greninja).
+Kaaxerd (Greninja) used Water Shuriken.
+It's super effective!
+Infernape lost 94% of its health.
+Infernape used Flare Blitz.
+It's not very effective...
+Kaaxerd (Greninja) lost 43% of its health.
