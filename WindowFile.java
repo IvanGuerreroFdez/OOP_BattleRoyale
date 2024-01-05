@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
+import java.io.*;
 
 public class WindowFile extends JFrame {
     public int human, ai; // Number of players (need to be accessed from Main)
@@ -76,14 +77,9 @@ public class WindowFile extends JFrame {
             JButton easyButton = new JButton("Easy");
             easyButton.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent e) {
-                    for(int i = 0; i < human; i++) {
-                        // Show character selection window
-                        CharacterSelectionWindow characterWindow = new CharacterSelectionWindow(i + 1);
-                        characterWindow.setVisible(true);
 
-                        // Close the difficulty window
-                        dispose();
-                    } // end for loop
+                    // Close the difficulty window
+                    dispose();
                 } // end of actionPerformed
             }); // end of addActionListener
             add(easyButton);
@@ -91,14 +87,12 @@ public class WindowFile extends JFrame {
             JButton normalButton = new JButton("Normal");
             normalButton.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent e) {
-                    for(int i = 0; i < human; i++) {
-                        // Show character selection window
-                        CharacterSelectionWindow characterWindow = new CharacterSelectionWindow(i + 1);
-                        characterWindow.setVisible(true);
+                    // Show character selection window
+                    CharacterSelectionWindow characterWindow = new CharacterSelectionWindow(1);
+                    characterWindow.setVisible(true);
 
-                        // Close the difficulty window
-                        dispose();
-                    } // end for loop
+                    // Close the difficulty window
+                    dispose();
                 } // end of actionPerformed
             }); // end of addActionListener
             add(normalButton);
@@ -106,14 +100,14 @@ public class WindowFile extends JFrame {
             JButton hardButton = new JButton("Hard");
             hardButton.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent e) {
-                        hardMode = true;
+                    hardMode = true;
 
-                        // Show character selection window
-                        CharacterSelectionWindow characterWindow = new CharacterSelectionWindow(1);
-                        characterWindow.setVisible(true);
+                    // Show character selection window
+                    CharacterSelectionWindow characterWindow = new CharacterSelectionWindow(1);
+                    characterWindow.setVisible(true);
 
-                        // Close the difficulty window
-                        dispose();
+                    // Close the difficulty window
+                    dispose();
                 } // end of actionPerformed
             }); // end of addActionListener
             add(hardButton);
@@ -151,22 +145,24 @@ public class WindowFile extends JFrame {
                             // Show confirmation message
                             JOptionPane.showMessageDialog(null, "You have chosen " + character);
 
-                            System.out.println("Character = " + character);
+                            /* System.out.println("Character = " + character); */
                             Main.playerList.add(CharacterSelection.character(character, "Player " + i));
-                            System.out.println(Main.playerList.get(i - 1).character);
-                            System.out.println(Main.playerList.get(i - 1).playerName);
+                            /* System.out.println(Main.playerList.get(i - 1).character);
+                            System.out.println(Main.playerList.get(i - 1).playerName); */
+
+                            LogMethods.insertLog(character, i, false);
 
                             if (i < human) {
                             // Si hay más jugadores humanos, mostrar la siguiente ventana de selección
                             CharacterSelectionWindow nextCharacterWindow = new CharacterSelectionWindow(i + 1);
                             nextCharacterWindow.setVisible(true);
-                            }   else {
+                            } else {
                             // Si todos los jugadores humanos han seleccionado, notificar a Main
                                 synchronized (lock) {
                                     allCharactersSelected = true;
                                     lock.notify();
-                                }   
-                            }
+                                } // end of synchronized
+                            } // end if else conditions
 
                             // Close the character selection window
                             dispose();

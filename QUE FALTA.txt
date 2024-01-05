@@ -1,7 +1,8 @@
 QUE FALTA??
 
 - Implementacion de dificultad (DONE)
-- LogMethods
+- LogMethods (DONE)
+- Simular combates en main (invocar en ventana)
 - Combates en una ventana
 
 NO TOCAR el PLAYER.JAVA

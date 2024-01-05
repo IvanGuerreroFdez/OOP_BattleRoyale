@@ -1,4 +1,5 @@
 import java.lang.Math;
+import java.io.*;
 import java.util.*;
 
 public class Game {
@@ -58,7 +59,7 @@ public class Game {
         if(type == 2) {
             System.out.println("It's super effective!");
         } else if(type == 0.5) {
-            System.out.println("Its not very effective...");
+            System.out.println("Its' not very effective...");
         } // end if, else if conditions
 
         if(critical == 1.5) {
@@ -71,6 +72,8 @@ public class Game {
         } else {
             System.out.printf("(%s lost %d%% of its health!)\n", receiver.character, damage * 100 / receiver.HP);
         } // end if else condition
+
+        LogMethods.insertLog(attacker, receiver, type, critical, damage); // Invoke insertLog for damage
 
         return damage;
     } // end of damageCalculator
@@ -106,6 +109,8 @@ public class Game {
                 System.out.println("BATTLE BEGIN!");
             } // end if, else if x2, else condition
 
+            LogMethods.insertLog(p1, p2); // Invoke insertLog for battle start
+
             int damage;
 
             if(handleTurnOrder(p1, p2) == 1) { // p1 goes first
@@ -123,6 +128,8 @@ public class Game {
                         System.out.println(p2.character + " fainted!");
                     } // end if else condition
 
+                    LogMethods.insertLog(p2); // Invoke insertLog for faint
+
                     return 1; // Returns 1 if first player wins
                 } else { // If not, 2nd player turn
                     System.out.println(p2.character + " used " + p2.moveName);
@@ -137,6 +144,8 @@ public class Game {
                         } else {
                             System.out.println(p1.character + " fainted!");
                         } // end if else condition
+
+                        LogMethods.insertLog(p1); // Invoke insertLog for faint
                         
                         // w.close();
                         return 2; // Returns 2 if second player wins
@@ -156,6 +165,8 @@ public class Game {
                         System.out.println(p1.character + " fainted!");
                     } // end if else condition
 
+                    LogMethods.insertLog(p1); // Invoke insertLog for faint
+
                     return 2; // Returns 2 if second player wins
                 } else { // If not, 2nd player turn
                     System.out.println(p1.character + " used " + p1.moveName);
@@ -172,6 +183,8 @@ public class Game {
                         } else {
                             System.out.println(p2.character + " fainted!");
                         } // end if else condition
+
+                        LogMethods.insertLog(p2); // Invoke insertLog for faint
 
                         return 1; // Returns 1 if first player wins
                     } // end if condition

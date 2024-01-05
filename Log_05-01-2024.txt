@@ -1,0 +1,20 @@
+Player 1 selected Infernape.
+Player 2 selected Chesnaught.
+Player 3 selected Blaziken.
+Player 4 selected Greninja.
+Player 5 selected Inteleon.
+AI 0 selected Delphox.
+AI 1 selected Blaziken.
+AI 2 selected Meganium.
+AI 3 selected Blaziken.
+AI 4 selected Torterra.
+AI 5 selected Swampert.
+AI 6 selected Infernape.
+Infernape vs. Kaaxerd (Greninja).
+Kaaxerd (Greninja) used Water Shuriken.
+It's super effective!
+Infernape lost 97% of its health.
+null used Flare Blitz.
+It's not very effective...
+A critical hit!
+Kaaxerd (Greninja) lost 59% of its health.

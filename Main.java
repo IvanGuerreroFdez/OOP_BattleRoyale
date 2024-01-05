@@ -1,8 +1,8 @@
 import java.io.*;
 import java.util.*;
 
-import javax.swing.JDialog;
-import javax.swing.JFrame;
+/* import javax.swing.JDialog;
+import javax.swing.JFrame; */
 
 public class Main {
     static WindowFile ventana = new WindowFile();
@@ -25,9 +25,6 @@ public class Main {
             
             int human = ventana.getHuman();
             int ai = ventana.getAi();
-            //Player[] playerList = new Player[human + ai];
-
-            // ABRIR LOG.TXT
 
             int k = 0;
 
@@ -54,24 +51,26 @@ public class Main {
 
             sc.close();
 
-            while (!ventana.allCharactersSelected()) {
+            while(!ventana.allCharactersSelected()) {
                 synchronized (ventana.getLock()) {
                     ventana.getLock().wait();
-                }
-            }
-            System.out.println("Todos los personajes seleccionados.");
+                } // end of synchronized
+            } // end while loop
+            System.out.println("All characters selected.");
 
             // Assigns the remaining AI players
             for(int i = human; i < human + ai; i++) {
                 //playerList[i] = CharacterSelection.comCharacter(ventana.ai)[i - human];
                 playerList.add(CharacterSelection.comCharacter(ventana.ai)[i - human]);
+                LogMethods.insertLog(playerList.get(i).character, i - human, true);
             } // end for loop
 
+            /* // Prints all characters on screen
             for(int i = 0; i < playerList.size(); i++) {
                 System.out.println("playerList position " + i + " = " + playerList.get(i).character + " " + playerList.get(i).playerName);
-            } // end for loop
+            } // end for loop */
 
-            ventana.dispose();
+            ventana.dispose(); // Closes the window
 
             // Dejar esto comentado para pruebas (comentar con shift + alt + A)
             // Cambiar para hacer pruebas a eleccion
