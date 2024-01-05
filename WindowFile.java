@@ -7,6 +7,7 @@ public class WindowFile extends JFrame {
     public int human, ai; // Number of players (need to be accessed from Main)
     public String[] characters = new String[27]; // Sample characters from CSV file
     public boolean allCharactersSelected = false; // If all human characters have been selected
+    public boolean hardMode = false;
 
     private final Object lock = new Object();
 
@@ -105,6 +106,8 @@ public class WindowFile extends JFrame {
             JButton hardButton = new JButton("Hard");
             hardButton.addActionListener(new ActionListener() {
                 public void actionPerformed(ActionEvent e) {
+                        hardMode = true;
+
                         // Show character selection window
                         CharacterSelectionWindow characterWindow = new CharacterSelectionWindow(1);
                         characterWindow.setVisible(true);

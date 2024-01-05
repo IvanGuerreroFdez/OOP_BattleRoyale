@@ -73,11 +73,12 @@ public class Main {
 
             ventana.dispose();
 
-            /* // Dejar esto comentado para pruebas (comentar con shift + alt + A)
+            // Dejar esto comentado para pruebas (comentar con shift + alt + A)
             // Cambiar para hacer pruebas a eleccion
             Player j2 = new Player("Greninja", "Kaaxerd", "Water", 72, 95, 67, 103, 71, 122, "Water Shuriken", 75, +1);
             Player j1 = new Player("Infernape", null, "Fire", 76, 104, 71, 104, 71, 108, "Flare Blitz", 120, 0);
-            Game.turn(j1, j2); */
+            System.out.println(ventana.hardMode);
+            Game.turn(j1, j2, ventana.hardMode);
 
         } catch(Exception e) {
             System.out.println("An error occurred.");

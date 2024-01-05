@@ -1,6 +1,6 @@
 QUE FALTA??
 
-- Implementacion de dificultad
+- Implementacion de dificultad (DONE)
 - LogMethods
 - Combates en una ventana
 

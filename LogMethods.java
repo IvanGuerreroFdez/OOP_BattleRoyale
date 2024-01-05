@@ -44,6 +44,28 @@ public class LogMethods {
         } // end of try, catch
     } // end of insertLog
     
+    // insertLog for battle start
+    public void insertLog(File log, Player p1, Player p2) {
+        try {
+            FileWriter w = new FileWriter(log);
+
+            if(p1.playerName != null && p2.playerName != null) { // Both players are human
+                w.write(p1.playerName + " (" + p1.character + ") vs. " + p2.playerName + " (" + p2.character + ").\n");
+                
+            } else if(p1.playerName != null && p2.playerName == null) { // 1st is human, 2nd is not
+                
+            } else if(p1.playerName == null && p2.playerName != null) { // 1st is not human, 2nd is
+                
+            } else {
+                
+            } // end if, else if x2, else condition
+
+            w.close();
+        } catch(Exception e) {
+            System.out.println("An error occurred. :/");
+        } // end of try, catch
+    } // end of insertLog
+
     // insertLog for turns
     /* public void insertLog(File log, int action) {
         try {

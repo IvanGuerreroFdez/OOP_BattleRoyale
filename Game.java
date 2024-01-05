@@ -1,13 +1,13 @@
 import java.lang.Math;
-import java.io.*;
 import java.util.*;
 
 public class Game {
-    public static int damageCalculator(Player attacker, Player receiver) { // Calculates the damage of a move
+    public static int damageCalculator(Player attacker, Player receiver, boolean hard) { // Calculates the damage of a move
         Random rn = new Random();
-        double random = rn.nextDouble(1 - 0.85) + 0.85;
+        double random = rn.nextDouble(1 - 0.85) + 0.85; // Random number between 0.85 and 1
         int atk, def;
         double type = 1.0;
+        double critical = 1;
 
         if(attacker.SpA > attacker.Atk) { // Checks if attacker is a special attacker
             atk = attacker.SpA;
@@ -44,13 +44,26 @@ public class Game {
             } // end if, else if x2, else conditions
         } // end if else conditions
 
-        int damage = (int) Math.round(((((2 * 50 / 5 + 2) * attacker.movePower * atk / def) / 50 + 2) * random * 1.5 * type));
+        if(hard == true) { // If it is hard mode, critical hits will be taken in account
+            int critRand = rn.nextInt(2);
+            System.out.println(critRand);
+
+            if(critRand == 1) {
+                critical = 1.5;
+            } // end if condition
+        } // end if condition
+
+        int damage = (int) Math.round(((((2 * 50 / 5 + 2) * attacker.movePower * atk / def) / 50 + 2) * random * 1.5 * type * critical));
 
         if(type == 2) {
             System.out.println("It's super effective!");
         } else if(type == 0.5) {
             System.out.println("Its not very effective...");
         } // end if, else if conditions
+
+        if(critical == 1.5) {
+            System.out.println("A critical hit!");
+        } // end if condition
 
         // Compares if the receiver is human (checking names) to show the corresponding message
         if(receiver.playerName != null) {
@@ -76,26 +89,20 @@ public class Game {
         } // end if, else if, else conditions
     } // end of handleTurnOrder
 
-    public static int turn(Player p1, Player p2/* , File log */) {
+    public static int turn(Player p1, Player p2, boolean hard) {
         try {
-            //FileWriter w = new FileWriter(log); // Write in the log file
-
             // Compares if some of the players is human (checking names)
             if(p1.playerName != null && p2.playerName != null) { // Both players are human
                 System.out.printf("%s (%s) vs. %s (%s).\n", p1.playerName, p1.character, p2.playerName, p2.character);
-                // w.write(p1.playerName + "(" + p1.character + ") vs " + p1.playerName + "(" + p1.character + ").\n");
                 System.out.println("BATTLE BEGIN!");
             } else if(p1.playerName != null && p2.playerName == null) { // 1st is human, 2nd is not
                 System.out.printf("%s (%s) vs. %s.\n", p1.playerName, p1.character, p2.character);
-                // w.write(p1.playerName + "(" + p1.character + ") vs " +  p1.character + ".\n");
                 System.out.println("BATTLE BEGIN!");
             } else if(p1.playerName == null && p2.playerName != null) { // 1st is not human, 2nd is
                 System.out.printf("%s vs. %s (%s).\n", p1.character, p2.playerName, p2.character);
-                // w.write(p1.character + " vs " + p1.playerName + "(" + p1.character + ").\n");
                 System.out.println("BATTLE BEGIN!");
             } else {
                 System.out.println(p1.character + " vs. " + p2.character + ".");
-                // w.write(p1.character + " vs " + p1.character + ".\n");
                 System.out.println("BATTLE BEGIN!");
             } // end if, else if x2, else condition
 
@@ -105,7 +112,7 @@ public class Game {
                 System.out.println(p1.character + " used " + p1.moveName + ".");
                 // w.write(p1.character + " used " + p1.moveName + ".\n");
 
-                damage = damageCalculator(p1, p2); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                damage = damageCalculator(p1, p2, hard); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
                 p2.currentHP -= damage; // Damage is substracted from current HP
                 
                 if(p2.currentHP < 0) { // If the character that recieved the damage has fainted
@@ -115,13 +122,12 @@ public class Game {
                     } else {
                         System.out.println(p2.character + " fainted!");
                     } // end if else condition
-                    
-                    // w.close();
+
                     return 1; // Returns 1 if first player wins
                 } else { // If not, 2nd player turn
                     System.out.println(p2.character + " used " + p2.moveName);
 
-                    damage = damageCalculator(p2, p1); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                    damage = damageCalculator(p2, p1, hard); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
                     p1.currentHP -= damage; // Damage is substracted from current HP
 
                     if(p1.currentHP < 0) { // If the character that recieved the damage has fainted
@@ -139,7 +145,7 @@ public class Game {
             } else { // p2 goes first
                 System.out.println(p2.character + " used " + p2.moveName);
 
-                damage = damageCalculator(p2, p1); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                damage = damageCalculator(p2, p1, hard); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
                 p1.currentHP -= damage; // Damage is substracted from current HP
                 
                 if(p1.currentHP < 0) { // If the character that recieved the damage has fainted
@@ -147,15 +153,14 @@ public class Game {
                     if(p1.playerName != null) {
                         System.out.printf("%s (%s) fainted!", p1.playerName, p1.character);
                     } else {
-                        System.out.println(p1.character + "fainted!");
+                        System.out.println(p1.character + " fainted!");
                     } // end if else condition
-                    
-                    // w.close();
+
                     return 2; // Returns 2 if second player wins
                 } else { // If not, 2nd player turn
                     System.out.println(p1.character + " used " + p1.moveName);
 
-                    damage = damageCalculator(p1, p2); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
+                    damage = damageCalculator(p1, p2, hard); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
                     p2.currentHP -= damage; // Damage is substracted from current HP
 
                     System.out.println("(" + p2.character + " lost " + damage * 100 / p2.HP + "% of its health!)");
@@ -165,16 +170,14 @@ public class Game {
                         if(p2.playerName != null) {
                             System.out.printf("%s (%s) fainted!", p2.playerName, p2.character);
                         } else {
-                            System.out.println(p2.character + "fainted!");
+                            System.out.println(p2.character + " fainted!");
                         } // end if else condition
-                        
-                        // w.close();
+
                         return 1; // Returns 1 if first player wins
                     } // end if condition
                 } // end if else conditions
             } // end if else conditions
-            
-            // w.close();
+
             return 0; // Returns 0 if draw
         } catch(Exception e) {
             System.out.println("There has been an error reading the file");
