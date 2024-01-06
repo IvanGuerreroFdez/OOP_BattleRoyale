@@ -105,29 +105,30 @@ public class Main {
                     }
                 } else {
                     // Impar, el jugador pasa automáticamente a la siguiente ronda
-                }
+                } // end if else condition
 
                 //resultStringBuilder.append(Game.strbuild.toString());
-            }
+            } // end while loop
             
             // Eliminar jugadores marcados para la eliminación
             playerList.removeAll(playersToRemove);
             resultStringBuilder.append(Game.strbuild.toString());
             Game.strbuild.setLength(0);
-        }
+        } // end of simulateBattleRoyale
     
         // Queda un solo jugador, imprimir el ganador
         if (!playerList.isEmpty()) {
 
             System.out.println("Winner: " + playerList.get(0).toString());
             resultStringBuilder.append("Winner: " + playerList.get(0).toString() + "\n");
+            LogMethods.insertLog(playerList.get(0), 0); // Invoke insertLog for winner
             //LogMethods.insertLog(playerList.get(0));
         } else {
             System.out.println("No winner. Error in simulation.");
             resultStringBuilder.append("No winner. Error in simulation.\n");
-        }
+        } // end if else condition
         ventana.showResultWindow(resultStringBuilder.toString());
-    }
+    } // end if simulateBattleRoyale
     
     private static void printCurrentPlayers() {
         System.out.println("Current players:");
@@ -139,10 +140,10 @@ public class Main {
             if (player.currentHP <= 0) {
                 iterator.remove(); // Eliminar jugadores con HP <= 0
                 //System.out.println(player.character + " fainted!");
-            }
-        }
+            } // end if condition
+        } // end while loop
         System.out.println();
-    }
+    } // end of printCurrentPlayers
 
     private static String getCurrentPlayersInfo() {
         StringBuilder currentPlayersInfo = new StringBuilder("Current players:\n");
@@ -155,34 +156,11 @@ public class Main {
     
             if (player.currentHP <= 0) {
                 currentPlayersInfo.append(player.character).append(" fainted!\n");
-            }
-        }
+            } // end if condition
+        } // end for loop
     
         currentPlayersInfo.append("\n");
     
         return currentPlayersInfo.toString();
-    }
-
-    /* private static String getTurnDetails(Player attacker, Player receiver) {
-        StringBuilder turnDetails = new StringBuilder();
-    
-        turnDetails.append(attacker.toString())
-                .append(" vs. ")
-                .append(receiver.toString())
-                .append("\n")
-                .append(attacker.toString())
-                .append(" used ")
-                .append(attacker.moveName)
-                .append(".\n");
-    
-        int damage = Game.damageCalculator(attacker, receiver, ventana.hardMode);
-    
-        turnDetails.append("(")
-                .append(receiver.toString())
-                .append(" lost ")
-                .append(damage * 100 / receiver.HP)
-                .append("% of its health!)\n");
-    
-        return turnDetails.toString();
-    } */
+    } // end of getCurrentPlayersInfo
 } // end of Main

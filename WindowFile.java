@@ -1,7 +1,10 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
+import java.io.File;
 import java.util.ArrayList;
+import java.util.Date;
+import java.text.SimpleDateFormat;
 
 public class WindowFile extends JFrame {
     public int human, ai; // Number of players (need to be accessed from Main)
@@ -113,8 +116,8 @@ public class WindowFile extends JFrame {
                 } // end of actionPerformed
             }); // end of addActionListener
             add(hardButton);
-        }
-    }
+        } // end of DifficultyWindow
+    } // end of DifficultyWindow
 
     // Inner class for character selection window
     private class CharacterSelectionWindow extends JFrame {
@@ -147,19 +150,16 @@ public class WindowFile extends JFrame {
                             // Show confirmation message
                             JOptionPane.showMessageDialog(null, "You have chosen " + character);
 
-                            /* System.out.println("Character = " + character); */
-                            Main.playerList.add(CharacterSelection.character(character, "Player " + i));
-                            /* System.out.println(Main.playerList.get(i - 1).character);
-                            System.out.println(Main.playerList.get(i - 1).playerName); */
+                            Main.playerList.add(CharacterSelection.character(character, "Player " + i)); // Adds the player to the player list
 
-                            LogMethods.insertLog(character, i, false);
+                            LogMethods.insertLog(character, i, false); // Invokes insertLog for player selection
 
                             if (i < human) {
-                            // Si hay más jugadores humanos, mostrar la siguiente ventana de selección
-                            CharacterSelectionWindow nextCharacterWindow = new CharacterSelectionWindow(i + 1);
-                            nextCharacterWindow.setVisible(true);
+                                // If there are more human players, show the next selection window
+                                CharacterSelectionWindow nextCharacterWindow = new CharacterSelectionWindow(i + 1);
+                                nextCharacterWindow.setVisible(true);
                             } else {
-                            // Si todos los jugadores humanos han seleccionado, notificar a Main
+                            // If all human players have selected, notify Main
                                 synchronized (lock) {
                                     allCharactersSelected = true;
                                     lock.notify();
@@ -195,14 +195,32 @@ public class WindowFile extends JFrame {
                     dispose();
                 }
             });
+
+            int option = JOptionPane.showConfirmDialog(null,
+                                "Do you want to save the result in a log?",
+                                "Confirmation", JOptionPane.YES_NO_OPTION);
+
+            if (option == JOptionPane.NO_OPTION) {
+                // Show confirmation message
+                JOptionPane.showMessageDialog(null, "Result won't be saved in a file. ");
+
+                if((new File("Log_" + LogMethods.currentDate() + ".txt")).delete()) {
+                    System.out.println("File deleted");
+                } else {
+                    System.out.println("Failed to delete the file.");
+                } // end if else condition
+            } else {
+                // Show confirmation message
+                JOptionPane.showMessageDialog(null, "Result saved in a file.");
+            } // end if else conditions
             
             // Set a smaller size for the close button
             closeButton.setPreferredSize(new Dimension(80, 30));
             JPanel buttonPanel = new JPanel(new FlowLayout(FlowLayout.RIGHT));
             buttonPanel.add(closeButton);
             add(buttonPanel, BorderLayout.SOUTH);
-        }
-    }
+        } // end of ResultWindow
+    } // end of ResultWindow
 
     public void showResultWindow(String result) {
         ResultWindow resultWindow = new ResultWindow(result);
