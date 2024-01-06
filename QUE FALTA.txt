@@ -4,6 +4,7 @@ QUE FALTA??
 - LogMethods (DONE)
 - Simular combates en main (invocar en ventana)
 - Combates en una ventana
+- Dificultad easy (DONE)
 
 NO TOCAR el PLAYER.JAVA
 Tocar Game.java solo para la dificultad

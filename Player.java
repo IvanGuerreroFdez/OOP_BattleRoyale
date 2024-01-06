@@ -24,4 +24,12 @@ public class Player {
         this.priority = priority;
         this.currentHP = this.HP;
     } // end of Player
+
+    public String toString() {
+        if(this.playerName == null) {
+            return this.character;
+        } else {
+            return this.playerName + " (" + this.character + ")";
+        } // end if else conditions
+    } // end of toString
 } // end of Player

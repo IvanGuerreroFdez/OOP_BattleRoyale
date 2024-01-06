@@ -10,6 +10,8 @@ public class Main {
     public static Player[] characterList = new Player[27]; // List of DEFAULT characters outside the file
     public static ArrayList<Player> playerList = new ArrayList<Player>(); // size 0 will be changed from WindowFile when the user gives the input
 
+    //public static StringBuilder strbuild = new StringBuilder();
+
     public static void main(String [] args) {
         try {
             System.out.println("Program started.");
@@ -46,7 +48,6 @@ public class Main {
             // Imports the names of the characters in the array of WindowFile
             for(int i = 0; i < 27; i++) {
                 ventana.characters[i] = characterList[i].character;
-                //System.out.println(ventana.characters[i]);
             } // end for loop
 
             sc.close();
@@ -60,24 +61,13 @@ public class Main {
 
             // Assigns the remaining AI players
             for(int i = human; i < human + ai; i++) {
-                //playerList[i] = CharacterSelection.comCharacter(ventana.ai)[i - human];
                 playerList.add(CharacterSelection.comCharacter(ventana.ai)[i - human]);
                 LogMethods.insertLog(playerList.get(i).character, i - human, true);
             } // end for loop
 
-            /* // Prints all characters on screen
-            for(int i = 0; i < playerList.size(); i++) {
-                System.out.println("playerList position " + i + " = " + playerList.get(i).character + " " + playerList.get(i).playerName);
-            } // end for loop */
-
             ventana.dispose(); // Closes the window
 
-            // Dejar esto comentado para pruebas (comentar con shift + alt + A)
-            // Cambiar para hacer pruebas a eleccion
-            Player j2 = new Player("Greninja", "Kaaxerd", "Water", 72, 95, 67, 103, 71, 122, "Water Shuriken", 75, +1);
-            Player j1 = new Player("Infernape", null, "Fire", 76, 104, 71, 104, 71, 108, "Flare Blitz", 120, 0);
-            System.out.println(ventana.hardMode);
-            Game.turn(j1, j2, ventana.hardMode);
+            simulateBattleRoyale(); // Invoke the method to simulate the game
 
         } catch(Exception e) {
             System.out.println("An error occurred.");
@@ -85,4 +75,114 @@ public class Main {
             System.out.println("Main finished.");
         } // end of try, catch, finally
     } // end of main
+
+    private static void simulateBattleRoyale() {
+        StringBuilder resultStringBuilder = new StringBuilder();
+
+        while(playerList.size() > 1) {
+            printCurrentPlayers();
+            resultStringBuilder.append(getCurrentPlayersInfo());
+    
+            List<Player> playersToRemove = new ArrayList<>();
+    
+            Iterator<Player> iterator = playerList.iterator();
+            while (iterator.hasNext()) {
+                Player player1 = iterator.next();
+    
+                if (iterator.hasNext()) {
+                    Player player2 = iterator.next();
+    
+                    int result = Game.turn(player1, player2, ventana.hardMode);
+    
+                    if (result == 1) {
+                        // Player 1 wins, mark player 2 for removal
+                        playersToRemove.add(player2);
+                        //resultStringBuilder.append(Game.strbuild.toString());  // Agrega el resultado del enfrentamiento
+                    } else if (result == 2) {
+                        // Player 2 wins, mark player 1 for removal
+                        playersToRemove.add(player1);
+                        //resultStringBuilder.append(Game.strbuild.toString());  // Agrega el resultado del enfrentamiento
+                    }
+                } else {
+                    // Impar, el jugador pasa automáticamente a la siguiente ronda
+                }
+
+                //resultStringBuilder.append(Game.strbuild.toString());
+            }
+            
+            // Eliminar jugadores marcados para la eliminación
+            playerList.removeAll(playersToRemove);
+            resultStringBuilder.append(Game.strbuild.toString());
+            Game.strbuild.setLength(0);
+        }
+    
+        // Queda un solo jugador, imprimir el ganador
+        if (!playerList.isEmpty()) {
+
+            System.out.println("Winner: " + playerList.get(0).toString());
+            resultStringBuilder.append("Winner: " + playerList.get(0).toString() + "\n");
+            //LogMethods.insertLog(playerList.get(0));
+        } else {
+            System.out.println("No winner. Error in simulation.");
+            resultStringBuilder.append("No winner. Error in simulation.\n");
+        }
+        ventana.showResultWindow(resultStringBuilder.toString());
+    }
+    
+    private static void printCurrentPlayers() {
+        System.out.println("Current players:");
+        Iterator<Player> iterator = playerList.iterator();
+        while (iterator.hasNext()) {
+            Player player = iterator.next();
+            System.out.printf("%s - HP: %d\n", player.toString(), player.currentHP);
+    
+            if (player.currentHP <= 0) {
+                iterator.remove(); // Eliminar jugadores con HP <= 0
+                //System.out.println(player.character + " fainted!");
+            }
+        }
+        System.out.println();
+    }
+
+    private static String getCurrentPlayersInfo() {
+        StringBuilder currentPlayersInfo = new StringBuilder("Current players:\n");
+    
+        for (Player player : playerList) {
+            currentPlayersInfo.append(player.toString())
+                    .append(" - HP: ")
+                    .append(player.currentHP)
+                    .append("\n");
+    
+            if (player.currentHP <= 0) {
+                currentPlayersInfo.append(player.character).append(" fainted!\n");
+            }
+        }
+    
+        currentPlayersInfo.append("\n");
+    
+        return currentPlayersInfo.toString();
+    }
+
+    /* private static String getTurnDetails(Player attacker, Player receiver) {
+        StringBuilder turnDetails = new StringBuilder();
+    
+        turnDetails.append(attacker.toString())
+                .append(" vs. ")
+                .append(receiver.toString())
+                .append("\n")
+                .append(attacker.toString())
+                .append(" used ")
+                .append(attacker.moveName)
+                .append(".\n");
+    
+        int damage = Game.damageCalculator(attacker, receiver, ventana.hardMode);
+    
+        turnDetails.append("(")
+                .append(receiver.toString())
+                .append(" lost ")
+                .append(damage * 100 / receiver.HP)
+                .append("% of its health!)\n");
+    
+        return turnDetails.toString();
+    } */
 } // end of Main

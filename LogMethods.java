@@ -33,7 +33,7 @@ public class LogMethods {
         try {
             FileWriter w = new FileWriter("Log_" + currentDate() + ".txt", true);
 
-            if(p1.playerName != null && p2.playerName != null) { // Both players are human
+            /* if(p1.playerName != null && p2.playerName != null) { // Both players are human
                 w.write(p1.playerName + " (" + p1.character + ") vs. " + p2.playerName + " (" + p2.character + ").\n");
             } else if(p1.playerName != null && p2.playerName == null) { // 1st is human, 2nd is not
                 w.write(p1.playerName + " (" + p1.character + ") vs. " + p2.character + ".\n");
@@ -41,7 +41,9 @@ public class LogMethods {
                 w.write(p1.character + " vs. " + p2.playerName + " (" + p2.character + ").\n");
             } else {
                 w.write(p1.character + " vs. " + p2.character + ".\n");
-            } // end if, else if x2, else condition
+            } // end if, else if x2, else condition */
+
+            w.write(p1.toString() + " vs. " + p2.toString());
 
             w.close();
         } catch(Exception e) {
@@ -54,11 +56,13 @@ public class LogMethods {
         try {
             FileWriter w = new FileWriter("Log_" + currentDate() + ".txt", true);
 
-            if(attacker.playerName != null) {
+            /* if(attacker.playerName != null) {
                 w.write(attacker.playerName + " (" + attacker.character + ") used " + attacker.moveName + ".\n");
             } else {
                 w.write(attacker.character + " used " + attacker.moveName + ".\n");
-            } // end if else conditions
+            } // end if else conditions */
+
+            w.write(attacker.toString() + " used " + attacker.moveName + ".\n");
 
             if(type == 2) {
                 w.write("It's super effective!\n");
@@ -70,11 +74,13 @@ public class LogMethods {
                 w.write("A critical hit!\n");
             } // end if condition
 
-            if(receiver.playerName != null) {
+            /* if(receiver.playerName != null) {
                 w.write(receiver.playerName + " (" + receiver.character + ") lost " + (damage * 100 / receiver.HP) + "% of its health.\n");
             } else {
                 w.write(receiver.character + " lost " + (damage * 100 / receiver.HP) + "% of its health.\n");
-            } // end if else condition
+            } // end if else condition */
+
+            w.write(receiver.toString() + " lost " + (damage * 100 / receiver.HP) + "% of its health.\n");
 
             w.close();
         } catch(Exception e) {
@@ -87,11 +93,13 @@ public class LogMethods {
         try {
             FileWriter w = new FileWriter("Log_" + currentDate() + ".txt", true);
 
-            if(fainted.playerName != null) {
+            /* if(fainted.playerName != null) {
                 w.write(fainted.playerName + " (" + fainted.character + ") fainted!\n");
             } else {
                 w.write(fainted.character + " fainted!\n");
-            } // end if else condition
+            } // end if else condition */
+
+            w.write(fainted.toString() + " fainted!\n");
 
             w.close();
         } catch(Exception e) {

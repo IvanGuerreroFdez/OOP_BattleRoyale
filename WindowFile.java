@@ -2,7 +2,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
-import java.io.*;
 
 public class WindowFile extends JFrame {
     public int human, ai; // Number of players (need to be accessed from Main)
@@ -80,6 +79,9 @@ public class WindowFile extends JFrame {
 
                     // Close the difficulty window
                     dispose();
+                    JOptionPane.showMessageDialog(null, "You automatically win, was too easy!");
+                    System.out.println("Easy mode = insta win!");
+                    System.exit(0);
                 } // end of actionPerformed
             }); // end of addActionListener
             add(easyButton);
@@ -173,4 +175,37 @@ public class WindowFile extends JFrame {
             } // end for loop
         } // end of CharacterSelectionWindow
     } // end of CharacterSelectionWindow
+
+    private class ResultWindow extends JFrame {
+        public ResultWindow(String result) {
+            setTitle("Battle Results");
+            setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+            setSize(1080, 720);
+            setLocationRelativeTo(null);
+            setLayout(new BorderLayout());
+    
+            JTextArea resultTextArea = new JTextArea(result);
+            resultTextArea.setEditable(false);
+            JScrollPane scrollPane = new JScrollPane(resultTextArea);
+            add(scrollPane, BorderLayout.CENTER);
+    
+            JButton closeButton = new JButton("Close");
+            closeButton.addActionListener(new ActionListener() {
+                public void actionPerformed(ActionEvent e) {
+                    dispose();
+                }
+            });
+            
+            // Set a smaller size for the close button
+            closeButton.setPreferredSize(new Dimension(80, 30));
+            JPanel buttonPanel = new JPanel(new FlowLayout(FlowLayout.RIGHT));
+            buttonPanel.add(closeButton);
+            add(buttonPanel, BorderLayout.SOUTH);
+        }
+    }
+
+    public void showResultWindow(String result) {
+        ResultWindow resultWindow = new ResultWindow(result);
+        resultWindow.setVisible(true);
+    }
 } // end of WindowFile

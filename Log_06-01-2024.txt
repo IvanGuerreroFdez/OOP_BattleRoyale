@@ -1,0 +1,3087 @@
+Player 1 selected Venusaur.
+Player 2 selected Charizard.
+AI 0 selected Torterra.
+AI 1 selected Delphox.
+AI 2 selected Empoleon.
+AI 3 selected Samurott.
+Infernape vs. Kaaxerd (Greninja).
+Kaaxerd (Greninja) used Water Shuriken.
+It's super effective!
+Infernape lost 104% of its health.
+Infernape fainted!
+Player 1 selected Venusaur.
+Player 2 selected Charizard.
+AI 0 selected Venusaur.
+AI 1 selected Incineroar.
+AI 2 selected Primarina.
+AI 3 selected Quaquaval.
+Player 1 (Venusaur) vs. Player 2 (Charizard).
+Player 2 (Charizard) used Flamethrower.
+Player 1 (Venusaur) lost 31% of its health.
+Player 1 (Venusaur) used Energy Ball.
+Player 2 (Charizard) lost 30% of its health.
+Venusaur vs. Incineroar.
+Venusaur used Energy Ball.
+Incineroar lost 30% of its health.
+Incineroar used Flare Blitz.
+Venusaur lost 49% of its health.
+Primarina vs. Quaquaval.
+Quaquaval used Aqua Step.
+Primarina lost 40% of its health.
+Primarina used Hydro Pump.
+Quaquaval lost 57% of its health.
+Player 1 (Venusaur) vs. Player 2 (Charizard).
+Player 2 (Charizard) used Flamethrower.
+Player 1 (Venusaur) lost 30% of its health.
+Player 1 (Venusaur) used Energy Ball.
+Player 2 (Charizard) lost 31% of its health.
+Venusaur vs. Incineroar.
+Venusaur used Energy Ball.
+Incineroar lost 27% of its health.
+Incineroar used Flare Blitz.
+Venusaur lost 47% of its health.
+Primarina vs. Quaquaval.
+Quaquaval used Aqua Step.
+Primarina lost 36% of its health.
+Primarina used Hydro Pump.
+Quaquaval lost 52% of its health.
+Quaquaval fainted!
+Player 1 (Venusaur) vs. Player 2 (Charizard).
+Player 2 (Charizard) used Flamethrower.
+Player 1 (Venusaur) lost 29% of its health.
+Player 1 (Venusaur) used Energy Ball.
+Player 2 (Charizard) lost 33% of its health.
+Venusaur vs. Incineroar.
+Venusaur used Energy Ball.
+Incineroar lost 30% of its health.
+Incineroar used Flare Blitz.
+Venusaur lost 52% of its health.
+Venusaur fainted!
+Player 1 selected Swampert.
+Player 2 selected Torterra.
+AI 0 selected Venusaur.
+AI 1 selected Meowscarada.
+Player 1 (Swampert) vs. Player 2 (Torterra).
+Player 1 (Swampert) used Muddy Water.
+Player 2 (Torterra) lost 27% of its health.
+Player 2 (Torterra) used Seed Bomb.
+Player 1 (Swampert) lost 28% of its health.
+Venusaur vs. Meowscarada.
+Meowscarada used Flower Trick.
+Venusaur lost 28% of its health.
+Venusaur used Energy Ball.
+Meowscarada lost 40% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra).
+Player 1 (Swampert) used Muddy Water.
+Player 2 (Torterra) lost 29% of its health.
+Player 2 (Torterra) used Seed Bomb.
+Player 1 (Swampert) lost 28% of its health.
+Venusaur vs. Meowscarada.
+Meowscarada used Flower Trick.
+Venusaur lost 27% of its health.
+Venusaur used Energy Ball.
+Meowscarada lost 39% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra).
+Player 1 (Swampert) used Muddy Water.
+Player 2 (Torterra) lost 29% of its health.
+Player 2 (Torterra) used Seed Bomb.
+Player 1 (Swampert) lost 27% of its health.
+Venusaur vs. Meowscarada.
+Meowscarada used Flower Trick.
+Venusaur lost 30% of its health.
+Venusaur used Energy Ball.
+Meowscarada lost 36% of its health.
+Meowscarada fainted!
+Player 1 (Swampert) vs. Player 2 (Torterra).
+Player 1 (Swampert) used Muddy Water.
+Player 2 (Torterra) lost 28% of its health.
+Player 2 (Torterra) fainted!
+Player 1 (Swampert) vs. Venusaur.
+Venusaur used Energy Ball.
+Player 1 (Swampert) lost 27% of its health.
+Player 1 (Swampert) fainted!
+Player 1 selected Blastoise.
+Player 2 selected Delphox.
+AI 0 selected Blastoise.
+AI 1 selected Charizard.
+Player 1 (Blastoise) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Blastoise) lost 30% of its health.
+Player 1 (Blastoise) used Hydro Pump.
+Player 2 (Delphox) lost 31% of its health.
+Blastoise vs. Charizard.
+Charizard used Flamethrower.
+Blastoise lost 30% of its health.
+Blastoise used Hydro Pump.
+Charizard lost 37% of its health.
+Player 1 (Blastoise) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Blastoise) lost 31% of its health.
+Player 1 (Blastoise) used Hydro Pump.
+Player 2 (Delphox) lost 29% of its health.
+Blastoise vs. Charizard.
+Charizard used Flamethrower.
+Blastoise lost 29% of its health.
+Blastoise used Hydro Pump.
+Charizard lost 36% of its health.
+Player 1 (Blastoise) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Blastoise) lost 29% of its health.
+Player 1 (Blastoise) used Hydro Pump.
+Player 2 (Delphox) lost 28% of its health.
+Blastoise vs. Charizard.
+Charizard used Flamethrower.
+Blastoise lost 27% of its health.
+Blastoise used Hydro Pump.
+Charizard lost 32% of its health.
+Charizard fainted!
+Player 1 (Blastoise) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Blastoise) lost 28% of its health.
+Player 1 (Blastoise) fainted!
+Player 1 (Blastoise) vs. Blastoise.
+Blastoise used Hydro Pump.
+It's not very effective...
+Player 1 (Blastoise) lost 15% of its health.
+Player 1 (Blastoise) fainted!
+Player 1 selected Torterra.
+Player 2 selected Greninja.
+AI 0 selected Meowscarada.
+AI 1 selected Quaquaval.
+Player 1 (Torterra) vs. Player 2 (Greninja).
+Player 2 (Greninja) used Water Shuriken.
+Player 1 (Torterra) lost 26% of its health.
+Meowscarada vs. Quaquaval.
+Meowscarada used Flower Trick.
+Quaquaval lost 26% of its health.
+Player 1 (Torterra) vs. Player 2 (Greninja).
+Player 2 (Greninja) used Water Shuriken.
+Player 1 (Torterra) lost 27% of its health.
+Meowscarada vs. Quaquaval.
+Meowscarada used Flower Trick.
+Quaquaval lost 27% of its health.
+Player 1 (Torterra) vs. Player 2 (Greninja).
+Player 2 (Greninja) used Water Shuriken.
+Player 1 (Torterra) lost 24% of its health.
+Meowscarada vs. Quaquaval.
+Meowscarada used Flower Trick.
+Quaquaval lost 27% of its health.
+Player 1 (Torterra) vs. Player 2 (Greninja).
+Player 2 (Greninja) used Water Shuriken.
+Player 1 (Torterra) lost 25% of its health.
+Player 1 (Torterra) fainted!
+Meowscarada vs. Quaquaval.
+Meowscarada used Flower Trick.
+Quaquaval lost 29% of its health.
+Quaquaval fainted!
+Player 1 (Torterra) vs. Meowscarada.
+Meowscarada used Flower Trick.
+Player 1 (Torterra) lost 21% of its health.
+Player 1 (Torterra) fainted!
+Player 1 selected Torterra.
+Player 2 selected Decidueye.
+AI 0 selected Infernape.
+AI 1 selected Empoleon.
+Player 1 (Torterra) vs. Player 2 (Decidueye).
+Player 2 (Decidueye) used Leaf Blade.
+Player 1 (Torterra) lost 25% of its health.
+Infernape vs. Empoleon.
+Infernape used Flare Blitz.
+Empoleon lost 46% of its health.
+Player 1 (Torterra) vs. Player 2 (Decidueye).
+Player 2 (Decidueye) used Leaf Blade.
+Player 1 (Torterra) lost 27% of its health.
+Infernape vs. Empoleon.
+Infernape used Flare Blitz.
+Empoleon lost 42% of its health.
+Player 1 (Torterra) vs. Player 2 (Decidueye).
+Player 2 (Decidueye) used Leaf Blade.
+Player 1 (Torterra) lost 28% of its health.
+Infernape vs. Empoleon.
+Infernape used Flare Blitz.
+Empoleon lost 43% of its health.
+Empoleon fainted!
+Player 1 (Torterra) vs. Player 2 (Decidueye).
+Player 2 (Decidueye) used Leaf Blade.
+Player 1 (Torterra) lost 26% of its health.
+Player 1 (Torterra) fainted!
+Player 1 (Torterra) vs. Infernape.
+Infernape used Flare Blitz.
+Player 1 (Torterra) lost 33% of its health.
+Player 1 (Torterra) fainted!
+Player 1 selected Empoleon.
+Player 2 selected Samurott.
+AI 0 selected Infernape.
+AI 1 selected Infernape.
+Player 1 (Empoleon) vs. Player 2 (Samurott).
+Player 2 (Samurott) used Hydro Pump.
+Player 1 (Empoleon) lost 34% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+A critical hit!
+Player 2 (Samurott) lost 75% of its health.
+Infernape vs. Infernape.
+Infernape used Flare Blitz.
+It's not very effective...
+Infernape lost 25% of its health.
+Infernape used Flare Blitz.
+It's not very effective...
+A critical hit!
+Infernape lost 43% of its health.
+Player 1 (Empoleon) vs. Player 2 (Samurott).
+Player 2 (Samurott) used Hydro Pump.
+A critical hit!
+Player 1 (Empoleon) lost 51% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+A critical hit!
+Player 2 (Samurott) lost 67% of its health.
+Player 2 (Samurott) fainted!
+Infernape vs. Infernape.
+Infernape used Flare Blitz.
+It's not very effective...
+A critical hit!
+Infernape lost 38% of its health.
+Infernape used Flare Blitz.
+It's not very effective...
+A critical hit!
+Infernape lost 41% of its health.
+Player 1 (Empoleon) vs. Infernape.
+Infernape used Flare Blitz.
+A critical hit!
+Player 1 (Empoleon) lost 61% of its health.
+Player 1 (Empoleon) fainted!
+Player 1 (Empoleon) vs. Infernape.
+Infernape used Flare Blitz.
+Player 1 (Empoleon) lost 40% of its health.
+Player 1 (Empoleon) fainted!
+Player 1 selected Charizard.
+Player 2 selected Venusaur.
+AI 0 selected Serperior.
+AI 1 selected Emboar.
+Player 1 (Charizard) vs. Player 2 (Venusaur).
+Player 1 (Charizard) used Flamethrower.
+Player 2 (Venusaur) lost 33% of its health.
+Player 2 (Venusaur) used Energy Ball.
+Player 1 (Charizard) lost 30% of its health.
+Serperior vs. Emboar.
+Serperior used Leaf Blade.
+Emboar lost 27% of its health.
+Emboar used Flare Blitz.
+Serperior lost 52% of its health.
+Player 1 (Charizard) vs. Player 2 (Venusaur).
+Player 1 (Charizard) used Flamethrower.
+Player 2 (Venusaur) lost 29% of its health.
+Player 2 (Venusaur) used Energy Ball.
+Player 1 (Charizard) lost 34% of its health.
+Serperior vs. Emboar.
+Serperior used Leaf Blade.
+Emboar lost 29% of its health.
+Emboar used Flare Blitz.
+Serperior lost 46% of its health.
+Player 1 (Charizard) vs. Player 2 (Venusaur).
+Player 1 (Charizard) used Flamethrower.
+Player 2 (Venusaur) lost 32% of its health.
+Player 2 (Venusaur) used Energy Ball.
+Player 1 (Charizard) lost 31% of its health.
+Serperior vs. Emboar.
+Serperior used Leaf Blade.
+Emboar lost 25% of its health.
+Emboar used Flare Blitz.
+Serperior lost 51% of its health.
+Serperior fainted!
+Player 1 (Charizard) vs. Player 2 (Venusaur).
+Player 1 (Charizard) used Flamethrower.
+Player 2 (Venusaur) lost 29% of its health.
+Player 2 (Venusaur) fainted!
+Player 1 (Charizard) vs. Serperior.
+Serperior used Leaf Blade.
+Player 1 (Charizard) lost 30% of its health.
+Player 1 (Charizard) fainted!
+Player 1 selected Charizard.
+Player 2 selected Delphox.
+AI 0 selected Torterra.
+AI 1 selected Infernape.
+Player 1 (Charizard) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Charizard) lost 34% of its health.
+Player 1 (Charizard) used Flamethrower.
+Player 2 (Delphox) lost 29% of its health.
+Torterra vs. Infernape.
+Infernape used Flare Blitz.
+Torterra lost 37% of its health.
+Torterra used Seed Bomb.
+Infernape lost 40% of its health.
+Player 1 (Charizard) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Charizard) lost 36% of its health.
+Player 1 (Charizard) used Flamethrower.
+Player 2 (Delphox) lost 28% of its health.
+Torterra vs. Infernape.
+Infernape used Flare Blitz.
+Torterra lost 35% of its health.
+Torterra used Seed Bomb.
+Infernape lost 34% of its health.
+Player 1 (Charizard) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Charizard) lost 38% of its health.
+Player 1 (Charizard) fainted!
+Torterra vs. Infernape.
+Infernape used Flare Blitz.
+Torterra lost 36% of its health.
+Torterra fainted!
+Player 1 (Charizard) vs. Torterra.
+Player 1 (Charizard) used Flamethrower.
+Torterra lost 31% of its health.
+Torterra fainted!
+Player 1 selected Delphox.
+Player 2 selected Greninja.
+AI 0 selected Decidueye.
+AI 1 selected Rillaboom.
+Player 1 (Delphox) vs. Player 2 (Greninja).
+Player 2 (Greninja) used Water Shuriken.
+Player 1 (Delphox) lost 26% of its health.
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Greninja) lost 48% of its health.
+Decidueye vs. Rillaboom.
+Rillaboom used Drum Beating.
+Decidueye lost 40% of its health.
+Decidueye used Leaf Blade.
+Rillaboom lost 29% of its health.
+Player 1 (Delphox) vs. Player 2 (Greninja).
+Player 2 (Greninja) used Water Shuriken.
+Player 1 (Delphox) lost 24% of its health.
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Greninja) lost 45% of its health.
+Decidueye vs. Rillaboom.
+Rillaboom used Drum Beating.
+Decidueye lost 37% of its health.
+Decidueye used Leaf Blade.
+Rillaboom lost 31% of its health.
+Player 1 (Delphox) vs. Player 2 (Greninja).
+Player 2 (Greninja) used Water Shuriken.
+Player 1 (Delphox) lost 24% of its health.
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Greninja) lost 46% of its health.
+Player 2 (Greninja) fainted!
+Decidueye vs. Rillaboom.
+Rillaboom used Drum Beating.
+Decidueye lost 37% of its health.
+Decidueye fainted!
+Player 1 (Delphox) vs. Decidueye.
+Player 1 (Delphox) used Flamethrower.
+Decidueye lost 33% of its health.
+Decidueye fainted!
+Player 1 selected Infernape.
+Player 2 selected Empoleon.
+Player 3 selected Emboar.
+AI 0 selected Samurott.
+AI 1 selected Torterra.
+AI 2 selected Decidueye.
+AI 3 selected Feraligatr.
+AI 4 selected Skeledirge.
+AI 5 selected Empoleon.
+AI 6 selected Primarina.
+Player 1 (Infernape) vs. Player 2 (Empoleon).
+Player 1 (Infernape) used Flare Blitz.
+Player 2 (Empoleon) lost 44% of its health.
+Player 2 (Empoleon) used Hydro Pump.
+Player 1 (Infernape) lost 54% of its health.
+Player 3 (Emboar) vs. Samurott.
+Samurott used Hydro Pump.
+Player 3 (Emboar) lost 49% of its health.
+Player 3 (Emboar) used Flare Blitz.
+Samurott lost 44% of its health.
+Torterra vs. Decidueye.
+Decidueye used Leaf Blade.
+Torterra lost 28% of its health.
+Torterra used Seed Bomb.
+Decidueye lost 37% of its health.
+Feraligatr vs. Skeledirge.
+Feraligatr used Waterfall.
+Skeledirge lost 24% of its health.
+Skeledirge used Torch Song.
+Feraligatr lost 30% of its health.
+Empoleon vs. Primarina.
+Primarina used Hydro Pump.
+Empoleon lost 42% of its health.
+Empoleon used Hydro Pump.
+Primarina lost 33% of its health.
+Player 1 (Infernape) vs. Player 2 (Empoleon).
+Player 1 (Infernape) used Flare Blitz.
+Player 2 (Empoleon) lost 39% of its health.
+Player 2 (Empoleon) used Hydro Pump.
+Player 1 (Infernape) lost 50% of its health.
+Player 1 (Infernape) fainted!
+Player 3 (Emboar) vs. Samurott.
+Samurott used Hydro Pump.
+Player 3 (Emboar) lost 45% of its health.
+Player 3 (Emboar) used Flare Blitz.
+Samurott lost 51% of its health.
+Torterra vs. Decidueye.
+Decidueye used Leaf Blade.
+Torterra lost 27% of its health.
+Torterra used Seed Bomb.
+Decidueye lost 35% of its health.
+Feraligatr vs. Skeledirge.
+Feraligatr used Waterfall.
+Skeledirge lost 21% of its health.
+Skeledirge used Torch Song.
+Feraligatr lost 30% of its health.
+Empoleon vs. Primarina.
+Primarina used Hydro Pump.
+Empoleon lost 44% of its health.
+Empoleon used Hydro Pump.
+Primarina lost 33% of its health.
+Player 1 (Infernape) vs. Player 3 (Emboar).
+Player 1 (Infernape) used Flare Blitz.
+Player 3 (Emboar) lost 51% of its health.
+Player 3 (Emboar) fainted!
+Samurott vs. Torterra.
+Samurott used Hydro Pump.
+Torterra lost 42% of its health.
+Torterra used Seed Bomb.
+Samurott lost 29% of its health.
+Samurott fainted!
+Decidueye vs. Feraligatr.
+Feraligatr used Waterfall.
+Decidueye lost 32% of its health.
+Decidueye fainted!
+Skeledirge vs. Empoleon.
+Skeledirge used Torch Song.
+Empoleon lost 26% of its health.
+Empoleon fainted!
+Player 1 (Infernape) vs. Samurott.
+Player 1 (Infernape) used Flare Blitz.
+Samurott lost 44% of its health.
+Samurott fainted!
+Decidueye vs. Skeledirge.
+Decidueye used Leaf Blade.
+Skeledirge lost 28% of its health.
+Skeledirge used Torch Song.
+Decidueye lost 28% of its health.
+Decidueye fainted!
+Player 1 (Infernape) vs. Decidueye.
+Player 1 (Infernape) used Flare Blitz.
+Decidueye lost 50% of its health.
+Decidueye fainted!
+Player 1 (Infernape) vs. Primarina.
+Player 1 (Infernape) used Flare Blitz.
+Primarina lost 51% of its health.
+Primarina fainted!
+Player 1 selected Meowscarada.
+Player 2 selected Samurott.
+AI 0 selected Emboar.
+AI 1 selected Quaquaval.
+Player 1 (Meowscarada) vs. Player 2 (Samurott).
+Player 1 (Meowscarada) used Flower Trick.
+Player 2 (Samurott) lost 26% of its health.
+Player 2 (Samurott) used Hydro Pump.
+Player 1 (Meowscarada) lost 52% of its health.
+Emboar vs. Quaquaval.
+Quaquaval used Aqua Step.
+Emboar lost 40% of its health.
+Emboar used Flare Blitz.
+Quaquaval lost 52% of its health.
+Player 1 (Meowscarada) vs. Player 2 (Samurott).
+Player 1 (Meowscarada) used Flower Trick.
+Player 2 (Samurott) lost 26% of its health.
+Player 2 (Samurott) used Hydro Pump.
+Player 1 (Meowscarada) lost 47% of its health.
+Player 1 (Meowscarada) fainted!
+Emboar vs. Quaquaval.
+Quaquaval used Aqua Step.
+Emboar lost 39% of its health.
+Emboar used Flare Blitz.
+Quaquaval lost 57% of its health.
+Quaquaval fainted!
+Player 1 selected Torterra.
+Player 2 selected Empoleon.
+AI 0 selected Decidueye.
+AI 1 selected Emboar.
+Player 1 (Torterra) vs. Player 2 (Empoleon).
+Player 2 (Empoleon) used Hydro Pump.
+Player 1 (Torterra) lost 40% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Player 2 (Empoleon) lost 28% of its health.
+Decidueye vs. Emboar.
+Decidueye used Leaf Blade.
+Emboar lost 40% of its health.
+Emboar used Flare Blitz.
+Decidueye lost 62% of its health.
+Player 1 (Torterra) vs. Player 2 (Empoleon).
+Player 2 (Empoleon) used Hydro Pump.
+Player 1 (Torterra) lost 40% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Player 2 (Empoleon) lost 31% of its health.
+Decidueye vs. Emboar.
+Decidueye used Leaf Blade.
+Emboar lost 36% of its health.
+Emboar used Flare Blitz.
+Decidueye lost 60% of its health.
+Decidueye fainted!
+Player 1 (Torterra) vs. Player 2 (Empoleon).
+Player 2 (Empoleon) used Hydro Pump.
+Player 1 (Torterra) lost 39% of its health.
+Player 1 (Torterra) fainted!
+Player 1 selected Empoleon.
+Player 2 selected Incineroar.
+AI 0 selected Cinderace.
+AI 1 selected Inteleon.
+Player 1 (Empoleon) vs. Player 2 (Incineroar).
+Player 2 (Incineroar) used Flare Blitz.
+Player 1 (Empoleon) lost 49% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+Player 2 (Incineroar) lost 37% of its health.
+Cinderace vs. Inteleon.
+Inteleon used Snipe Shot.
+Cinderace lost 42% of its health.
+Cinderace used Pyro Ball.
+Inteleon lost 66% of its health.
+Player 1 (Empoleon) vs. Player 2 (Incineroar).
+Player 2 (Incineroar) used Flare Blitz.
+Player 1 (Empoleon) lost 50% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+Player 2 (Incineroar) lost 37% of its health.
+Cinderace vs. Inteleon.
+Inteleon used Snipe Shot.
+Cinderace lost 39% of its health.
+Cinderace used Pyro Ball.
+Inteleon lost 66% of its health.
+Inteleon fainted!
+Player 1 (Empoleon) vs. Player 2 (Incineroar).
+Player 2 (Incineroar) used Flare Blitz.
+Player 1 (Empoleon) lost 50% of its health.
+Player 1 (Empoleon) fainted!
+Player 1 selected Serperior.
+Player 2 selected Quaquaval.
+AI 0 selected Typhlosion.
+AI 1 selected Quaquaval.
+Player 1 (Serperior) vs. Player 2 (Quaquaval).
+Player 1 (Serperior) used Leaf Blade.
+Player 2 (Quaquaval) lost 27% of its health.
+Player 2 (Quaquaval) used Aqua Step.
+Player 1 (Serperior) lost 30% of its health.
+Typhlosion vs. Quaquaval.
+Typhlosion used Flamethrower.
+Quaquaval lost 39% of its health.
+Quaquaval used Aqua Step.
+Typhlosion lost 39% of its health.
+Player 1 (Serperior) vs. Player 2 (Quaquaval).
+Player 1 (Serperior) used Leaf Blade.
+Player 2 (Quaquaval) lost 28% of its health.
+Player 2 (Quaquaval) used Aqua Step.
+Player 1 (Serperior) lost 31% of its health.
+Typhlosion vs. Quaquaval.
+Typhlosion used Flamethrower.
+Quaquaval lost 37% of its health.
+Quaquaval used Aqua Step.
+Typhlosion lost 36% of its health.
+Player 1 (Serperior) vs. Player 2 (Quaquaval).
+Player 1 (Serperior) used Leaf Blade.
+Player 2 (Quaquaval) lost 26% of its health.
+Player 2 (Quaquaval) used Aqua Step.
+Player 1 (Serperior) lost 33% of its health.
+Typhlosion vs. Quaquaval.
+Typhlosion used Flamethrower.
+Quaquaval lost 35% of its health.
+Quaquaval fainted!
+Player 1 selected Serperior.
+Player 2 selected Emboar.
+AI 0 selected Decidueye.
+AI 1 selected Venusaur.
+Player 1 (Serperior) vs. Player 2 (Emboar).
+Player 1 (Serperior) used Leaf Blade.
+Player 2 (Emboar) lost 27% of its health.
+Player 2 (Emboar) used Flare Blitz.
+Player 1 (Serperior) lost 47% of its health.
+Decidueye vs. Venusaur.
+Venusaur used Energy Ball.
+Decidueye lost 29% of its health.
+Decidueye used Leaf Blade.
+Venusaur lost 32% of its health.
+Player 1 (Serperior) vs. Player 2 (Emboar).
+Player 1 (Serperior) used Leaf Blade.
+Player 2 (Emboar) lost 30% of its health.
+Player 2 (Emboar) used Flare Blitz.
+Player 1 (Serperior) lost 51% of its health.
+Decidueye vs. Venusaur.
+Venusaur used Energy Ball.
+Decidueye lost 29% of its health.
+Decidueye used Leaf Blade.
+Venusaur lost 37% of its health.
+Player 1 (Serperior) vs. Player 2 (Emboar).
+Player 1 (Serperior) used Leaf Blade.
+Player 2 (Emboar) lost 26% of its health.
+Player 2 (Emboar) used Flare Blitz.
+Player 1 (Serperior) lost 51% of its health.
+Player 1 (Serperior) fainted!
+Player 1 selected Infernape.
+Player 2 selected Meowscarada.
+AI 0 selected Torterra.
+Player 1 (Infernape) vs. Player 2 (Meowscarada).
+Player 2 (Meowscarada) used Flower Trick.
+Player 1 (Infernape) lost 32% of its health.
+Player 1 (Infernape) used Flare Blitz.
+Player 2 (Meowscarada) lost 52% of its health.
+Player 1 (Infernape) vs. Player 2 (Meowscarada).
+Player 2 (Meowscarada) used Flower Trick.
+Player 1 (Infernape) lost 32% of its health.
+Player 1 (Infernape) used Flare Blitz.
+Player 2 (Meowscarada) lost 58% of its health.
+Player 2 (Meowscarada) fainted!
+Player 1 (Infernape) vs. Torterra.
+Player 1 (Infernape) used Flare Blitz.
+Torterra lost 33% of its health.
+Torterra used Seed Bomb.
+Player 1 (Infernape) lost 39% of its health.
+Player 1 (Infernape) fainted!
+Player 1 selected Feraligatr.
+Player 2 selected Chesnaught.
+AI 0 selected Incineroar.
+AI 1 selected Greninja.
+Player 1 (Feraligatr) vs. Player 2 (Chesnaught).
+Player 1 (Feraligatr) used Waterfall.
+Player 2 (Chesnaught) lost 20% of its health.
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Feraligatr) lost 28% of its health.
+Incineroar vs. Greninja.
+Greninja used Water Shuriken.
+Incineroar lost 26% of its health.
+Incineroar used Flare Blitz.
+Greninja lost 62% of its health.
+Player 1 (Feraligatr) vs. Player 2 (Chesnaught).
+Player 1 (Feraligatr) used Waterfall.
+Player 2 (Chesnaught) lost 21% of its health.
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Feraligatr) lost 24% of its health.
+Incineroar vs. Greninja.
+Greninja used Water Shuriken.
+Incineroar lost 24% of its health.
+Incineroar used Flare Blitz.
+Greninja lost 63% of its health.
+Greninja fainted!
+Player 1 (Feraligatr) vs. Player 2 (Chesnaught).
+Player 1 (Feraligatr) used Waterfall.
+Player 2 (Chesnaught) lost 21% of its health.
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Feraligatr) lost 24% of its health.
+Player 1 (Feraligatr) vs. Player 2 (Chesnaught).
+Player 1 (Feraligatr) used Waterfall.
+Player 2 (Chesnaught) lost 22% of its health.
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Feraligatr) lost 26% of its health.
+Player 1 (Feraligatr) fainted!
+Player 1 selected Empoleon.
+Player 2 selected Blaziken.
+AI 0 selected Incineroar.
+AI 1 selected Primarina.
+Player 1 (Empoleon) vs. Player 2 (Blaziken).
+Player 2 (Blaziken) used Blaze Kick.
+Player 1 (Empoleon) lost 36% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+Player 2 (Blaziken) lost 49% of its health.
+Incineroar vs. Primarina.
+Primarina used Hydro Pump.
+Incineroar lost 42% of its health.
+Incineroar used Flare Blitz.
+Primarina lost 51% of its health.
+Player 1 (Empoleon) vs. Player 2 (Blaziken).
+Player 2 (Blaziken) used Blaze Kick.
+Player 1 (Empoleon) lost 34% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+Player 2 (Blaziken) lost 49% of its health.
+Incineroar vs. Primarina.
+Primarina used Hydro Pump.
+Incineroar lost 46% of its health.
+Incineroar used Flare Blitz.
+Primarina lost 59% of its health.
+Primarina fainted!
+Player 1 (Empoleon) vs. Player 2 (Blaziken).
+Player 2 (Blaziken) used Blaze Kick.
+Player 1 (Empoleon) lost 31% of its health.
+Player 1 (Empoleon) fainted!
+Player 1 selected Decidueye.
+Player 2 selected Rillaboom.
+AI 0 selected Inteleon.
+AI 1 selected Chesnaught.
+Player 1 (Decidueye) vs. Player 2 (Rillaboom).
+Player 2 (Rillaboom) used Drum Beating.
+Player 1 (Decidueye) lost 39% of its health.
+Player 1 (Decidueye) used Leaf Blade.
+Player 2 (Rillaboom) lost 31% of its health.
+Inteleon vs. Chesnaught.
+Inteleon used Snipe Shot.
+Chesnaught lost 37% of its health.
+Chesnaught used Seed Bomb.
+Inteleon lost 41% of its health.
+Player 1 (Decidueye) vs. Player 2 (Rillaboom).
+Player 2 (Rillaboom) used Drum Beating.
+Player 1 (Decidueye) lost 41% of its health.
+Player 1 (Decidueye) used Leaf Blade.
+Player 2 (Rillaboom) lost 30% of its health.
+Inteleon vs. Chesnaught.
+Inteleon used Snipe Shot.
+Chesnaught lost 35% of its health.
+Chesnaught used Seed Bomb.
+Inteleon lost 37% of its health.
+Player 1 (Decidueye) vs. Player 2 (Rillaboom).
+Player 2 (Rillaboom) used Drum Beating.
+Player 1 (Decidueye) lost 42% of its health.
+Player 1 (Decidueye) fainted!
+Inteleon vs. Chesnaught.
+Inteleon used Snipe Shot.
+Chesnaught lost 39% of its health.
+Chesnaught fainted!
+Player 1 (Decidueye) vs. Inteleon.
+Inteleon used Snipe Shot.
+Player 1 (Decidueye) lost 32% of its health.
+Player 1 (Decidueye) fainted!
+Player 1 selected Incineroar.
+Player 2 selected Samurott.
+AI 0 selected Blastoise.
+AI 1 selected Decidueye.
+Player 1 (Incineroar) vs. Player 2 (Samurott).
+Player 2 (Samurott) used Hydro Pump.
+Player 1 (Incineroar) lost 38% of its health.
+Player 1 (Incineroar) used Flare Blitz.
+Player 2 (Samurott) lost 46% of its health.
+Blastoise vs. Decidueye.
+Blastoise used Hydro Pump.
+Decidueye lost 30% of its health.
+Decidueye used Leaf Blade.
+Blastoise lost 30% of its health.
+Player 1 (Incineroar) vs. Player 2 (Samurott).
+Player 2 (Samurott) used Hydro Pump.
+Player 1 (Incineroar) lost 40% of its health.
+Player 1 (Incineroar) used Flare Blitz.
+Player 2 (Samurott) lost 46% of its health.
+Blastoise vs. Decidueye.
+Blastoise used Hydro Pump.
+Decidueye lost 29% of its health.
+Decidueye used Leaf Blade.
+Blastoise lost 33% of its health.
+Player 1 (Incineroar) vs. Player 2 (Samurott).
+Player 2 (Samurott) used Hydro Pump.
+Player 1 (Incineroar) lost 39% of its health.
+Player 1 (Incineroar) fainted!
+Blastoise vs. Decidueye.
+Blastoise used Hydro Pump.
+Decidueye lost 30% of its health.
+Decidueye used Leaf Blade.
+Blastoise lost 28% of its health.
+Blastoise vs. Decidueye.
+Blastoise used Hydro Pump.
+Decidueye lost 29% of its health.
+Decidueye fainted!
+Player 1 selected Blastoise.
+Player 2 selected Primarina.
+AI 0 selected Torterra.
+AI 1 selected Inteleon.
+Player 1 (Blastoise) vs. Player 2 (Primarina).
+Player 1 (Blastoise) used Hydro Pump.
+Player 2 (Primarina) lost 27% of its health.
+Player 2 (Primarina) used Hydro Pump.
+Player 1 (Blastoise) lost 41% of its health.
+Torterra vs. Inteleon.
+Inteleon used Snipe Shot.
+Torterra lost 32% of its health.
+Torterra used Seed Bomb.
+Inteleon lost 43% of its health.
+Player 1 (Blastoise) vs. Player 2 (Primarina).
+Player 1 (Blastoise) used Hydro Pump.
+Player 2 (Primarina) lost 26% of its health.
+Player 2 (Primarina) used Hydro Pump.
+Player 1 (Blastoise) lost 39% of its health.
+Torterra vs. Inteleon.
+Inteleon used Snipe Shot.
+Torterra lost 32% of its health.
+Torterra used Seed Bomb.
+Inteleon lost 42% of its health.
+Player 1 (Blastoise) vs. Player 2 (Primarina).
+Player 1 (Blastoise) used Hydro Pump.
+Player 2 (Primarina) lost 25% of its health.
+Player 2 (Primarina) used Hydro Pump.
+Player 1 (Blastoise) lost 41% of its health.
+Player 1 (Blastoise) fainted!
+Torterra vs. Inteleon.
+Inteleon used Snipe Shot.
+Torterra lost 31% of its health.
+Torterra used Seed Bomb.
+Inteleon lost 41% of its health.
+Inteleon fainted!
+Player 2 (Primarina) vs. Torterra.
+Player 2 (Primarina) used Hydro Pump.
+Torterra lost 46% of its health.
+Torterra fainted!
+Player 1 selected Decidueye.
+AI 0 selected Samurott.
+AI 1 selected Blaziken.
+Player 1 (Decidueye) vs. Samurott.
+Samurott used Hydro Pump.
+Player 1 (Decidueye) lost 39% of its health.
+Player 1 (Decidueye) used Leaf Blade.
+Samurott lost 33% of its health.
+Player 1 (Decidueye) vs. Samurott.
+Samurott used Hydro Pump.
+Player 1 (Decidueye) lost 37% of its health.
+Player 1 (Decidueye) used Leaf Blade.
+Samurott lost 31% of its health.
+Player 1 (Decidueye) vs. Samurott.
+Samurott used Hydro Pump.
+Player 1 (Decidueye) lost 35% of its health.
+Player 1 (Decidueye) fainted!
+Samurott vs. Blaziken.
+Blaziken used Blaze Kick.
+Samurott lost 36% of its health.
+Samurott fainted!
+Player 1 selected Emboar.
+Player 2 selected Infernape.
+AI 0 selected Feraligatr.
+AI 1 selected Blaziken.
+Player 1 (Emboar) vs. Player 2 (Infernape).
+Player 2 (Infernape) used Flare Blitz.
+A critical hit!
+Player 1 (Emboar) lost 68% of its health.
+Player 1 (Emboar) used Flare Blitz.
+A critical hit!
+Player 2 (Infernape) lost 93% of its health.
+Feraligatr vs. Blaziken.
+Blaziken used Blaze Kick.
+A critical hit!
+Feraligatr lost 48% of its health.
+Feraligatr used Waterfall.
+Blaziken lost 34% of its health.
+Player 1 (Emboar) vs. Player 2 (Infernape).
+Player 2 (Infernape) used Flare Blitz.
+A critical hit!
+Player 1 (Emboar) lost 68% of its health.
+Player 1 (Emboar) fainted!
+Feraligatr vs. Blaziken.
+Blaziken used Blaze Kick.
+Feraligatr lost 31% of its health.
+Feraligatr used Waterfall.
+A critical hit!
+Blaziken lost 54% of its health.
+Player 2 (Infernape) vs. Feraligatr.
+Player 2 (Infernape) used Flare Blitz.
+Feraligatr lost 37% of its health.
+Feraligatr fainted!
+Player 2 (Infernape) vs. Blaziken.
+Player 2 (Infernape) used Flare Blitz.
+Blaziken lost 56% of its health.
+Blaziken fainted!
+Player 1 selected Samurott.
+Player 2 selected Inteleon.
+AI 0 selected Skeledirge.
+AI 1 selected Meowscarada.
+Player 1 (Samurott) vs. Player 2 (Inteleon).
+Player 2 (Inteleon) used Snipe Shot.
+Player 1 (Samurott) lost 40% of its health.
+Player 1 (Samurott) used Hydro Pump.
+Player 2 (Inteleon) lost 61% of its health.
+Skeledirge vs. Meowscarada.
+Meowscarada used Flower Trick.
+Skeledirge lost 20% of its health.
+Skeledirge used Torch Song.
+Meowscarada lost 39% of its health.
+Player 1 (Samurott) vs. Player 2 (Inteleon).
+Player 2 (Inteleon) used Snipe Shot.
+Player 1 (Samurott) lost 39% of its health.
+Player 1 (Samurott) used Hydro Pump.
+Player 2 (Inteleon) lost 53% of its health.
+Player 2 (Inteleon) fainted!
+Skeledirge vs. Meowscarada.
+Meowscarada used Flower Trick.
+Skeledirge lost 20% of its health.
+Skeledirge used Torch Song.
+Meowscarada lost 38% of its health.
+Player 1 (Samurott) vs. Skeledirge.
+Player 1 (Samurott) used Hydro Pump.
+Skeledirge lost 40% of its health.
+Skeledirge used Torch Song.
+Player 1 (Samurott) lost 32% of its health.
+Player 1 (Samurott) fainted!
+Skeledirge vs. Meowscarada.
+Meowscarada used Flower Trick.
+Skeledirge lost 21% of its health.
+Skeledirge fainted!
+Meowscarada fainted!
+Player 1 selected Delphox.
+Player 2 selected Chesnaught.
+AI 0 selected Primarina.
+AI 1 selected Emboar.
+Player 1 (Delphox) vs. Player 2 (Chesnaught).
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Chesnaught) lost 37% of its health.
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Delphox) lost 37% of its health.
+Primarina vs. Emboar.
+Emboar used Flare Blitz.
+Primarina lost 59% of its health.
+Primarina used Hydro Pump.
+Emboar lost 52% of its health.
+Player 1 (Delphox) vs. Player 2 (Chesnaught).
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Chesnaught) lost 41% of its health.
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Delphox) lost 38% of its health.
+Primarina vs. Emboar.
+Emboar used Flare Blitz.
+Primarina lost 59% of its health.
+Primarina fainted!
+Player 1 (Delphox) vs. Player 2 (Chesnaught).
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Chesnaught) lost 38% of its health.
+Player 2 (Chesnaught) fainted!
+Player 1 (Delphox) vs. Emboar.
+Player 1 (Delphox) used Flamethrower.
+Emboar lost 38% of its health.
+Emboar used Flare Blitz.
+Player 1 (Delphox) lost 64% of its health.
+Player 1 (Delphox) fainted!
+Emboar fainted!
+Player 1 selected Chesnaught.
+Player 2 selected Decidueye.
+AI 0 selected Skeledirge.
+AI 1 selected Delphox.
+Player 1 (Chesnaught) vs. Player 2 (Decidueye).
+Player 2 (Decidueye) used Leaf Blade.
+Player 1 (Chesnaught) lost 25% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+Player 2 (Decidueye) lost 34% of its health.
+Skeledirge vs. Delphox.
+Delphox used Flamethrower.
+Skeledirge lost 35% of its health.
+Skeledirge used Torch Song.
+Delphox lost 29% of its health.
+Player 1 (Chesnaught) vs. Player 2 (Decidueye).
+Player 2 (Decidueye) used Leaf Blade.
+Player 1 (Chesnaught) lost 26% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+Player 2 (Decidueye) lost 35% of its health.
+Skeledirge vs. Delphox.
+Delphox used Flamethrower.
+Skeledirge lost 37% of its health.
+Skeledirge used Torch Song.
+Delphox lost 27% of its health.
+Player 1 (Chesnaught) vs. Player 2 (Decidueye).
+Player 2 (Decidueye) used Leaf Blade.
+Player 1 (Chesnaught) lost 25% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+Player 2 (Decidueye) lost 35% of its health.
+Player 2 (Decidueye) fainted!
+Skeledirge vs. Delphox.
+Delphox used Flamethrower.
+Skeledirge lost 37% of its health.
+Skeledirge fainted!
+Player 1 (Chesnaught) vs. Delphox.
+Delphox used Flamethrower.
+Player 1 (Chesnaught) lost 37% of its health.
+Player 1 (Chesnaught) fainted!
+Delphox fainted!
+Player 1 selected Decidueye.
+Player 2 selected Primarina.
+AI 0 selected Infernape.
+AI 1 selected Meowscarada.
+Player 1 (Decidueye) vs. Player 2 (Primarina).
+Player 1 (Decidueye) used Leaf Blade.
+Player 2 (Primarina) lost 36% of its health.
+Player 2 (Primarina) used Hydro Pump.
+Player 1 (Decidueye) lost 41% of its health.
+Infernape vs. Meowscarada.
+Meowscarada used Flower Trick.
+Infernape lost 30% of its health.
+Infernape used Flare Blitz.
+A critical hit!
+Meowscarada lost 87% of its health.
+Player 1 (Decidueye) vs. Player 2 (Primarina).
+Player 1 (Decidueye) used Leaf Blade.
+A critical hit!
+Player 2 (Primarina) lost 55% of its health.
+Player 2 (Primarina) used Hydro Pump.
+Player 1 (Decidueye) lost 39% of its health.
+Infernape vs. Meowscarada.
+Meowscarada used Flower Trick.
+Infernape lost 34% of its health.
+Infernape used Flare Blitz.
+A critical hit!
+Meowscarada lost 75% of its health.
+Meowscarada fainted!
+Player 1 (Decidueye) vs. Player 2 (Primarina).
+Player 1 (Decidueye) used Leaf Blade.
+A critical hit!
+Player 2 (Primarina) lost 63% of its health.
+Player 2 (Primarina) fainted!
+Player 1 (Decidueye) vs. Infernape.
+Infernape used Flare Blitz.
+A critical hit!
+Player 1 (Decidueye) lost 76% of its health.
+Player 1 (Decidueye) fainted!
+Player 1 selected Delphox.
+AI 0 selected Cinderace.
+Player 1 (Delphox) vs. Cinderace.
+Cinderace used Pyro Ball.
+A critical hit!
+Player 1 (Delphox) lost 83% of its health.
+Player 1 (Delphox) used Flamethrower.
+Cinderace lost 40% of its health.
+Player 1 (Delphox) vs. Cinderace.
+Cinderace used Pyro Ball.
+A critical hit!
+Player 1 (Delphox) lost 86% of its health.
+Player 1 (Delphox) fainted!
+Player 1 selected Incineroar.
+Player 2 selected Cinderace.
+AI 0 selected Blaziken.
+Player 1 (Incineroar) vs. Player 2 (Cinderace).
+Player 2 (Cinderace) used Pyro Ball.
+Player 1 (Incineroar) lost 40% of its health.
+Player 1 (Incineroar) used Flare Blitz.
+Player 2 (Cinderace) lost 55% of its health.
+Player 1 (Incineroar) vs. Player 2 (Cinderace).
+Player 2 (Cinderace) used Pyro Ball.
+Player 1 (Incineroar) lost 44% of its health.
+Player 1 (Incineroar) used Flare Blitz.
+A critical hit!
+Player 2 (Cinderace) lost 88% of its health.
+Player 2 (Cinderace) fainted!
+Player 1 (Incineroar) vs. Blaziken.
+Blaziken used Blaze Kick.
+A critical hit!
+Player 1 (Incineroar) lost 49% of its health.
+Player 1 (Incineroar) fainted!
+Player 1 selected Chesnaught.
+Player 2 selected Delphox.
+AI 0 selected Blaziken.
+AI 1 selected Blastoise.
+Player 1 (Chesnaught) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Chesnaught) lost 42% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+Player 2 (Delphox) lost 35% of its health.
+Blaziken vs. Blastoise.
+Blaziken used Blaze Kick.
+Blastoise lost 34% of its health.
+Blastoise used Hydro Pump.
+Blaziken lost 40% of its health.
+Player 1 (Chesnaught) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Chesnaught) lost 36% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+Player 2 (Delphox) lost 36% of its health.
+Blaziken vs. Blastoise.
+Blaziken used Blaze Kick.
+Blastoise lost 33% of its health.
+Blastoise used Hydro Pump.
+Blaziken lost 44% of its health.
+Player 1 (Chesnaught) vs. Player 2 (Delphox).
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Chesnaught) lost 39% of its health.
+Player 1 (Chesnaught) fainted!
+Blaziken vs. Blastoise.
+Blaziken used Blaze Kick.
+Blastoise lost 34% of its health.
+Blastoise fainted!
+Player 2 (Delphox) vs. Blaziken.
+Player 2 (Delphox) used Flamethrower.
+Blaziken lost 41% of its health.
+Blaziken fainted!
+Player 1 selected Emboar.
+Player 2 selected Typhlosion.
+AI 0 selected Rillaboom.
+AI 1 selected Infernape.
+Player 1 (Emboar) vs. Player 2 (Typhlosion).
+Player 2 (Typhlosion) used Flamethrower.
+Player 1 (Emboar) lost 41% of its health.
+Player 1 (Emboar) used Flare Blitz.
+A critical hit!
+Player 2 (Typhlosion) lost 90% of its health.
+Rillaboom vs. Infernape.
+Infernape used Flare Blitz.
+A critical hit!
+Rillaboom lost 56% of its health.
+Rillaboom used Drum Beating.
+Infernape lost 41% of its health.
+Player 1 (Emboar) vs. Player 2 (Typhlosion).
+Player 2 (Typhlosion) used Flamethrower.
+A critical hit!
+Player 1 (Emboar) lost 61% of its health.
+Player 1 (Emboar) fainted!
+Rillaboom vs. Infernape.
+Infernape used Flare Blitz.
+A critical hit!
+Rillaboom lost 56% of its health.
+Rillaboom fainted!
+Player 2 (Typhlosion) vs. Infernape.
+Infernape used Flare Blitz.
+A critical hit!
+Player 2 (Typhlosion) lost 76% of its health.
+Player 2 (Typhlosion) fainted!
+Player 1 selected Torterra.
+Player 2 selected Chesnaught.
+AI 0 selected Rillaboom.
+AI 1 selected Swampert.
+Player 1 (Torterra) vs. Player 2 (Chesnaught).
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Torterra) lost 22% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Player 2 (Chesnaught) lost 21% of its health.
+Rillaboom vs. Swampert.
+Rillaboom used Drum Beating.
+Swampert lost 30% of its health.
+Swampert used Muddy Water.
+Rillaboom lost 29% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught).
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Torterra) lost 21% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Player 2 (Chesnaught) lost 22% of its health.
+Rillaboom vs. Swampert.
+Rillaboom used Drum Beating.
+Swampert lost 29% of its health.
+Swampert used Muddy Water.
+Rillaboom lost 33% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught).
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Torterra) lost 25% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Player 2 (Chesnaught) lost 23% of its health.
+Rillaboom vs. Swampert.
+Rillaboom used Drum Beating.
+Swampert lost 28% of its health.
+Swampert used Muddy Water.
+Rillaboom lost 30% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught).
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Torterra) lost 22% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Player 2 (Chesnaught) lost 22% of its health.
+Rillaboom vs. Swampert.
+Rillaboom used Drum Beating.
+Swampert lost 30% of its health.
+Swampert fainted!
+Player 1 (Torterra) vs. Player 2 (Chesnaught).
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Torterra) lost 22% of its health.
+Player 1 (Torterra) fainted!
+Player 2 (Chesnaught) vs. Rillaboom.
+Rillaboom used Drum Beating.
+Player 2 (Chesnaught) lost 25% of its health.
+Player 2 (Chesnaught) fainted!
+Player 1 selected Delphox.
+Player 2 selected Serperior.
+AI 0 selected Meganium.
+AI 1 selected Delphox.
+Player 1 (Delphox) vs. Player 2 (Serperior).
+Player 2 (Serperior) used Leaf Blade.
+Player 1 (Delphox) lost 29% of its health.
+Player 1 (Delphox) used Flamethrower.
+A critical hit!
+Player 2 (Serperior) lost 48% of its health.
+Meganium vs. Delphox.
+Delphox used Flamethrower.
+Meganium lost 30% of its health.
+Meganium used Energy Ball.
+A critical hit!
+Delphox lost 36% of its health.
+Player 1 (Delphox) vs. Player 2 (Serperior).
+Player 2 (Serperior) used Leaf Blade.
+Player 1 (Delphox) lost 31% of its health.
+Player 1 (Delphox) used Flamethrower.
+A critical hit!
+Player 2 (Serperior) lost 50% of its health.
+Meganium vs. Delphox.
+Delphox used Flamethrower.
+A critical hit!
+Meganium lost 48% of its health.
+Meganium used Energy Ball.
+Delphox lost 23% of its health.
+Player 1 (Delphox) vs. Player 2 (Serperior).
+Player 2 (Serperior) used Leaf Blade.
+Player 1 (Delphox) lost 31% of its health.
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Serperior) lost 32% of its health.
+Player 2 (Serperior) fainted!
+Meganium vs. Delphox.
+Delphox used Flamethrower.
+A critical hit!
+Meganium lost 46% of its health.
+Meganium fainted!
+Player 1 (Delphox) vs. Delphox.
+Delphox used Flamethrower.
+It's not very effective...
+Player 1 (Delphox) lost 15% of its health.
+Player 1 (Delphox) fainted!
+Player 1 selected Delphox.
+Player 2 selected Decidueye.
+AI 0 selected Decidueye.
+AI 1 selected Torterra.
+Player 1 (Delphox) vs. Player 2 (Decidueye).
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Decidueye) lost 34% of its health.
+Player 2 (Decidueye) used Leaf Blade.
+A critical hit!
+Player 1 (Delphox) lost 57% of its health.
+Decidueye vs. Torterra.
+Decidueye used Leaf Blade.
+Torterra lost 25% of its health.
+Torterra used Seed Bomb.
+Decidueye lost 35% of its health.
+Player 1 (Delphox) vs. Player 2 (Decidueye).
+Player 1 (Delphox) used Flamethrower.
+A critical hit!
+Player 2 (Decidueye) lost 46% of its health.
+Player 2 (Decidueye) used Leaf Blade.
+A critical hit!
+Player 1 (Delphox) lost 63% of its health.
+Player 1 (Delphox) fainted!
+Decidueye vs. Torterra.
+Decidueye used Leaf Blade.
+A critical hit!
+Torterra lost 40% of its health.
+Torterra used Seed Bomb.
+Decidueye lost 33% of its health.
+Player 2 (Decidueye) vs. Decidueye.
+Decidueye used Leaf Blade.
+It's not very effective...
+A critical hit!
+Player 2 (Decidueye) lost 29% of its health.
+Player 2 (Decidueye) fainted!
+Decidueye vs. Torterra.
+Decidueye used Leaf Blade.
+Torterra lost 26% of its health.
+Torterra used Seed Bomb.
+A critical hit!
+Decidueye lost 51% of its health.
+Decidueye fainted!
+Player 1 selected Greninja.
+Player 2 selected Delphox.
+AI 0 selected Charizard.
+AI 1 selected Quaquaval.
+Player 1 (Greninja) vs. Player 2 (Delphox).
+Player 1 (Greninja) used Water Shuriken.
+Player 2 (Delphox) lost 26% of its health.
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Greninja) lost 46% of its health.
+Charizard vs. Quaquaval.
+Charizard used Flamethrower.
+Quaquaval lost 40% of its health.
+Quaquaval used Aqua Step.
+Charizard lost 40% of its health.
+Player 1 (Greninja) vs. Player 2 (Delphox).
+Player 1 (Greninja) used Water Shuriken.
+Player 2 (Delphox) lost 24% of its health.
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Greninja) lost 41% of its health.
+Charizard vs. Quaquaval.
+Charizard used Flamethrower.
+Quaquaval lost 37% of its health.
+Quaquaval used Aqua Step.
+Charizard lost 38% of its health.
+Player 1 (Greninja) vs. Player 2 (Delphox).
+Player 1 (Greninja) used Water Shuriken.
+Player 2 (Delphox) lost 26% of its health.
+Player 2 (Delphox) used Flamethrower.
+Player 1 (Greninja) lost 45% of its health.
+Player 1 (Greninja) fainted!
+Charizard vs. Quaquaval.
+Charizard used Flamethrower.
+Quaquaval lost 41% of its health.
+Quaquaval fainted!
+Player 2 (Delphox) vs. Charizard.
+Player 2 (Delphox) used Flamethrower.
+Charizard lost 37% of its health.
+Charizard fainted!
+Player 1 selected Delphox.
+Player 2 selected Infernape.
+AI 0 selected Decidueye.
+AI 1 selected Meganium.
+Player 1 (Delphox) vs. Player 2 (Infernape).
+Player 2 (Infernape) used Flare Blitz.
+Player 1 (Delphox) lost 55% of its health.
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Infernape) lost 40% of its health.
+Decidueye vs. Meganium.
+Meganium used Energy Ball.
+Decidueye lost 23% of its health.
+Decidueye used Leaf Blade.
+Meganium lost 31% of its health.
+Player 1 (Delphox) vs. Player 2 (Infernape).
+Player 2 (Infernape) used Flare Blitz.
+Player 1 (Delphox) lost 52% of its health.
+Player 1 (Delphox) fainted!
+Decidueye vs. Meganium.
+Meganium used Energy Ball.
+Decidueye lost 25% of its health.
+Decidueye used Leaf Blade.
+Meganium lost 30% of its health.
+Player 2 (Infernape) vs. Decidueye.
+Player 2 (Infernape) used Flare Blitz.
+Decidueye lost 46% of its health.
+Decidueye used Leaf Blade.
+Player 2 (Infernape) lost 42% of its health.
+Player 2 (Infernape) vs. Decidueye.
+Player 2 (Infernape) used Flare Blitz.
+Decidueye lost 51% of its health.
+Decidueye fainted!
+Player 2 (Infernape) vs. Meganium.
+Player 2 (Infernape) used Flare Blitz.
+Meganium lost 38% of its health.
+Meganium used Energy Ball.
+Player 2 (Infernape) lost 33% of its health.
+Player 2 (Infernape) fainted!
+Player 1 selected Blaziken.
+Player 2 selected Empoleon.
+AI 0 selected Delphox.
+AI 1 selected Venusaur.
+Player 1 (Blaziken) vs. Player 2 (Empoleon).
+Player 1 (Blaziken) used Blaze Kick.
+A critical hit!
+Player 2 (Empoleon) lost 49% of its health.
+Player 2 (Empoleon) used Hydro Pump.
+A critical hit!
+Player 1 (Blaziken) lost 75% of its health.
+Delphox vs. Venusaur.
+Delphox used Flamethrower.
+Venusaur lost 29% of its health.
+Venusaur used Energy Ball.
+A critical hit!
+Delphox lost 45% of its health.
+Player 1 (Blaziken) vs. Player 2 (Empoleon).
+Player 1 (Blaziken) used Blaze Kick.
+Player 2 (Empoleon) lost 34% of its health.
+Player 2 (Empoleon) used Hydro Pump.
+A critical hit!
+Player 1 (Blaziken) lost 75% of its health.
+Player 1 (Blaziken) fainted!
+Delphox vs. Venusaur.
+Delphox used Flamethrower.
+A critical hit!
+Venusaur lost 50% of its health.
+Venusaur used Energy Ball.
+Delphox lost 30% of its health.
+Player 2 (Empoleon) vs. Delphox.
+Delphox used Flamethrower.
+A critical hit!
+Player 2 (Empoleon) lost 46% of its health.
+Player 2 (Empoleon) fainted!
+Delphox vs. Venusaur.
+Delphox used Flamethrower.
+Venusaur lost 30% of its health.
+Venusaur fainted!
+Player 1 selected Blaziken.
+AI 0 selected Incineroar.
+AI 1 selected Rillaboom.
+Player 1 (Blaziken) vs. Incineroar.
+Player 1 (Blaziken) used Blaze Kick.
+Incineroar lost 29% of its health.
+Incineroar used Flare Blitz.
+Player 1 (Blaziken) lost 53% of its health.
+Player 1 (Blaziken) vs. Incineroar.
+Player 1 (Blaziken) used Blaze Kick.
+Incineroar lost 30% of its health.
+Incineroar used Flare Blitz.
+Player 1 (Blaziken) lost 62% of its health.
+Player 1 (Blaziken) fainted!
+Incineroar vs. Rillaboom.
+Rillaboom used Drum Beating.
+Incineroar lost 29% of its health.
+Incineroar used Flare Blitz.
+Rillaboom lost 43% of its health.
+Incineroar vs. Rillaboom.
+Rillaboom used Drum Beating.
+Incineroar lost 32% of its health.
+Incineroar fainted!
+Player 1 selected Serperior.
+Player 2 selected Rillaboom.
+AI 0 selected Typhlosion.
+AI 1 selected Serperior.
+Player 1 (Serperior) vs. Player 2 (Rillaboom)Player 1 (Serperior) used Leaf Blade.
+A critical hit!
+Player 2 (Rillaboom) lost 33% of its health.
+Player 2 (Rillaboom) used Drum Beating.
+Player 1 (Serperior) lost 31% of its health.
+Typhlosion vs. SerperiorSerperior used Leaf Blade.
+A critical hit!
+Typhlosion lost 43% of its health.
+Typhlosion used Flamethrower.
+Serperior lost 32% of its health.
+Player 1 (Serperior) vs. Player 2 (Rillaboom)Player 1 (Serperior) used Leaf Blade.
+A critical hit!
+Player 2 (Rillaboom) lost 33% of its health.
+Player 2 (Rillaboom) used Drum Beating.
+Player 1 (Serperior) lost 32% of its health.
+Typhlosion vs. SerperiorSerperior used Leaf Blade.
+A critical hit!
+Typhlosion lost 42% of its health.
+Typhlosion used Flamethrower.
+A critical hit!
+Serperior lost 49% of its health.
+Player 1 (Serperior) vs. Player 2 (Rillaboom)Player 1 (Serperior) used Leaf Blade.
+A critical hit!
+Player 2 (Rillaboom) lost 31% of its health.
+Player 2 (Rillaboom) used Drum Beating.
+Player 1 (Serperior) lost 35% of its health.
+Typhlosion vs. SerperiorSerperior used Leaf Blade.
+A critical hit!
+Typhlosion lost 43% of its health.
+Typhlosion fainted!
+Serperior used Leaf Blade.
+A critical hit!
+Typhlosion lost 38% of its health.
+Player 1 (Serperior) vs. Player 2 (Rillaboom)Player 1 (Serperior) used Leaf Blade.
+Player 2 (Rillaboom) lost 23% of its health.
+Player 2 (Rillaboom) fainted!
+Player 1 (Serperior) used Leaf Blade.
+Player 2 (Rillaboom) lost 22% of its health.
+Player 1 (Serperior) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+A critical hit!
+Player 1 (Serperior) lost 18% of its health.
+Player 1 (Serperior) fainted!
+Serperior used Leaf Blade.
+It's not very effective...
+Player 1 (Serperior) lost 12% of its health.
+Player 1 selected Feraligatr.
+Player 2 selected Typhlosion.
+AI 0 selected Rillaboom.
+AI 1 selected Infernape.
+Player 1 (Feraligatr) vs. Player 2 (Typhlosion)Player 2 (Typhlosion) used Flamethrower.
+Player 1 (Feraligatr) lost 33% of its health.
+Player 1 (Feraligatr) used Waterfall.
+Player 2 (Typhlosion) lost 32% of its health.
+Rillaboom vs. InfernapeInfernape used Flare Blitz.
+Rillaboom lost 37% of its health.
+Rillaboom used Drum Beating.
+Infernape lost 40% of its health.
+Player 1 (Feraligatr) vs. Player 2 (Typhlosion)Player 2 (Typhlosion) used Flamethrower.
+Player 1 (Feraligatr) lost 34% of its health.
+Player 1 (Feraligatr) used Waterfall.
+Player 2 (Typhlosion) lost 31% of its health.
+Rillaboom vs. InfernapeInfernape used Flare Blitz.
+Rillaboom lost 36% of its health.
+Rillaboom used Drum Beating.
+Infernape lost 43% of its health.
+Player 1 (Feraligatr) vs. Player 2 (Typhlosion)Player 2 (Typhlosion) used Flamethrower.
+Player 1 (Feraligatr) lost 33% of its health.
+Player 1 (Feraligatr) fainted!
+Player 2 (Typhlosion) used Flamethrower.
+Player 1 (Feraligatr) lost 36% of its health.
+Rillaboom vs. InfernapeInfernape used Flare Blitz.
+Rillaboom lost 37% of its health.
+Rillaboom fainted!
+Infernape used Flare Blitz.
+Rillaboom lost 40% of its health.
+Player 2 (Typhlosion) vs. InfernapeInfernape used Flare Blitz.
+Player 2 (Typhlosion) lost 53% of its health.
+Player 2 (Typhlosion) fainted!
+Infernape used Flare Blitz.
+Player 2 (Typhlosion) lost 48% of its health.
+Player 1 selected Delphox.
+Player 2 selected Infernape.
+AI 0 selected Samurott.
+AI 1 selected Blaziken.
+Player 1 (Delphox) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+Player 1 (Delphox) lost 55% of its health.
+Player 1 (Delphox) used Flamethrower.
+Player 2 (Infernape) lost 40% of its health.
+Samurott vs. BlazikenBlaziken used Blaze Kick.
+Samurott lost 33% of its health.
+Samurott used Hydro Pump.
+Blaziken lost 49% of its health.
+Player 1 (Delphox) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+Player 1 (Delphox) lost 55% of its health.
+Player 1 (Delphox) fainted!
+Player 2 (Infernape) used Flare Blitz.
+Player 1 (Delphox) lost 56% of its health.
+Samurott vs. BlazikenBlaziken used Blaze Kick.
+Samurott lost 36% of its health.
+Samurott used Hydro Pump.
+Blaziken lost 54% of its health.
+Blaziken fainted!
+Samurott used Hydro Pump.
+Blaziken lost 49% of its health.
+Player 2 (Infernape) vs. SamurottPlayer 2 (Infernape) used Flare Blitz.
+Samurott lost 40% of its health.
+Samurott fainted!
+Player 2 (Infernape) used Flare Blitz.
+Samurott lost 39% of its health.
+Player 1 selected Delphox.
+Player 2 selected Chesnaught.
+AI 0 selected Primarina.
+AI 1 selected Chesnaught.
+Player 1 (Delphox) vs. Player 2 (Chesnaught)Player 1 (Delphox) used Flamethrower.
+Player 2 (Chesnaught) lost 39% of its health.
+Player 2 (Chesnaught) used Seed Bomb.
+Player 1 (Delphox) lost 38% of its health.
+Primarina vs. ChesnaughtChesnaught used Seed Bomb.
+Primarina lost 37% of its health.
+Primarina used Hydro Pump.
+A critical hit!
+Chesnaught lost 77% of its health.
+Player 1 (Delphox) vs. Player 2 (Chesnaught)Player 1 (Delphox) used Flamethrower.
+Player 2 (Chesnaught) lost 39% of its health.
+Player 2 (Chesnaught) used Seed Bomb.
+A critical hit!
+Player 1 (Delphox) lost 56% of its health.
+Primarina vs. ChesnaughtChesnaught used Seed Bomb.
+Primarina lost 38% of its health.
+Primarina used Hydro Pump.
+Chesnaught lost 50% of its health.
+Chesnaught fainted!
+Primarina used Hydro Pump.
+Chesnaught lost 49% of its health.
+Player 1 (Delphox) vs. Player 2 (Chesnaught)Player 1 (Delphox) used Flamethrower.
+Player 2 (Chesnaught) lost 37% of its health.
+Player 2 (Chesnaught) fainted!
+Player 1 (Delphox) used Flamethrower.
+A critical hit!
+Player 2 (Chesnaught) lost 54% of its health.
+Player 1 (Delphox) vs. PrimarinaPlayer 1 (Delphox) used Flamethrower.
+A critical hit!
+Primarina lost 41% of its health.
+Primarina fainted!
+Player 1 (Delphox) used Flamethrower.
+Primarina lost 29% of its health.
+Player 1 selected Empoleon.
+AI 0 selected Inteleon.
+AI 1 selected Meowscarada.
+Player 1 (Empoleon) vs. InteleonInteleon used Snipe Shot.
+Player 1 (Empoleon) lost 29% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+Inteleon lost 61% of its health.
+Player 1 (Empoleon) vs. InteleonInteleon used Snipe Shot.
+Player 1 (Empoleon) lost 31% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+Inteleon lost 58% of its health.
+Inteleon fainted!
+Player 1 (Empoleon) used Hydro Pump.
+Inteleon lost 54% of its health.
+Player 1 (Empoleon) vs. MeowscaradaMeowscarada used Flower Trick.
+Player 1 (Empoleon) lost 28% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+Meowscarada lost 53% of its health.
+Player 1 (Empoleon) vs. MeowscaradaMeowscarada used Flower Trick.
+Player 1 (Empoleon) lost 25% of its health.
+Player 1 (Empoleon) fainted!
+Meowscarada used Flower Trick.
+Player 1 (Empoleon) lost 27% of its health.
+Player 1 selected Infernape.
+Player 2 selected Torterra.
+AI 0 selected Rillaboom.
+Player 1 (Infernape) vs. Player 2 (Torterra)Player 1 (Infernape) used Flare Blitz.
+Player 2 (Torterra) lost 34% of its health.
+Player 2 (Torterra) used Seed Bomb.
+Player 1 (Infernape) lost 36% of its health.
+Player 1 (Infernape) vs. Player 2 (Torterra)Player 1 (Infernape) used Flare Blitz.
+Player 2 (Torterra) lost 34% of its health.
+Player 2 (Torterra) used Seed Bomb.
+Player 1 (Infernape) lost 36% of its health.
+Player 1 (Infernape) vs. Player 2 (Torterra)Player 1 (Infernape) used Flare Blitz.
+Player 2 (Torterra) lost 33% of its health.
+Player 2 (Torterra) fainted!
+Player 1 (Infernape) used Flare Blitz.
+Player 2 (Torterra) lost 32% of its health.
+Player 1 (Infernape) vs. RillaboomPlayer 1 (Infernape) used Flare Blitz.
+Rillaboom lost 35% of its health.
+Rillaboom used Drum Beating.
+Player 1 (Infernape) lost 45% of its health.
+Player 1 (Infernape) fainted!
+Rillaboom used Drum Beating.
+Player 1 (Infernape) lost 39% of its health.
+Player 1 selected Swampert.
+AI 0 selected Primarina.
+AI 1 selected Rillaboom.
+Player 1 (Swampert) vs. PrimarinaPrimarina used Hydro Pump.
+Player 1 (Swampert) lost 40% of its health.
+Player 1 (Swampert) used Muddy Water.
+Primarina lost 37% of its health.
+Player 1 (Swampert) vs. PrimarinaPrimarina used Hydro Pump.
+Player 1 (Swampert) lost 45% of its health.
+Player 1 (Swampert) used Muddy Water.
+Primarina lost 42% of its health.
+Player 1 (Swampert) vs. PrimarinaPrimarina used Hydro Pump.
+Player 1 (Swampert) lost 43% of its health.
+Player 1 (Swampert) fainted!
+Primarina used Hydro Pump.
+Player 1 (Swampert) lost 41% of its health.
+Primarina vs. RillaboomRillaboom used Drum Beating.
+Primarina lost 39% of its health.
+Primarina fainted!
+Rillaboom used Drum Beating.
+Primarina lost 42% of its health.
+Player 1 selected Swampert.
+AI 0 selected Greninja.
+AI 1 selected Meganium.
+Player 1 (Swampert) vs. GreninjaGreninja used Water Shuriken.
+Player 1 (Swampert) lost 24% of its health.
+Player 1 (Swampert) used Muddy Water.
+Greninja lost 44% of its health.
+Player 1 (Swampert) vs. GreninjaGreninja used Water Shuriken.
+Player 1 (Swampert) lost 25% of its health.
+Player 1 (Swampert) used Muddy Water.
+Greninja lost 43% of its health.
+Player 1 (Swampert) vs. GreninjaGreninja used Water Shuriken.
+Player 1 (Swampert) lost 24% of its health.
+Player 1 (Swampert) used Muddy Water.
+Greninja lost 48% of its health.
+Greninja fainted!
+Player 1 (Swampert) used Muddy Water.
+Greninja lost 43% of its health.
+Player 1 (Swampert) vs. MeganiumMeganium used Energy Ball.
+Player 1 (Swampert) lost 23% of its health.
+Player 1 (Swampert) used Muddy Water.
+Meganium lost 33% of its health.
+Player 1 (Swampert) vs. MeganiumMeganium used Energy Ball.
+Player 1 (Swampert) lost 25% of its health.
+Player 1 (Swampert) fainted!
+Meganium used Energy Ball.
+Player 1 (Swampert) lost 23% of its health.
+Player 1 selected Delphox.
+AI 0 selected Swampert.
+Player 1 (Delphox) vs. SwampertPlayer 1 (Delphox) used Flamethrower.
+Swampert lost 30% of its health.
+Swampert used Muddy Water.
+Player 1 (Delphox) lost 45% of its health.
+Player 1 (Delphox) vs. SwampertPlayer 1 (Delphox) used Flamethrower.
+Swampert lost 33% of its health.
+Swampert used Muddy Water.
+Player 1 (Delphox) lost 45% of its health.
+Player 1 (Delphox) vs. SwampertPlayer 1 (Delphox) used Flamethrower.
+Swampert lost 33% of its health.
+Swampert used Muddy Water.
+Player 1 (Delphox) lost 41% of its health.
+Player 1 (Delphox) fainted!
+Swampert used Muddy Water.
+Player 1 (Delphox) lost 41% of its health.
+Player 1 selected Samurott.
+Player 2 selected Infernape.
+AI 0 selected Feraligatr.
+AI 1 selected Meowscarada.
+Player 1 (Samurott) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+Player 1 (Samurott) lost 42% of its health.
+Player 1 (Samurott) used Hydro Pump.
+Player 2 (Infernape) lost 48% of its health.
+Feraligatr vs. MeowscaradaMeowscarada used Flower Trick.
+Feraligatr lost 23% of its health.
+Feraligatr used Waterfall.
+Meowscarada lost 36% of its health.
+Player 1 (Samurott) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+Player 1 (Samurott) lost 41% of its health.
+Player 1 (Samurott) used Hydro Pump.
+Player 2 (Infernape) lost 53% of its health.
+Player 2 (Infernape) fainted!
+Player 1 (Samurott) used Hydro Pump.
+Player 2 (Infernape) lost 50% of its health.
+Feraligatr vs. MeowscaradaMeowscarada used Flower Trick.
+Feraligatr lost 23% of its health.
+Feraligatr used Waterfall.
+Meowscarada lost 35% of its health.
+Player 1 (Samurott) vs. FeraligatrFeraligatr used Waterfall.
+Player 1 (Samurott) lost 26% of its health.
+Player 1 (Samurott) fainted!
+Feraligatr used Waterfall.
+Player 1 (Samurott) lost 29% of its health.
+Feraligatr vs. MeowscaradaMeowscarada used Flower Trick.
+Feraligatr lost 25% of its health.
+Feraligatr used Waterfall.
+Meowscarada lost 35% of its health.
+Meowscarada fainted!
+Feraligatr used Waterfall.
+Meowscarada lost 36% of its health.
+Player 1 selected Swampert.
+AI 0 selected Infernape.
+AI 1 selected Rillaboom.
+Player 1 (Swampert) vs. InfernapeInfernape used Flare Blitz.
+Player 1 (Swampert) lost 40% of its health.
+Player 1 (Swampert) used Muddy Water.
+Infernape lost 40% of its health.
+Player 1 (Swampert) vs. InfernapeInfernape used Flare Blitz.
+Player 1 (Swampert) lost 41% of its health.
+Player 1 (Swampert) used Muddy Water.
+Infernape lost 43% of its health.
+Player 1 (Swampert) vs. InfernapeInfernape used Flare Blitz.
+Player 1 (Swampert) lost 35% of its health.
+Player 1 (Swampert) fainted!
+Infernape used Flare Blitz.
+Player 1 (Swampert) lost 41% of its health.
+Infernape vs. RillaboomInfernape used Flare Blitz.
+Rillaboom lost 39% of its health.
+Rillaboom used Drum Beating.
+Infernape lost 45% of its health.
+Infernape fainted!
+Rillaboom used Drum Beating.
+Infernape lost 40% of its health.
+Player 1 selected Blaziken.
+Player 2 selected Torterra.
+AI 0 selected Empoleon.
+Player 1 (Blaziken) vs. Player 2 (Torterra)Player 1 (Blaziken) used Blaze Kick.
+Player 2 (Torterra) lost 26% of its health.
+Player 2 (Torterra) used Seed Bomb.
+Player 1 (Blaziken) lost 39% of its health.
+Player 1 (Blaziken) vs. Player 2 (Torterra)Player 1 (Blaziken) used Blaze Kick.
+Player 2 (Torterra) lost 29% of its health.
+Player 2 (Torterra) used Seed Bomb.
+Player 1 (Blaziken) lost 39% of its health.
+Player 1 (Blaziken) vs. Player 2 (Torterra)Player 1 (Blaziken) used Blaze Kick.
+Player 2 (Torterra) lost 28% of its health.
+Player 2 (Torterra) used Seed Bomb.
+Player 1 (Blaziken) lost 38% of its health.
+Player 1 (Blaziken) fainted!
+Player 2 (Torterra) vs. EmpoleonEmpoleon used Hydro Pump.
+Player 2 (Torterra) lost 38% of its health.
+Player 2 (Torterra) fainted!
+Player 1 selected Torterra.
+AI 0 selected Sceptile.
+Player 1 (Torterra) vs. SceptileSceptile used Leaf Blade.
+Player 1 (Torterra) lost 31% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Sceptile lost 41% of its health.
+Player 1 (Torterra) vs. SceptileSceptile used Leaf Blade.
+Player 1 (Torterra) lost 32% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Sceptile lost 44% of its health.
+Player 1 (Torterra) vs. SceptileSceptile used Leaf Blade.
+Player 1 (Torterra) lost 32% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Sceptile lost 40% of its health.
+Sceptile fainted!
+Player 1 selected Charizard.
+AI 0 selected Greninja.
+Player 1 (Charizard) vs. GreninjaGreninja used Water Shuriken.
+Player 1 (Charizard) lost 28% of its health.
+Player 1 (Charizard) used Flamethrower.
+Greninja lost 44% of its health.
+Player 1 (Charizard) vs. GreninjaGreninja used Water Shuriken.
+Player 1 (Charizard) lost 27% of its health.
+Player 1 (Charizard) used Flamethrower.
+Greninja lost 44% of its health.
+Player 1 (Charizard) vs. GreninjaGreninja used Water Shuriken.
+Player 1 (Charizard) lost 30% of its health.
+Player 1 (Charizard) used Flamethrower.
+Greninja lost 40% of its health.
+Greninja fainted!
+Player 1 selected Torterra.
+AI 0 selected Swampert.
+Player 1 (Torterra) vs. SwampertSwampert used Muddy Water.
+Player 1 (Torterra) lost 28% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Swampert lost 27% of its health.
+Player 1 (Torterra) vs. SwampertSwampert used Muddy Water.
+Player 1 (Torterra) lost 27% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Swampert lost 25% of its health.
+Player 1 (Torterra) vs. SwampertSwampert used Muddy Water.
+Player 1 (Torterra) lost 26% of its health.
+Player 1 (Torterra) used Seed Bomb.
+Swampert lost 25% of its health.
+Player 1 (Torterra) vs. SwampertSwampert used Muddy Water.
+Player 1 (Torterra) lost 26% of its health.
+Player 1 (Torterra) fainted!
+Player 1 selected Blaziken.
+Player 2 selected Swampert.
+Player 3 selected Torterra.
+AI 0 selected Torterra.
+AI 1 selected Quaquaval.
+AI 2 selected Blaziken.
+Player 1 (Blaziken) vs. Player 2 (Swampert)Player 1 (Blaziken) used Blaze Kick.
+Player 2 (Swampert) lost 30% of its health.
+Player 2 (Swampert) used Muddy Water.
+Player 1 (Blaziken) lost 45% of its health.
+Player 3 (Torterra) vs. TorterraTorterra used Seed Bomb.
+It's not very effective...
+Player 3 (Torterra) lost 12% of its health.
+Player 3 (Torterra) used Seed Bomb.
+It's not very effective...
+Torterra lost 12% of its health.
+Quaquaval vs. BlazikenQuaquaval used Aqua Step.
+Blaziken lost 40% of its health.
+Blaziken used Blaze Kick.
+Quaquaval lost 36% of its health.
+Player 1 (Blaziken) vs. Player 2 (Swampert)Player 1 (Blaziken) used Blaze Kick.
+Player 2 (Swampert) lost 33% of its health.
+Player 2 (Swampert) used Muddy Water.
+Player 1 (Blaziken) lost 39% of its health.
+Player 3 (Torterra) vs. TorterraTorterra used Seed Bomb.
+It's not very effective...
+Player 3 (Torterra) lost 12% of its health.
+Player 3 (Torterra) used Seed Bomb.
+It's not very effective...
+Torterra lost 13% of its health.
+Quaquaval vs. BlazikenQuaquaval used Aqua Step.
+Blaziken lost 41% of its health.
+Blaziken used Blaze Kick.
+Quaquaval lost 39% of its health.
+Player 1 (Blaziken) vs. Player 2 (Swampert)Player 1 (Blaziken) used Blaze Kick.
+Player 2 (Swampert) lost 34% of its health.
+Player 2 (Swampert) used Muddy Water.
+Player 1 (Blaziken) lost 39% of its health.
+Player 1 (Blaziken) fainted!
+Player 3 (Torterra) vs. TorterraTorterra used Seed Bomb.
+It's not very effective...
+Player 3 (Torterra) lost 12% of its health.
+Player 3 (Torterra) used Seed Bomb.
+It's not very effective...
+Torterra lost 12% of its health.
+Quaquaval vs. BlazikenQuaquaval used Aqua Step.
+Blaziken lost 44% of its health.
+Blaziken fainted!
+Player 2 (Swampert) vs. Player 3 (Torterra)Player 2 (Swampert) used Muddy Water.
+Player 3 (Torterra) lost 26% of its health.
+Player 3 (Torterra) used Seed Bomb.
+Player 2 (Swampert) lost 28% of its health.
+Player 2 (Swampert) fainted!
+Torterra vs. QuaquavalQuaquaval used Aqua Step.
+Torterra lost 28% of its health.
+Torterra used Seed Bomb.
+Quaquaval lost 30% of its health.
+Quaquaval fainted!
+Player 3 (Torterra) vs. TorterraTorterra used Seed Bomb.
+It's not very effective...
+Player 3 (Torterra) lost 12% of its health.
+Player 3 (Torterra) used Seed Bomb.
+It's not very effective...
+Torterra lost 12% of its health.
+Player 3 (Torterra) vs. TorterraTorterra used Seed Bomb.
+It's not very effective...
+Player 3 (Torterra) lost 13% of its health.
+Player 3 (Torterra) used Seed Bomb.
+It's not very effective...
+Torterra lost 11% of its health.
+Player 3 (Torterra) vs. TorterraTorterra used Seed Bomb.
+It's not very effective...
+Player 3 (Torterra) lost 12% of its health.
+Player 3 (Torterra) fainted!
+Player 1 selected Charizard.
+Player 2 selected Blastoise.
+AI 0 selected Torterra.
+Player 1 (Charizard) vs. Player 2 (Blastoise)Player 1 (Charizard) used Flamethrower.
+Player 2 (Blastoise) lost 31% of its health.
+Player 2 (Blastoise) used Hydro Pump.
+Player 1 (Charizard) lost 37% of its health.
+Player 1 (Charizard) vs. Player 2 (Blastoise)Player 1 (Charizard) used Flamethrower.
+Player 2 (Blastoise) lost 30% of its health.
+Player 2 (Blastoise) used Hydro Pump.
+Player 1 (Charizard) lost 34% of its health.
+Player 1 (Charizard) vs. Player 2 (Blastoise)Player 1 (Charizard) used Flamethrower.
+Player 2 (Blastoise) lost 29% of its health.
+Player 2 (Blastoise) used Hydro Pump.
+Player 1 (Charizard) lost 34% of its health.
+Player 1 (Charizard) fainted!
+Player 2 (Blastoise) vs. TorterraPlayer 2 (Blastoise) used Hydro Pump.
+Torterra lost 34% of its health.
+Torterra used Seed Bomb.
+Player 2 (Blastoise) lost 28% of its health.
+Player 2 (Blastoise) fainted!
+Player 1 selected Venusaur.
+Player 2 selected Charizard.
+Player 3 selected Greninja.
+AI 0 selected Primarina.
+Player 1 (Venusaur) vs. Player 2 (Charizard)Player 2 (Charizard) used Flamethrower.
+Player 1 (Venusaur) lost 32% of its health.
+Player 1 (Venusaur) used Energy Ball.
+Player 2 (Charizard) lost 33% of its health.
+Player 3 (Greninja) vs. PrimarinaPlayer 3 (Greninja) used Water Shuriken.
+Primarina lost 20% of its health.
+Primarina used Hydro Pump.
+Player 3 (Greninja) lost 58% of its health.
+Player 1 (Venusaur) vs. Player 2 (Charizard)Player 2 (Charizard) used Flamethrower.
+Player 1 (Venusaur) lost 31% of its health.
+Player 1 (Venusaur) used Energy Ball.
+Player 2 (Charizard) lost 35% of its health.
+Player 3 (Greninja) vs. PrimarinaPlayer 3 (Greninja) used Water Shuriken.
+Primarina lost 20% of its health.
+Primarina used Hydro Pump.
+Player 3 (Greninja) lost 58% of its health.
+Player 3 (Greninja) fainted!
+Player 1 (Venusaur) vs. Player 2 (Charizard)Player 2 (Charizard) used Flamethrower.
+Player 1 (Venusaur) lost 30% of its health.
+Player 1 (Venusaur) used Energy Ball.
+Player 2 (Charizard) lost 30% of its health.
+Player 1 (Venusaur) vs. PrimarinaPlayer 1 (Venusaur) used Energy Ball.
+Primarina lost 25% of its health.
+Primarina used Hydro Pump.
+Player 1 (Venusaur) lost 45% of its health.
+Player 1 (Venusaur) fainted!
+Player 1 selected Venusaur.
+Player 2 selected Charizard.
+Player 3 selected Greninja.
+AI 0 selected Feraligatr.
+Player 1 (Venusaur) vs. Player 2 (Charizard)Player 2 (Charizard) used Flamethrower.
+Player 1 (Venusaur) lost 29% of its health.
+Player 1 (Venusaur) used Energy Ball.
+Player 2 (Charizard) lost 32% of its health.
+Player 3 (Greninja) vs. FeraligatrPlayer 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Feraligatr lost 13% of its health.
+Feraligatr used Waterfall.
+It's not very effective...
+Player 3 (Greninja) lost 20% of its health.
+Player 1 (Venusaur) vs. Player 2 (Charizard)Player 2 (Charizard) used Flamethrower.
+Player 1 (Venusaur) lost 30% of its health.
+Player 1 (Venusaur) used Energy Ball.
+Player 2 (Charizard) lost 35% of its health.
+Player 3 (Greninja) vs. FeraligatrPlayer 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Feraligatr lost 14% of its health.
+Feraligatr used Waterfall.
+It's not very effective...
+Player 3 (Greninja) lost 19% of its health.
+Player 1 (Venusaur) vs. Player 2 (Charizard)Player 2 (Charizard) used Flamethrower.
+Player 1 (Venusaur) lost 32% of its health.
+Player 1 (Venusaur) used Energy Ball.
+Player 2 (Charizard) lost 32% of its health.
+Player 2 (Charizard) fainted!
+Player 3 (Greninja) vs. FeraligatrPlayer 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Feraligatr lost 13% of its health.
+Feraligatr used Waterfall.
+It's not very effective...
+Player 3 (Greninja) lost 20% of its health.
+Player 1 (Venusaur) vs. Player 3 (Greninja)Player 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Player 1 (Venusaur) lost 11% of its health.
+Player 1 (Venusaur) fainted!
+Player 3 (Greninja) vs. FeraligatrPlayer 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Feraligatr lost 14% of its health.
+Feraligatr used Waterfall.
+It's not very effective...
+Player 3 (Greninja) lost 18% of its health.
+Player 3 (Greninja) vs. FeraligatrPlayer 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Feraligatr lost 14% of its health.
+Feraligatr used Waterfall.
+It's not very effective...
+Player 3 (Greninja) lost 17% of its health.
+Player 3 (Greninja) vs. FeraligatrPlayer 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Feraligatr lost 15% of its health.
+Feraligatr used Waterfall.
+It's not very effective...
+Player 3 (Greninja) lost 19% of its health.
+Player 3 (Greninja) fainted!
+Player 1 selected Venusaur.
+Player 2 selected Charizard.
+Player 3 selected Greninja.
+AI 0 selected Meganium.
+AI 1 selected Charizard.
+Player 1 (Venusaur) vs. Player 2 (Charizard)Player 2 (Charizard) used Flamethrower.
+It's super effective!
+Player 1 (Venusaur) lost 60% of its health.
+Player 1 (Venusaur) used Energy Ball.
+It's super effective!
+Player 2 (Charizard) lost 70% of its health.
+Player 3 (Greninja) vs. MeganiumPlayer 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Meganium lost 12% of its health.
+Meganium used Energy Ball.
+It's not very effective...
+Player 3 (Greninja) lost 16% of its health.
+Player 1 (Venusaur) vs. Player 2 (Charizard)Player 2 (Charizard) used Flamethrower.
+It's super effective!
+Player 1 (Venusaur) lost 63% of its health.
+Player 1 (Venusaur) fainted!
+Player 3 (Greninja) vs. MeganiumPlayer 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Meganium lost 12% of its health.
+Meganium used Energy Ball.
+It's not very effective...
+Player 3 (Greninja) lost 16% of its health.
+Player 2 (Charizard) vs. Player 3 (Greninja)Player 3 (Greninja) used Water Shuriken.
+It's super effective!
+Player 2 (Charizard) lost 61% of its health.
+Player 2 (Charizard) fainted!
+Meganium vs. CharizardCharizard used Flamethrower.
+It's super effective!
+Meganium lost 63% of its health.
+Meganium used Energy Ball.
+It's super effective!
+Charizard lost 52% of its health.
+Player 3 (Greninja) vs. MeganiumPlayer 3 (Greninja) used Water Shuriken.
+It's not very effective...
+Meganium lost 12% of its health.
+Meganium fainted!
+Player 3 (Greninja) vs. CharizardPlayer 3 (Greninja) used Water Shuriken.
+It's super effective!
+Charizard lost 57% of its health.
+Charizard fainted!
+Player 1 selected Torterra.
+Player 2 selected Delphox.
+AI 0 selected Sceptile.
+AI 1 selected Empoleon.
+Player 1 (Torterra) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 69% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's super effective!
+Player 2 (Delphox) lost 72% of its health.
+Sceptile vs. EmpoleonSceptile used Leaf Blade.
+It's not very effective...
+Empoleon lost 14% of its health.
+Empoleon used Hydro Pump.
+It's not very effective...
+Sceptile lost 24% of its health.
+Player 1 (Torterra) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 72% of its health.
+Player 1 (Torterra) fainted!
+Sceptile vs. EmpoleonSceptile used Leaf Blade.
+It's not very effective...
+Empoleon lost 14% of its health.
+Empoleon used Hydro Pump.
+It's not very effective...
+Sceptile lost 21% of its health.
+Player 2 (Delphox) vs. SceptileSceptile used Leaf Blade.
+It's super effective!
+Player 2 (Delphox) lost 62% of its health.
+Player 2 (Delphox) fainted!
+Sceptile vs. EmpoleonSceptile used Leaf Blade.
+It's not very effective...
+Empoleon lost 15% of its health.
+Empoleon used Hydro Pump.
+It's not very effective...
+Sceptile lost 23% of its health.
+Sceptile vs. EmpoleonSceptile used Leaf Blade.
+It's not very effective...
+Empoleon lost 14% of its health.
+Empoleon used Hydro Pump.
+It's not very effective...
+Sceptile lost 24% of its health.
+Sceptile vs. EmpoleonSceptile used Leaf Blade.
+It's not very effective...
+Empoleon lost 15% of its health.
+Empoleon used Hydro Pump.
+It's not very effective...
+Sceptile lost 22% of its health.
+Sceptile fainted!
+Player 1 selected Swampert.
+Player 2 selected Torterra.
+AI 0 selected Delphox.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 13% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 13% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 13% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 14% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 13% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 13% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 14% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 13% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 13% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 12% of its health.
+Player 1 (Swampert) vs. DelphoxDelphox used Flamethrower.
+It's not very effective...
+Player 1 (Swampert) lost 15% of its health.
+Player 1 (Swampert) fainted!
+Player 1 selected Torterra.
+AI 0 selected Typhlosion.
+Player 1 (Torterra) vs. TyphlosionTyphlosion used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 67% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's super effective!
+Typhlosion lost 63% of its health.
+Player 1 (Torterra) vs. TyphlosionTyphlosion used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 61% of its health.
+Player 1 (Torterra) fainted!
+Typhlosion fainted!
+Player 1 selected Chesnaught.
+AI 0 selected Chesnaught.
+Player 1 (Chesnaught) vs. ChesnaughtChesnaught used Seed Bomb.
+It's not very effective...
+A critical hit!
+Player 1 (Chesnaught) lost 16% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+It's not very effective...
+A critical hit!
+Chesnaught lost 15% of its health.
+Player 1 (Chesnaught) vs. ChesnaughtChesnaught used Seed Bomb.
+It's not very effective...
+Player 1 (Chesnaught) lost 10% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Chesnaught lost 10% of its health.
+Player 1 (Chesnaught) vs. ChesnaughtChesnaught used Seed Bomb.
+It's not very effective...
+Player 1 (Chesnaught) lost 11% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+It's not very effective...
+A critical hit!
+Chesnaught lost 15% of its health.
+Player 1 (Chesnaught) vs. ChesnaughtChesnaught used Seed Bomb.
+It's not very effective...
+A critical hit!
+Player 1 (Chesnaught) lost 15% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Chesnaught lost 10% of its health.
+Player 1 (Chesnaught) vs. ChesnaughtChesnaught used Seed Bomb.
+It's not very effective...
+A critical hit!
+Player 1 (Chesnaught) lost 16% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+It's not very effective...
+A critical hit!
+Chesnaught lost 16% of its health.
+Player 1 (Chesnaught) vs. ChesnaughtChesnaught used Seed Bomb.
+It's not very effective...
+A critical hit!
+Player 1 (Chesnaught) lost 17% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Chesnaught lost 10% of its health.
+Player 1 (Chesnaught) vs. ChesnaughtChesnaught used Seed Bomb.
+It's not very effective...
+A critical hit!
+Player 1 (Chesnaught) lost 16% of its health.
+Player 1 (Chesnaught) fainted!
+Player 1 selected Delphox.
+AI 0 selected Feraligatr.
+Player 1 (Delphox) vs. FeraligatrPlayer 1 (Delphox) used Flamethrower.
+It's not very effective...
+Feraligatr lost 19% of its health.
+Feraligatr used Waterfall.
+It's super effective!
+Player 1 (Delphox) lost 68% of its health.
+Player 1 (Delphox) vs. FeraligatrPlayer 1 (Delphox) used Flamethrower.
+It's not very effective...
+Feraligatr lost 17% of its health.
+Feraligatr used Waterfall.
+It's super effective!
+Player 1 (Delphox) lost 77% of its health.
+Player 1 (Delphox) fainted!
+Feraligatr used Waterfall.
+It's super effective!
+Player 1 (Delphox) lost 70% of its health.
+Player 1 selected Swampert.
+Player 2 selected Swampert.
+AI 0 selected Empoleon.
+AI 1 selected Sceptile.
+Player 1 selected Infernape.
+Player 2 selected Torterra.
+AI 0 selected Quaquaval.
+AI 1 selected Infernape.
+Player 1 selected Swampert.
+Player 2 selected Delphox.
+AI 0 selected Torterra.
+AI 1 selected Blastoise.
+Player 1 (Swampert) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's not very effective...
+Player 1 (Swampert) lost 16% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's super effective!
+Player 2 (Delphox) lost 85% of its health.
+Torterra vs. BlastoiseBlastoise used Hydro Pump.
+It's not very effective...
+Torterra lost 16% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Blastoise lost 13% of its health.
+Player 1 (Swampert) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's not very effective...
+Player 1 (Swampert) lost 16% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's super effective!
+Player 2 (Delphox) lost 79% of its health.
+Player 2 (Delphox) fainted!
+Torterra vs. BlastoiseBlastoise used Hydro Pump.
+It's not very effective...
+Torterra lost 14% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Blastoise lost 14% of its health.
+Player 1 (Swampert) vs. TorterraPlayer 1 (Swampert) used Muddy Water.
+It's not very effective...
+Torterra lost 14% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 12% of its health.
+Player 1 (Swampert) vs. TorterraPlayer 1 (Swampert) used Muddy Water.
+It's not very effective...
+Torterra lost 14% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 13% of its health.
+Player 1 (Swampert) vs. TorterraPlayer 1 (Swampert) used Muddy Water.
+It's not very effective...
+Torterra lost 14% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 14% of its health.
+Player 1 (Swampert) vs. TorterraPlayer 1 (Swampert) used Muddy Water.
+It's not very effective...
+Torterra lost 13% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 12% of its health.
+Player 1 (Swampert) vs. TorterraPlayer 1 (Swampert) used Muddy Water.
+It's not very effective...
+Torterra lost 13% of its health.
+Torterra fainted!
+Player 1 (Swampert) vs. BlastoiseBlastoise used Hydro Pump.
+It's not very effective...
+Player 1 (Swampert) lost 15% of its health.
+Player 1 (Swampert) fainted!
+Player 1 selected Swampert.
+Player 2 selected Torterra.
+AI 0 selected Quaquaval.
+AI 1 selected Blaziken.
+Player 1 selected Swampert.
+Player 2 selected Torterra.
+AI 0 selected Chesnaught.
+AI 1 selected Charizard.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 12% of its health.
+Chesnaught vs. CharizardCharizard used Flamethrower.
+It's super effective!
+Chesnaught lost 81% of its health.
+Chesnaught used Seed Bomb.
+It's super effective!
+Charizard lost 67% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 13% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 14% of its health.
+Chesnaught vs. CharizardCharizard used Flamethrower.
+It's super effective!
+Chesnaught lost 71% of its health.
+Chesnaught fainted!
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 12% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 13% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 13% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 13% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 13% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 13% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 13% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Swampert) lost 12% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) fainted!
+Player 1 (Swampert) vs. CharizardCharizard used Flamethrower.
+It's not very effective...
+Player 1 (Swampert) lost 15% of its health.
+Player 1 (Swampert) fainted!
+Player 1 selected Torterra.
+Player 2 selected Delphox.
+AI 0 selected Blastoise.
+AI 1 selected Charizard.
+Player 1 (Torterra) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 67% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's super effective!
+Player 2 (Delphox) lost 79% of its health.
+Blastoise vs. CharizardCharizard used Flamethrower.
+It's not very effective...
+Blastoise lost 15% of its health.
+Blastoise used Hydro Pump.
+It's super effective!
+Charizard lost 66% of its health.
+Player 1 (Torterra) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 71% of its health.
+Player 1 (Torterra) fainted!
+Blastoise vs. CharizardCharizard used Flamethrower.
+It's not very effective...
+Blastoise lost 15% of its health.
+Blastoise used Hydro Pump.
+It's super effective!
+Charizard lost 71% of its health.
+Charizard fainted!
+Player 2 (Delphox) vs. BlastoisePlayer 2 (Delphox) used Flamethrower.
+It's not very effective...
+Blastoise lost 16% of its health.
+Blastoise used Hydro Pump.
+It's super effective!
+Player 2 (Delphox) lost 65% of its health.
+Player 2 (Delphox) fainted!
+Player 1 selected Chesnaught.
+Player 2 selected Infernape.
+AI 0 selected Typhlosion.
+AI 1 selected Blaziken.
+Player 1 (Chesnaught) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+It's super effective!
+Player 1 (Chesnaught) lost 63% of its health.
+Player 1 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 2 (Infernape) lost 17% of its health.
+Typhlosion vs. BlazikenTyphlosion used Flamethrower.
+It's not very effective...
+Blaziken lost 19% of its health.
+Blaziken used Blaze Kick.
+It's not very effective...
+Typhlosion lost 20% of its health.
+Player 1 (Chesnaught) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+It's super effective!
+Player 1 (Chesnaught) lost 63% of its health.
+Player 1 (Chesnaught) fainted!
+Typhlosion vs. BlazikenTyphlosion used Flamethrower.
+It's not very effective...
+Blaziken lost 22% of its health.
+Blaziken used Blaze Kick.
+It's not very effective...
+Typhlosion lost 19% of its health.
+Player 2 (Infernape) vs. TyphlosionPlayer 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Typhlosion lost 24% of its health.
+Typhlosion used Flamethrower.
+It's not very effective...
+Player 2 (Infernape) lost 19% of its health.
+Player 2 (Infernape) vs. TyphlosionPlayer 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Typhlosion lost 24% of its health.
+Typhlosion used Flamethrower.
+It's not very effective...
+Player 2 (Infernape) lost 19% of its health.
+Player 2 (Infernape) vs. TyphlosionPlayer 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Typhlosion lost 23% of its health.
+Typhlosion fainted!
+Player 2 (Infernape) vs. BlazikenPlayer 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Blaziken lost 27% of its health.
+Blaziken used Blaze Kick.
+It's not very effective...
+Player 2 (Infernape) lost 21% of its health.
+Player 2 (Infernape) vs. BlazikenPlayer 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Blaziken lost 28% of its health.
+Blaziken used Blaze Kick.
+It's not very effective...
+Player 2 (Infernape) lost 20% of its health.
+Player 2 (Infernape) vs. BlazikenPlayer 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Blaziken lost 28% of its health.
+Blaziken fainted!
+Player 1 selected Torterra.
+AI 0 selected Typhlosion.
+AI 1 selected Incineroar.
+Player 1 (Torterra) vs. TyphlosionTyphlosion used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 69% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Typhlosion lost 15% of its health.
+Player 1 (Torterra) vs. TyphlosionTyphlosion used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 70% of its health.
+Player 1 (Torterra) fainted!
+Typhlosion vs. IncineroarTyphlosion used Flamethrower.
+It's not very effective...
+Incineroar lost 15% of its health.
+Incineroar used Flare Blitz.
+It's not very effective...
+Typhlosion lost 28% of its health.
+Typhlosion vs. IncineroarTyphlosion used Flamethrower.
+It's not very effective...
+Incineroar lost 16% of its health.
+Incineroar used Flare Blitz.
+It's not very effective...
+Typhlosion lost 28% of its health.
+Typhlosion vs. IncineroarTyphlosion used Flamethrower.
+It's not very effective...
+Incineroar lost 16% of its health.
+Incineroar used Flare Blitz.
+It's not very effective...
+Typhlosion lost 28% of its health.
+Typhlosion fainted!
+Player 1 selected Torterra.
+AI 0 selected Skeledirge.
+Player 1 (Torterra) vs. SkeledirgeSkeledirge used Torch Song.
+It's super effective!
+Player 1 (Torterra) lost 57% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Skeledirge lost 13% of its health.
+Player 1 (Torterra) vs. SkeledirgeSkeledirge used Torch Song.
+It's super effective!
+Player 1 (Torterra) lost 56% of its health.
+Player 1 (Torterra) fainted!
+Player 1 selected Swampert.
+AI 0 selected Quaquaval.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 15% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 17% of its health.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 14% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 19% of its health.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 15% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 17% of its health.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 14% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 19% of its health.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 14% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 19% of its health.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 13% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 19% of its health.
+Quaquaval fainted!
+Player 1 selected Blaziken.
+AI 0 selected Chesnaught.
+Player 1 (Blaziken) vs. ChesnaughtPlayer 1 (Blaziken) used Blaze Kick.
+It's super effective!
+Chesnaught lost 49% of its health.
+Chesnaught used Seed Bomb.
+It's not very effective...
+Player 1 (Blaziken) lost 19% of its health.
+Player 1 (Blaziken) vs. ChesnaughtPlayer 1 (Blaziken) used Blaze Kick.
+It's super effective!
+Chesnaught lost 49% of its health.
+Chesnaught used Seed Bomb.
+It's not very effective...
+Player 1 (Blaziken) lost 18% of its health.
+Player 1 (Blaziken) vs. ChesnaughtPlayer 1 (Blaziken) used Blaze Kick.
+It's super effective!
+Chesnaught lost 53% of its health.
+Chesnaught fainted!
+Player 1 selected Greninja.
+AI 0 selected Meganium.
+Player 1 (Greninja) vs. MeganiumPlayer 1 (Greninja) used Water Shuriken.
+It's not very effective...
+Meganium lost 11% of its health.
+Meganium used Energy Ball.
+It's super effective!
+Player 1 (Greninja) lost 68% of its health.
+Player 1 (Greninja) vs. MeganiumPlayer 1 (Greninja) used Water Shuriken.
+It's not very effective...
+Meganium lost 12% of its health.
+Meganium used Energy Ball.
+It's super effective!
+Player 1 (Greninja) lost 66% of its health.
+Player 1 (Greninja) fainted!
+Player 1 selected Infernape.
+Player 2 selected Empoleon.
+AI 0 selected Infernape.
+Player 1 (Infernape) vs. Player 2 (Empoleon)Player 1 (Infernape) used Flare Blitz.
+It's not very effective...
+Player 2 (Empoleon) lost 20% of its health.
+Player 2 (Empoleon) used Hydro Pump.
+It's super effective!
+Player 1 (Infernape) lost 108% of its health.
+Player 1 (Infernape) fainted!
+Player 2 (Empoleon) vs. InfernapeInfernape used Flare Blitz.
+It's not very effective...
+Player 2 (Empoleon) lost 21% of its health.
+Player 2 (Empoleon) used Hydro Pump.
+It's super effective!
+Infernape lost 104% of its health.
+Infernape fainted!
+Player 1 selected Empoleon.
+Player 2 selected Chesnaught.
+AI 0 selected Torterra.
+Player 1 (Empoleon) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's super effective!
+Player 1 (Empoleon) lost 57% of its health.
+Player 1 (Empoleon) used Hydro Pump.
+It's not very effective...
+Player 2 (Chesnaught) lost 24% of its health.
+Player 1 (Empoleon) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's super effective!
+Player 1 (Empoleon) lost 57% of its health.
+Player 1 (Empoleon) fainted!
+Player 2 (Chesnaught) vs. TorterraPlayer 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Torterra lost 12% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 10% of its health.
+Player 2 (Chesnaught) vs. TorterraPlayer 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Torterra lost 11% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 12% of its health.
+Player 2 (Chesnaught) vs. TorterraPlayer 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Torterra lost 11% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 11% of its health.
+Player 2 (Chesnaught) vs. TorterraPlayer 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Torterra lost 11% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 10% of its health.
+Player 2 (Chesnaught) vs. TorterraPlayer 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Torterra lost 11% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 12% of its health.
+Player 2 (Chesnaught) vs. TorterraPlayer 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Torterra lost 12% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 12% of its health.
+Player 2 (Chesnaught) vs. TorterraPlayer 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Torterra lost 11% of its health.
+Torterra used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 11% of its health.
+Player 2 (Chesnaught) fainted!
+Player 1 selected Serperior.
+Player 2 selected Decidueye.
+AI 0 selected Decidueye.
+Player 1 (Serperior) vs. Player 2 (Decidueye)Player 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Player 2 (Decidueye) lost 15% of its health.
+Player 2 (Decidueye) used Leaf Blade.
+It's not very effective...
+Player 1 (Serperior) lost 15% of its health.
+Player 1 (Serperior) vs. Player 2 (Decidueye)Player 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Player 2 (Decidueye) lost 15% of its health.
+Player 2 (Decidueye) used Leaf Blade.
+It's not very effective...
+Player 1 (Serperior) lost 15% of its health.
+Player 1 (Serperior) vs. Player 2 (Decidueye)Player 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Player 2 (Decidueye) lost 15% of its health.
+Player 2 (Decidueye) used Leaf Blade.
+It's not very effective...
+Player 1 (Serperior) lost 15% of its health.
+Player 1 (Serperior) vs. Player 2 (Decidueye)Player 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Player 2 (Decidueye) lost 15% of its health.
+Player 2 (Decidueye) used Leaf Blade.
+It's not very effective...
+Player 1 (Serperior) lost 15% of its health.
+Player 1 (Serperior) vs. Player 2 (Decidueye)Player 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Player 2 (Decidueye) lost 14% of its health.
+Player 2 (Decidueye) used Leaf Blade.
+It's not very effective...
+Player 1 (Serperior) lost 16% of its health.
+Player 1 (Serperior) vs. Player 2 (Decidueye)Player 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Player 2 (Decidueye) lost 15% of its health.
+Player 2 (Decidueye) used Leaf Blade.
+It's not very effective...
+Player 1 (Serperior) lost 16% of its health.
+Player 1 (Serperior) vs. Player 2 (Decidueye)Player 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Player 2 (Decidueye) lost 13% of its health.
+Player 2 (Decidueye) fainted!
+Player 1 (Serperior) vs. DecidueyePlayer 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Decidueye lost 13% of its health.
+Decidueye used Leaf Blade.
+It's not very effective...
+Player 1 (Serperior) lost 15% of its health.
+Player 1 (Serperior) fainted!
+Player 1 selected Venusaur.
+Player 2 selected Delphox.
+AI 0 selected Infernape.
+Player 1 (Venusaur) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Player 1 (Venusaur) lost 59% of its health.
+Player 1 (Venusaur) used Energy Ball.
+It's not very effective...
+Player 2 (Delphox) lost 14% of its health.
+Player 1 (Venusaur) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Player 1 (Venusaur) lost 66% of its health.
+Player 1 (Venusaur) fainted!
+Player 2 (Delphox) vs. InfernapeInfernape used Flare Blitz.
+It's not very effective...
+Player 2 (Delphox) lost 27% of its health.
+Player 2 (Delphox) used Flamethrower.
+It's not very effective...
+Infernape lost 23% of its health.
+Player 2 (Delphox) vs. InfernapeInfernape used Flare Blitz.
+It's not very effective...
+Player 2 (Delphox) lost 25% of its health.
+Player 2 (Delphox) used Flamethrower.
+It's not very effective...
+Infernape lost 23% of its health.
+Player 2 (Delphox) vs. InfernapeInfernape used Flare Blitz.
+It's not very effective...
+Player 2 (Delphox) lost 28% of its health.
+Player 2 (Delphox) used Flamethrower.
+It's not very effective...
+Infernape lost 21% of its health.
+Player 2 (Delphox) vs. InfernapeInfernape used Flare Blitz.
+It's not very effective...
+Player 2 (Delphox) lost 26% of its health.
+Player 2 (Delphox) fainted!
+Player 1 selected Empoleon.
+Player 2 selected Torterra.
+AI 0 selected Blaziken.
+Player 1 (Empoleon) vs. Player 2 (Torterra)Player 1 (Empoleon) used Hydro Pump.
+It's not very effective...
+Player 2 (Torterra) lost 21% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's super effective!
+Player 1 (Empoleon) lost 63% of its health.
+Player 1 (Empoleon) vs. Player 2 (Torterra)Player 1 (Empoleon) used Hydro Pump.
+It's not very effective...
+Player 2 (Torterra) lost 20% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's super effective!
+Player 1 (Empoleon) lost 59% of its health.
+Player 1 (Empoleon) fainted!
+Player 2 (Torterra) vs. BlazikenBlaziken used Blaze Kick.
+It's super effective!
+Player 2 (Torterra) lost 59% of its health.
+Player 2 (Torterra) fainted!
+Player 1 selected Infernape.
+Player 2 selected Chesnaught.
+AI 0 selected Blastoise.
+Player 1 (Infernape) vs. Player 2 (Chesnaught)Player 1 (Infernape) used Flare Blitz.
+It's super effective!
+Player 2 (Chesnaught) lost 67% of its health.
+Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Infernape) lost 17% of its health.
+Player 1 (Infernape) vs. Player 2 (Chesnaught)Player 1 (Infernape) used Flare Blitz.
+It's super effective!
+Player 2 (Chesnaught) lost 63% of its health.
+Player 2 (Chesnaught) fainted!
+Player 1 (Infernape) vs. BlastoisePlayer 1 (Infernape) used Flare Blitz.
+It's not very effective...
+Blastoise lost 18% of its health.
+Blastoise used Hydro Pump.
+It's super effective!
+Player 1 (Infernape) lost 81% of its health.
+Player 1 (Infernape) vs. BlastoisePlayer 1 (Infernape) used Flare Blitz.
+It's not very effective...
+Blastoise lost 18% of its health.
+Blastoise used Hydro Pump.
+It's super effective!
+Player 1 (Infernape) lost 81% of its health.
+Player 1 (Infernape) fainted!
+Player 1 selected Serperior.
+Player 2 selected Infernape.
+AI 0 selected Meowscarada.
+Player 1 (Serperior) vs. Player 2 (Infernape)Player 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Player 2 (Infernape) lost 14% of its health.
+Player 2 (Infernape) used Flare Blitz.
+It's super effective!
+Player 1 (Serperior) lost 88% of its health.
+Player 1 (Serperior) vs. Player 2 (Infernape)Player 1 (Serperior) used Leaf Blade.
+It's not very effective...
+Player 2 (Infernape) lost 15% of its health.
+Player 2 (Infernape) used Flare Blitz.
+It's super effective!
+Player 1 (Serperior) lost 78% of its health.
+Player 1 (Serperior) fainted!
+Player 2 (Infernape) vs. MeowscaradaMeowscarada used Flower Trick.
+It's not very effective...
+Player 2 (Infernape) lost 15% of its health.
+Player 2 (Infernape) used Flare Blitz.
+It's super effective!
+Meowscarada lost 104% of its health.
+Meowscarada fainted!
+Player 1 selected Swampert.
+Player 2 selected Torterra.
+AI 0 selected Incineroar.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's super effective!
+Player 1 (Swampert) lost 50% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 14% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's super effective!
+Player 1 (Swampert) lost 55% of its health.
+Player 1 (Swampert) fainted!
+Player 2 (Torterra) vs. IncineroarIncineroar used Flare Blitz.
+It's super effective!
+Player 2 (Torterra) lost 74% of its health.
+Player 2 (Torterra) fainted!
+Player 1 selected Swampert.
+Player 2 selected Infernape.
+AI 0 selected Quaquaval.
+Player 1 (Swampert) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Player 1 (Swampert) lost 19% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's super effective!
+Player 2 (Infernape) lost 85% of its health.
+Player 1 (Swampert) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Player 1 (Swampert) lost 18% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's super effective!
+Player 2 (Infernape) lost 86% of its health.
+Player 2 (Infernape) fainted!
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 14% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 17% of its health.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 15% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 18% of its health.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 14% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 18% of its health.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 15% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Quaquaval lost 18% of its health.
+Player 1 (Swampert) vs. QuaquavalQuaquaval used Aqua Step.
+It's not very effective...
+Player 1 (Swampert) lost 15% of its health.
+Player 1 (Swampert) fainted!
+Player 1 selected Infernape.
+Player 2 selected Torterra.
+AI 0 selected Meganium.
+Player 1 (Infernape) vs. Player 2 (Torterra)Player 1 (Infernape) used Flare Blitz.
+It's super effective!
+Player 2 (Torterra) lost 73% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 1 (Infernape) lost 19% of its health.
+Player 1 (Infernape) vs. Player 2 (Torterra)Player 1 (Infernape) used Flare Blitz.
+It's super effective!
+Player 2 (Torterra) lost 69% of its health.
+Player 2 (Torterra) fainted!
+Player 1 (Infernape) vs. MeganiumPlayer 1 (Infernape) used Flare Blitz.
+It's super effective!
+Meganium lost 83% of its health.
+Meganium used Energy Ball.
+It's not very effective...
+Player 1 (Infernape) lost 16% of its health.
+Player 1 (Infernape) vs. MeganiumPlayer 1 (Infernape) used Flare Blitz.
+It's super effective!
+Meganium lost 80% of its health.
+Meganium fainted!
+Player 1 selected Empoleon.
+Player 2 selected Torterra.
+AI 0 selected Serperior.
+Player 1 (Empoleon) vs. Player 2 (Torterra)Player 1 (Empoleon) used Hydro Pump.
+It's not very effective...
+Player 2 (Torterra) lost 20% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's super effective!
+Player 1 (Empoleon) lost 60% of its health.
+Player 1 (Empoleon) vs. Player 2 (Torterra)Player 1 (Empoleon) used Hydro Pump.
+It's not very effective...
+Player 2 (Torterra) lost 19% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's super effective!
+Player 1 (Empoleon) lost 59% of its health.
+Player 1 (Empoleon) fainted!
+Player 2 (Torterra) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 10% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Serperior lost 15% of its health.
+Player 2 (Torterra) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 9% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Serperior lost 15% of its health.
+Player 2 (Torterra) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 9% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Serperior lost 14% of its health.
+Player 2 (Torterra) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 9% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Serperior lost 14% of its health.
+Player 2 (Torterra) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 10% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Serperior lost 15% of its health.
+Player 2 (Torterra) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 10% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Serperior lost 13% of its health.
+Player 2 (Torterra) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 9% of its health.
+Player 2 (Torterra) fainted!
+Player 1 selected Swampert.
+Player 2 selected Infernape.
+AI 0 selected Typhlosion.
+Player 1 (Swampert) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Player 1 (Swampert) lost 20% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's super effective!
+Player 2 (Infernape) lost 79% of its health.
+Player 1 (Swampert) vs. Player 2 (Infernape)Player 2 (Infernape) used Flare Blitz.
+It's not very effective...
+Player 1 (Swampert) lost 19% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's super effective!
+Player 2 (Infernape) lost 88% of its health.
+Player 2 (Infernape) fainted!
+Player 1 (Swampert) vs. TyphlosionTyphlosion used Flamethrower.
+It's not very effective...
+Player 1 (Swampert) lost 15% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's super effective!
+Typhlosion lost 72% of its health.
+Player 1 (Swampert) vs. TyphlosionTyphlosion used Flamethrower.
+It's not very effective...
+Player 1 (Swampert) lost 16% of its health.
+Player 1 (Swampert) used Muddy Water.
+It's super effective!
+Typhlosion lost 81% of its health.
+Typhlosion fainted!
+Player 1 selected Torterra.
+Player 2 selected Delphox.
+AI 0 selected Serperior.
+Player 1 (Torterra) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 70% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 2 (Delphox) lost 20% of its health.
+Player 1 (Torterra) vs. Player 2 (Delphox)Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Player 1 (Torterra) lost 66% of its health.
+Player 1 (Torterra) fainted!
+Player 2 (Delphox) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+Player 2 (Delphox) lost 14% of its health.
+Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Serperior lost 66% of its health.
+Player 2 (Delphox) vs. SerperiorSerperior used Leaf Blade.
+It's not very effective...
+Player 2 (Delphox) lost 14% of its health.
+Player 2 (Delphox) used Flamethrower.
+It's super effective!
+Serperior lost 70% of its health.
+Serperior fainted!
+Player 1 selected Torterra.
+Player 2 selected Chesnaught.
+AI 0 selected Cinderace.
+Player 1 (Torterra) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Torterra) lost 11% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 11% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Torterra) lost 11% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 10% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Torterra) lost 12% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 11% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Torterra) lost 11% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 12% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Torterra) lost 11% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 11% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Torterra) lost 11% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 11% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Torterra) lost 12% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 10% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Torterra) lost 12% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's not very effective...
+Player 2 (Chesnaught) lost 10% of its health.
+Player 1 (Torterra) vs. Player 2 (Chesnaught)Player 2 (Chesnaught) used Seed Bomb.
+It's not very effective...
+Player 1 (Torterra) lost 11% of its health.
+Player 1 (Torterra) fainted!
+Player 2 (Chesnaught) vs. CinderaceCinderace used Pyro Ball.
+It's super effective!
+Player 2 (Chesnaught) lost 63% of its health.
+Player 2 (Chesnaught) fainted!
+Player 1 selected Torterra.
+Player 2 selected Swampert.
+AI 0 selected Decidueye.
+Player 1 (Torterra) used Seed Bomb.
+It's super effective!
+Player 2 (Swampert) lost 55% of its health.
+Player 1 (Torterra) used Seed Bomb.
+It's super effective!
+Player 2 (Swampert) lost 53% of its health.
+Player 2 (Swampert) used Muddy Water.
+It's not very effective...
+Decidueye lost 21% of its health.
+Player 2 (Swampert) used Muddy Water.
+It's not very effective...
+Decidueye lost 20% of its health.
+Player 2 (Swampert) used Muddy Water.
+It's not very effective...
+Decidueye lost 20% of its health.
+Player 2 (Swampert) used Muddy Water.
+It's not very effective...
+Decidueye lost 20% of its health.
+Player 2 (Swampert) used Muddy Water.
+It's not very effective...
+Decidueye lost 20% of its health.
+Player 2 (Swampert) used Muddy Water.
+It's not very effective...
+Decidueye lost 19% of its health.
+Player 1 selected Swampert.
+Player 2 selected Torterra.
+AI 0 selected Sceptile.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+A critical hit!
+Player 2 (Torterra) lost 19% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's super effective!
+Player 1 (Swampert) lost 55% of its health.
+Player 1 (Swampert) vs. Player 2 (Torterra)Player 1 (Swampert) used Muddy Water.
+It's not very effective...
+Player 2 (Torterra) lost 13% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's super effective!
+A critical hit!
+Player 1 (Swampert) lost 77% of its health.
+Player 1 (Swampert) fainted!
+Player 2 (Torterra) vs. SceptileSceptile used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 16% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+A critical hit!
+Sceptile lost 31% of its health.
+Player 2 (Torterra) vs. SceptileSceptile used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 16% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Sceptile lost 20% of its health.
+Player 2 (Torterra) vs. SceptileSceptile used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 15% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+A critical hit!
+Sceptile lost 32% of its health.
+Player 2 (Torterra) vs. SceptileSceptile used Leaf Blade.
+It's not very effective...
+Player 2 (Torterra) lost 15% of its health.
+Player 2 (Torterra) used Seed Bomb.
+It's not very effective...
+Sceptile lost 20% of its health.
+Sceptile fainted!
