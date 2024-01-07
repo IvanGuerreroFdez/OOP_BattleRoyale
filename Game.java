@@ -75,7 +75,6 @@ public class Game {
         } // end if condition
 
         System.out.printf("(%s lost %d%% of its health!)\n", receiver.toString(), damage * 100 / receiver.HP);
-        //Main.strbuild.append("(" + receiver.toString() + " lost " + damage * 100 / receiver.HP + "% of its health!)\n");
         strbuild.append("(" + receiver.toString() + " lost " + damage * 100 / receiver.HP + "% of its health!)\n");
         LogMethods.insertLog(attacker, receiver, type, critical, damage); // Invoke insertLog for damage
         
@@ -98,8 +97,6 @@ public class Game {
 
     public static int turn(Player p1, Player p2, boolean hard) {
         try {
-            //StringBuilder resultStringBuilder = new StringBuilder();
-
             System.out.println(p1.toString() + " vs. " + p2.toString());
             System.out.println("BATTLE BEGIN!");
             strbuild.append(p1.toString() + " vs. " + p2.toString() + "\nBATTLE BEGIN!\n");
@@ -110,7 +107,6 @@ public class Game {
 
             if(handleTurnOrder(p1, p2) == 1) { // p1 goes first
                 System.out.println(p1.toString() + " used " + p1.moveName + ".");
-                //Main.strbuild.append(p1.toString() + " used " + p1.moveName + ".\n");
                 strbuild.append(p1.toString() + " used " + p1.moveName + ".\n");
 
                 damage = damageCalculator(p1, p2, hard); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
@@ -125,7 +121,6 @@ public class Game {
                     return 1; // Returns 1 if first player wins
                 } else { // If not, 2nd player turn
                     System.out.println(p2.toString() + " used " + p2.moveName + ".");
-                    //Main.strbuild.append(p2.toString() + " used " + p2.moveName + ".\n");
                     strbuild.append(p2.toString() + " used " + p2.moveName + ".\n");
 
                     damage = damageCalculator(p2, p1, hard); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
@@ -150,14 +145,12 @@ public class Game {
                 
                 if(p1.currentHP < 0) { // If the character that recieved the damage has fainted
                     System.out.println(p1.toString() + " fainted!");
-                    //Main.strbuild.append(p1.toString() + " fainted!\n");
                     strbuild.append(p1.toString() + " fainted!\n");
                     LogMethods.insertLog(p1); // Invoke insertLog for faint
 
                     return 2; // Returns 2 if second player wins
                 } else { // If not, 2nd player turn
                     System.out.println(p1.character + " used " + p1.moveName + ".");
-                    //Main.strbuild.append(p1.character + " used " + p1.moveName + ".\n");
                     strbuild.append(p1.character + " used " + p1.moveName + ".\n");
 
                     damage = damageCalculator(p1, p2, hard); // Invokes damageCalculator and stores the result in damage (avoids multiple invocation)
@@ -165,7 +158,6 @@ public class Game {
 
                     if(p2.currentHP < 0) { // If the character that recieved the damage has fainted
                         System.out.println(p2.toString() + " fainted!");
-                        //Main.strbuild.append(p2.toString() + " fainted!\n");
                         strbuild.append(p2.toString() + " fainted!\n");
                         LogMethods.insertLog(p2); // Invoke insertLog for faint
 

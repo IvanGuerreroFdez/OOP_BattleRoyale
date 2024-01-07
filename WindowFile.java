@@ -3,8 +3,6 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.File;
 import java.util.ArrayList;
-import java.util.Date;
-import java.text.SimpleDateFormat;
 
 public class WindowFile extends JFrame {
     public int human, ai; // Number of players (need to be accessed from Main)
@@ -16,11 +14,11 @@ public class WindowFile extends JFrame {
 
     public Object getLock() {
         return lock;
-    }
+    } // end of getLock
 
     public boolean allCharactersSelected() {
         return allCharactersSelected;
-    }
+    } // end of allCharactersSelected
 
     public int getHuman() {
         return human;

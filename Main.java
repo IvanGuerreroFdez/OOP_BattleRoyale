@@ -97,36 +97,31 @@ public class Main {
                     if (result == 1) {
                         // Player 1 wins, mark player 2 for removal
                         playersToRemove.add(player2);
-                        //resultStringBuilder.append(Game.strbuild.toString());  // Agrega el resultado del enfrentamiento
                     } else if (result == 2) {
                         // Player 2 wins, mark player 1 for removal
                         playersToRemove.add(player1);
-                        //resultStringBuilder.append(Game.strbuild.toString());  // Agrega el resultado del enfrentamiento
-                    }
+                    } // end if, else if conditions
                 } else {
                     // Impar, el jugador pasa automáticamente a la siguiente ronda
                 } // end if else condition
-
-                //resultStringBuilder.append(Game.strbuild.toString());
             } // end while loop
             
-            // Eliminar jugadores marcados para la eliminación
+            // Deletes fainted players
             playerList.removeAll(playersToRemove);
             resultStringBuilder.append(Game.strbuild.toString());
             Game.strbuild.setLength(0);
         } // end of simulateBattleRoyale
     
-        // Queda un solo jugador, imprimir el ganador
+        // There is only one player --> winner
         if (!playerList.isEmpty()) {
-
             System.out.println("Winner: " + playerList.get(0).toString());
             resultStringBuilder.append("Winner: " + playerList.get(0).toString() + "\n");
             LogMethods.insertLog(playerList.get(0), 0); // Invoke insertLog for winner
-            //LogMethods.insertLog(playerList.get(0));
         } else {
             System.out.println("No winner. Error in simulation.");
             resultStringBuilder.append("No winner. Error in simulation.\n");
         } // end if else condition
+
         ventana.showResultWindow(resultStringBuilder.toString());
     } // end if simulateBattleRoyale
     
